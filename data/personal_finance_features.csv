@@ -1,0 +1,1501 @@
+date,description,category,amount,type,type_clean,month,year,bucket,day,dayofweek,is_weekend,amount_log,is_expense
+2020-01-02,Score each.,Food & Drink,1485.69,Expense,expense,2020-01,2020,kebutuhan_pokok,2,3,0,7.304307451290098,1
+2020-01-02,Quality throughout.,Utilities,1475.58,Expense,expense,2020-01,2020,kebutuhan_pokok,2,3,0,7.297483881903782,1
+2020-01-04,Instead ahead despite measure ago.,Rent,1185.08,Expense,expense,2020-01,2020,kebutuhan_pokok,4,5,1,7.07840903090841,1
+2020-01-05,Information last everything thank serve.,Investment,2291.0,Income,income,2020-01,2020,tabungan,5,6,1,7.73718007783463,0
+2020-01-13,Future choice whatever from.,Food & Drink,1126.88,Expense,expense,2020-01,2020,kebutuhan_pokok,13,0,0,7.02809504342021,1
+2020-01-14,Benefit suggest page southern.,Shopping,448.68,Expense,expense,2020-01,2020,kebutuhan_sekunder,14,1,0,6.1085362186938195,1
+2020-01-18,By two bad fall pick.,Food & Drink,1520.03,Expense,expense,2020-01,2020,kebutuhan_pokok,18,5,1,7.327143015930657,1
+2020-01-19,Court attorney product significant world.,Other,3287.0,Income,income,2020-01,2020,lainnya,19,6,1,8.098034756176071,0
+2020-01-21,Herself law.,Entertainment,1914.85,Expense,expense,2020-01,2020,kebutuhan_sekunder,21,1,0,7.557916667365924,1
+2020-01-25,Have decide environment.,Rent,766.06,Expense,expense,2020-01,2020,kebutuhan_pokok,25,5,1,6.642565025165583,1
+2020-01-25,Play move each left establish.,Health & Fitness,1211.41,Expense,expense,2020-01,2020,lainnya,25,5,1,7.100365393252569,1
+2020-01-26,Range successful simply.,Salary,1077.09,Expense,expense,2020-01,2020,income,26,6,1,6.982946235924649,1
+2020-01-29,Source husband.,Shopping,166.81,Expense,expense,2020-01,2020,kebutuhan_sekunder,29,2,0,5.12283238701307,1
+2020-01-30,Tree note responsibility.,Health & Fitness,1158.93,Expense,expense,2020-01,2020,lainnya,30,3,0,7.056114937452002,1
+2020-01-31,How trip learn enter.,Food & Drink,1325.91,Expense,expense,2020-01,2020,kebutuhan_pokok,31,4,0,7.1906082098769435,1
+2020-01-31,Much section investment on gun.,Rent,1712.08,Expense,expense,2020-01,2020,kebutuhan_pokok,31,4,0,7.446048198926566,1
+2020-01-31,Management sense technology check civil.,Shopping,563.17,Expense,expense,2020-01,2020,kebutuhan_sekunder,31,4,0,6.335355624520363,1
+2020-02-02,As high you more wife.,Health & Fitness,333.68,Expense,expense,2020-02,2020,lainnya,2,6,1,5.813174851427398,1
+2020-02-04,Race mr.,Travel,1406.62,Expense,expense,2020-02,2020,kebutuhan_sekunder,4,1,0,7.249655613928472,1
+2020-02-05,Born itself law west.,Rent,1222.17,Expense,expense,2020-02,2020,kebutuhan_pokok,5,2,0,7.109201128480211,1
+2020-02-05,Seven medical blood personal.,Investment,1838.0,Income,income,2020-02,2020,tabungan,5,2,0,7.516977224604321,0
+2020-02-07,Current hear claim well two.,Travel,1979.15,Expense,expense,2020-02,2020,kebutuhan_sekunder,7,4,0,7.590927878394878,1
+2020-02-07,Food affect upon these story.,Entertainment,1372.38,Expense,expense,2020-02,2020,kebutuhan_sekunder,7,4,0,7.22503013368066,1
+2020-02-08,Around there water.,Food & Drink,465.81,Expense,expense,2020-02,2020,kebutuhan_pokok,8,5,1,6.145922322633671,1
+2020-02-08,Staff within mouth call.,Other,3786.0,Income,income,2020-02,2020,lainnya,8,5,1,8.239329427901795,0
+2020-02-09,Close month parent who up.,Entertainment,1827.14,Expense,expense,2020-02,2020,kebutuhan_sekunder,9,6,1,7.511054335514765,1
+2020-02-11,Human public health.,Health & Fitness,433.13,Expense,expense,2020-02,2020,lainnya,11,1,0,6.073344028418011,1
+2020-02-13,Building different full open.,Salary,294.31,Expense,expense,2020-02,2020,income,13,3,0,5.688025652043763,1
+2020-02-15,Detail audience piece director town.,Other,4009.0,Income,income,2020-02,2020,lainnya,15,5,1,8.296546520300614,0
+2020-02-16,Method everything.,Shopping,730.37,Expense,expense,2020-02,2020,kebutuhan_sekunder,16,6,1,6.594919487646816,1
+2020-02-16,Much rich think.,Utilities,1023.96,Expense,expense,2020-02,2020,kebutuhan_pokok,16,6,1,6.9324088664207935,1
+2020-02-18,Drug list imagine behind.,Investment,1398.0,Income,income,2020-02,2020,tabungan,18,1,0,7.243512974665482,0
+2020-02-19,Interest level rock pull.,Investment,3958.0,Income,income,2020-02,2020,tabungan,19,2,0,8.28374674710613,0
+2020-02-20,I fund.,Shopping,769.42,Expense,expense,2020-02,2020,kebutuhan_sekunder,20,3,0,6.646935820686926,1
+2020-02-26,Court movie cell.,Travel,1942.45,Expense,expense,2020-02,2020,kebutuhan_sekunder,26,2,0,7.572220023179759,1
+2020-02-27,Leg themselves away.,Food & Drink,1363.76,Expense,expense,2020-02,2020,kebutuhan_pokok,27,3,0,7.218733867984353,1
+2020-02-28,Anything yourself.,Other,3286.0,Income,income,2020-02,2020,lainnya,28,4,0,8.097730573664219,0
+2020-02-28,Unit support.,Other,1795.0,Income,income,2020-02,2020,lainnya,28,4,0,7.493317248862145,0
+2020-02-29,Magazine degree husband around.,Travel,1944.06,Expense,expense,2020-02,2020,kebutuhan_sekunder,29,5,1,7.573048103905796,1
+2020-03-03,World enter.,Rent,1742.33,Expense,expense,2020-03,2020,kebutuhan_pokok,3,1,0,7.463552356343142,1
+2020-03-04,Institution whatever yet.,Entertainment,314.15,Expense,expense,2020-03,2020,kebutuhan_sekunder,4,2,0,5.753048715959119,1
+2020-03-04,Choice father why often.,Food & Drink,1201.9,Expense,expense,2020-03,2020,kebutuhan_pokok,4,2,0,7.092490587000027,1
+2020-03-09,Security arm.,Rent,1858.91,Expense,expense,2020-03,2020,kebutuhan_pokok,9,0,0,7.528283378439779,1
+2020-03-09,Me system church whether.,Travel,486.51,Expense,expense,2020-03,2020,kebutuhan_sekunder,9,0,0,6.18931080304803,1
+2020-03-11,Attention attack technology.,Rent,180.45,Expense,expense,2020-03,2020,kebutuhan_pokok,11,2,0,5.20098013365908,1
+2020-03-11,Walk now often.,Rent,1956.19,Expense,expense,2020-03,2020,kebutuhan_pokok,11,2,0,7.579265050062043,1
+2020-03-12,Bank price north first end.,Utilities,265.5,Expense,expense,2020-03,2020,kebutuhan_pokok,12,3,0,5.585374243605899,1
+2020-03-12,Enter capital population.,Utilities,537.46,Expense,expense,2020-03,2020,kebutuhan_pokok,12,3,0,6.2887132134289745,1
+2020-03-14,Upon very act perform.,Shopping,1929.08,Expense,expense,2020-03,2020,kebutuhan_sekunder,14,5,1,7.565316731817074,1
+2020-03-15,Available defense.,Entertainment,1428.77,Expense,expense,2020-03,2020,kebutuhan_sekunder,15,6,1,7.265268871157109,1
+2020-03-18,Value thing these.,Health & Fitness,881.82,Expense,expense,2020-03,2020,lainnya,18,2,0,6.783121329313994,1
+2020-03-21,Citizen street region.,Rent,503.33,Expense,expense,2020-03,2020,kebutuhan_pokok,21,5,1,6.223230815713077,1
+2020-03-23,Property never.,Investment,2385.0,Income,income,2020-03,2020,tabungan,23,0,0,7.777373602657861,0
+2020-03-23,Enough threat score.,Food & Drink,151.28,Expense,expense,2020-03,2020,kebutuhan_pokok,23,0,0,5.0257209315142966,1
+2020-03-24,Example decision garden.,Entertainment,144.13,Expense,expense,2020-03,2020,kebutuhan_sekunder,24,1,0,4.9776298924822715,1
+2020-03-28,Major town suffer begin.,Other,1080.0,Income,income,2020-03,2020,lainnya,28,5,1,6.985641817639208,0
+2020-04-01,Analysis four capital.,Travel,1341.27,Expense,expense,2020-04,2020,kebutuhan_sekunder,1,2,0,7.202117489545553,1
+2020-04-05,Scientist necessary into.,Utilities,1449.47,Expense,expense,2020-04,2020,kebutuhan_pokok,5,6,1,7.279642920824305,1
+2020-04-06,Away third.,Salary,493.56,Expense,expense,2020-04,2020,income,6,0,0,6.203668478383806,1
+2020-04-06,Along hard need involve among.,Shopping,388.92,Expense,expense,2020-04,2020,kebutuhan_sekunder,6,0,0,5.965941589876897,1
+2020-04-10,Together decide.,Other,3402.0,Income,income,2020-04,2020,lainnya,10,4,0,8.132412674500905,0
+2020-04-17,Government nice.,Salary,1729.04,Expense,expense,2020-04,2020,income,17,4,0,7.455899808611813,1
+2020-04-17,See understand door class son.,Investment,996.0,Income,income,2020-04,2020,tabungan,17,4,0,6.904750769961838,0
+2020-04-18,Agent say forward us.,Health & Fitness,1603.18,Expense,expense,2020-04,2020,lainnya,18,5,1,7.3803680015817,1
+2020-04-22,City red him.,Investment,2058.0,Income,income,2020-04,2020,tabungan,22,2,0,7.629975707027789,0
+2020-04-23,Develop staff least figure.,Utilities,849.54,Expense,expense,2020-04,2020,kebutuhan_pokok,23,3,0,6.745871441888128,1
+2020-04-25,Age cover foreign.,Entertainment,1750.23,Expense,expense,2020-04,2020,kebutuhan_sekunder,25,5,1,7.468073677172013,1
+2020-04-26,Go meeting quickly.,Investment,914.0,Income,income,2020-04,2020,tabungan,26,6,1,6.818924065275521,0
+2020-04-26,Voice boy wife condition.,Food & Drink,1938.3,Expense,expense,2020-04,2020,kebutuhan_pokok,26,6,1,7.570082362202195,1
+2020-04-27,Board its.,Entertainment,340.96,Expense,expense,2020-04,2020,kebutuhan_sekunder,27,0,0,5.834693771158033,1
+2020-04-27,Paper memory history office.,Entertainment,1730.65,Expense,expense,2020-04,2020,kebutuhan_sekunder,27,0,0,7.456829990179825,1
+2020-04-29,Remember ability.,Utilities,764.16,Expense,expense,2020-04,2020,kebutuhan_pokok,29,2,0,6.640084962284453,1
+2020-04-30,Hair attorney professional.,Travel,1853.77,Expense,expense,2020-04,2020,kebutuhan_sekunder,30,3,0,7.525515978135908,1
+2020-05-01,Finish summer rest feel finally.,Travel,851.78,Expense,expense,2020-05,2020,kebutuhan_sekunder,1,4,0,6.748501600978975,1
+2020-05-03,I fast camera inside.,Salary,318.05,Expense,expense,2020-05,2020,income,3,6,1,5.765347830314356,1
+2020-05-03,Past feeling nature.,Food & Drink,1162.57,Expense,expense,2020-05,2020,kebutuhan_pokok,3,6,1,7.059248144232995,1
+2020-05-05,Expert involve oil.,Health & Fitness,123.76,Expense,expense,2020-05,2020,lainnya,5,1,0,4.826391891739602,1
+2020-05-06,Kid put memory soldier.,Utilities,123.19,Expense,expense,2020-05,2020,kebutuhan_pokok,6,2,0,4.8218126509599415,1
+2020-05-06,Exist professional.,Utilities,146.36,Expense,expense,2020-05,2020,kebutuhan_pokok,6,2,0,4.992878572506997,1
+2020-05-07,Stand seem.,Investment,3807.0,Income,income,2020-05,2020,tabungan,7,3,0,8.244859395911256,0
+2020-05-11,Southern challenge animal.,Investment,825.0,Income,income,2020-05,2020,tabungan,11,0,0,6.716594773520978,0
+2020-05-12,Sure authority increase picture create.,Shopping,1318.17,Expense,expense,2020-05,2020,kebutuhan_sekunder,12,1,0,7.184758029931623,1
+2020-05-13,Hundred challenge reach throughout.,Health & Fitness,1870.07,Expense,expense,2020-05,2020,lainnya,13,2,0,7.534265738722285,1
+2020-05-14,Despite sound receive let.,Health & Fitness,484.99,Expense,expense,2020-05,2020,lainnya,14,3,0,6.186188047557115,1
+2020-05-15,True building card.,Travel,919.88,Expense,expense,2020-05,2020,kebutuhan_sekunder,15,4,0,6.8253297346068065,1
+2020-05-16,Write other wear through partner.,Rent,28.54,Expense,expense,2020-05,2020,kebutuhan_pokok,16,5,1,3.3857452771032337,1
+2020-05-17,Store natural today season.,Rent,155.79,Expense,expense,2020-05,2020,kebutuhan_pokok,17,6,1,5.054907330372359,1
+2020-05-19,Else easy point she.,Travel,273.59,Expense,expense,2020-05,2020,kebutuhan_sekunder,19,1,0,5.615279076064797,1
+2020-05-20,Phone ever back experience.,Rent,1759.75,Expense,expense,2020-05,2020,kebutuhan_pokok,20,2,0,7.473495133625519,1
+2020-05-21,Floor music catch discuss.,Utilities,881.99,Expense,expense,2020-05,2020,kebutuhan_pokok,21,3,0,6.783313875511519,1
+2020-05-25,Ask imagine my.,Travel,1227.24,Expense,expense,2020-05,2020,kebutuhan_sekunder,25,0,0,7.113337529350644,1
+2020-05-27,Deal information.,Food & Drink,1339.05,Expense,expense,2020-05,2020,kebutuhan_pokok,27,2,0,7.200462205681664,1
+2020-05-28,Task she.,Rent,1878.47,Expense,expense,2020-05,2020,kebutuhan_pokok,28,3,0,7.5387451011849045,1
+2020-05-29,Accept goal send table.,Investment,1376.0,Income,income,2020-05,2020,tabungan,29,4,0,7.227662498728655,0
+2020-05-30,Section national owner determine detail.,Utilities,551.97,Expense,expense,2020-05,2020,kebutuhan_pokok,30,5,1,6.315303750502855,1
+2020-05-31,Ahead from quickly identify.,Health & Fitness,415.16,Expense,expense,2020-05,2020,lainnya,31,6,1,6.031069801700341,1
+2020-05-31,Try wonder move trade.,Travel,1015.76,Expense,expense,2020-05,2020,kebutuhan_sekunder,31,6,1,6.924376379998373,1
+2020-06-01,Base investment.,Food & Drink,193.67,Expense,expense,2020-06,2020,kebutuhan_pokok,1,0,0,5.271305817301187,1
+2020-06-02,Anyone here deep.,Travel,97.73,Expense,expense,2020-06,2020,kebutuhan_sekunder,2,1,0,4.592388851623358,1
+2020-06-05,Seven here sell story.,Utilities,1277.86,Expense,expense,2020-06,2020,kebutuhan_pokok,5,4,0,7.153724335071575,1
+2020-06-06,Like see.,Salary,1107.84,Expense,expense,2020-06,2020,income,6,5,1,7.011069702821025,1
+2020-06-07,Difference attention whatever american.,Food & Drink,232.63,Expense,expense,2020-06,2020,kebutuhan_pokok,7,6,1,5.453738667365866,1
+2020-06-08,Current after charge.,Utilities,1095.72,Expense,expense,2020-06,2020,kebutuhan_pokok,8,0,0,7.000079186127645,1
+2020-06-09,Prove nor design record.,Utilities,865.28,Expense,expense,2020-06,2020,kebutuhan_pokok,9,1,0,6.76420818193907,1
+2020-06-09,Paper white responsibility.,Other,826.0,Income,income,2020-06,2020,lainnya,9,1,0,6.717804695023691,0
+2020-06-10,Blue agent find.,Entertainment,1367.31,Expense,expense,2020-06,2020,kebutuhan_sekunder,10,2,0,7.221331680697873,1
+2020-06-10,Walk cup option store.,Health & Fitness,1562.43,Expense,expense,2020-06,2020,lainnya,10,2,0,7.354637404549291,1
+2020-06-11,Recent feeling.,Shopping,1947.94,Expense,expense,2020-06,2020,kebutuhan_sekunder,11,3,0,7.575040914015735,1
+2020-06-11,Site girl into have media.,Entertainment,1730.57,Expense,expense,2020-06,2020,kebutuhan_sekunder,11,3,0,7.45678379040042,1
+2020-06-12,Support state.,Utilities,1764.02,Expense,expense,2020-06,2020,kebutuhan_pokok,12,4,0,7.475917300747956,1
+2020-06-14,Whether player stock religious.,Other,3872.0,Income,income,2020-06,2020,lainnya,14,6,1,8.261784679514752,0
+2020-06-15,Safe whole establish.,Entertainment,540.94,Expense,expense,2020-06,2020,kebutuhan_sekunder,15,0,0,6.2951552942048155,1
+2020-06-18,Let stay or focus.,Rent,771.26,Expense,expense,2020-06,2020,kebutuhan_pokok,18,3,0,6.649321280889342,1
+2020-06-18,Everything late.,Other,2322.0,Income,income,2020-06,2020,lainnya,18,3,0,7.750614732770409,0
+2020-06-18,Particular her agreement surface consider.,Other,3364.0,Income,income,2020-06,2020,lainnya,18,3,0,8.121183242078828,0
+2020-06-19,Something future they red.,Entertainment,453.62,Expense,expense,2020-06,2020,kebutuhan_sekunder,19,4,0,6.119461905171337,1
+2020-06-19,Act way beat result major.,Shopping,663.24,Expense,expense,2020-06,2020,kebutuhan_sekunder,19,4,0,6.4986435299537755,1
+2020-06-21,Position make society behavior.,Travel,708.78,Expense,expense,2020-06,2020,kebutuhan_sekunder,21,6,1,6.564955062864165,1
+2020-06-21,Reality fill ok list.,Health & Fitness,1879.08,Expense,expense,2020-06,2020,lainnya,21,6,1,7.539069608110123,1
+2020-06-22,International second former reflect.,Other,1962.0,Income,income,2020-06,2020,lainnya,22,0,0,7.5822291942764615,0
+2020-06-22,Edge building court.,Travel,86.13,Expense,expense,2020-06,2020,kebutuhan_sekunder,22,0,0,4.467401256243195,1
+2020-06-24,Week real course school everybody.,Health & Fitness,1459.8,Expense,expense,2020-06,2020,lainnya,24,2,0,7.286739509840704,1
+2020-06-30,Executive beyond create dinner conference.,Rent,776.54,Expense,expense,2020-06,2020,kebutuhan_pokok,30,1,0,6.656135089675378,1
+2020-06-30,Call animal approach factor want.,Travel,98.33,Expense,expense,2020-06,2020,kebutuhan_sekunder,30,1,0,4.598447640227264,1
+2020-07-02,Their off.,Entertainment,734.8,Expense,expense,2020-07,2020,kebutuhan_sekunder,2,3,0,6.600958342670674,1
+2020-07-03,Key continue anything wait.,Other,3071.0,Income,income,2020-07,2020,lainnya,3,4,0,8.030084094267563,0
+2020-07-04,State husband.,Rent,1442.31,Expense,expense,2020-07,2020,kebutuhan_pokok,4,5,1,7.274694365915995,1
+2020-07-05,Picture approach chance none fight.,Travel,1337.12,Expense,expense,2020-07,2020,kebutuhan_sekunder,5,6,1,7.19902092276527,1
+2020-07-06,Newspaper indicate other.,Travel,1113.28,Expense,expense,2020-07,2020,kebutuhan_sekunder,6,0,0,7.0159637354040925,1
+2020-07-06,Herself training father open investment.,Other,1925.0,Income,income,2020-07,2020,lainnya,6,0,0,7.563200592358071,0
+2020-07-08,Art whether between several personal.,Travel,818.09,Expense,expense,2020-07,2020,kebutuhan_sekunder,8,2,0,6.708193967925483,1
+2020-07-11,Church community.,Travel,580.96,Expense,expense,2020-07,2020,kebutuhan_sekunder,11,5,1,6.366401716847188,1
+2020-07-12,Able late order.,Health & Fitness,935.33,Expense,expense,2020-07,2020,lainnya,12,6,1,6.841967978444037,1
+2020-07-12,Discuss religious.,Entertainment,1027.24,Expense,expense,2020-07,2020,kebutuhan_sekunder,12,6,1,6.935603881801876,1
+2020-07-13,Reach under.,Utilities,1321.11,Expense,expense,2020-07,2020,kebutuhan_pokok,13,0,0,7.186984224211824,1
+2020-07-17,Boy different chance enter.,Health & Fitness,195.84,Expense,expense,2020-07,2020,lainnya,17,4,0,5.2823912159977775,1
+2020-07-20,Arrive society.,Entertainment,1348.86,Expense,expense,2020-07,2020,kebutuhan_sekunder,20,0,0,7.207756162351171,1
+2020-07-21,Keep light fight.,Entertainment,303.23,Expense,expense,2020-07,2020,kebutuhan_sekunder,21,1,0,5.717783994292015,1
+2020-07-21,Matter management ball.,Other,1096.0,Income,income,2020-07,2020,lainnya,21,1,0,7.00033446027523,0
+2020-07-22,Same page ago director.,Entertainment,1439.51,Expense,expense,2020-07,2020,kebutuhan_sekunder,22,2,0,7.272752496534503,1
+2020-07-22,Week yourself public especially american.,Shopping,495.53,Expense,expense,2020-07,2020,kebutuhan_sekunder,22,2,0,6.207643904620559,1
+2020-07-22,Million kind everything young.,Food & Drink,1786.39,Expense,expense,2020-07,2020,kebutuhan_pokok,22,2,0,7.488511734213056,1
+2020-07-23,Why like impact fly.,Rent,1559.06,Expense,expense,2020-07,2020,kebutuhan_pokok,23,3,0,7.3524795610424185,1
+2020-07-24,Form really explain.,Salary,109.93,Expense,expense,2020-07,2020,income,24,4,0,4.708899371750569,1
+2020-07-28,Already because education break significant.,Rent,918.36,Expense,expense,2020-07,2020,kebutuhan_pokok,28,1,0,6.823677775790925,1
+2020-07-28,Price my.,Health & Fitness,1900.58,Expense,expense,2020-07,2020,lainnya,28,1,0,7.550440398531693,1
+2020-07-29,Could gun.,Shopping,1662.83,Expense,expense,2020-07,2020,kebutuhan_sekunder,29,2,0,7.416877452700573,1
+2020-07-30,Kind appear environment capital explain.,Utilities,1489.87,Expense,expense,2020-07,2020,kebutuhan_pokok,30,3,0,7.307115121157986,1
+2020-07-31,Ahead picture son.,Travel,1506.04,Expense,expense,2020-07,2020,kebutuhan_sekunder,31,4,0,7.317902741074507,1
+2020-08-01,Nearly need behavior.,Travel,1533.97,Expense,expense,2020-08,2020,kebutuhan_sekunder,1,5,1,7.33626611585637,1
+2020-08-01,Water positive child usually.,Entertainment,556.45,Expense,expense,2020-08,2020,kebutuhan_sekunder,1,5,1,6.323372813213581,1
+2020-08-01,Relate indeed lot line lead.,Other,2420.0,Income,income,2020-08,2020,lainnya,1,5,1,7.791935956938058,0
+2020-08-02,Course out second carry.,Health & Fitness,1787.12,Expense,expense,2020-08,2020,lainnya,2,6,1,7.488920067575369,1
+2020-08-03,Significant take future.,Investment,2394.0,Income,income,2020-08,2020,tabungan,3,0,0,7.781138509845015,0
+2020-08-04,Star executive fear.,Utilities,1415.77,Expense,expense,2020-08,2020,kebutuhan_pokok,4,1,0,7.256134911766745,1
+2020-08-04,Your majority chance mrs generation.,Other,3210.0,Income,income,2020-08,2020,lainnya,4,1,0,8.074337694089515,0
+2020-08-04,Help usually thank wonder draw.,Shopping,133.91,Expense,expense,2020-08,2020,kebutuhan_sekunder,4,1,0,4.904607889450726,1
+2020-08-05,Task improve fish.,Shopping,1810.63,Expense,expense,2020-08,2020,kebutuhan_sekunder,5,2,0,7.501982271491952,1
+2020-08-05,History professional star wonder.,Food & Drink,1714.9,Expense,expense,2020-08,2020,kebutuhan_pokok,5,2,0,7.447693003291575,1
+2020-08-06,Call whole.,Shopping,959.19,Expense,expense,2020-08,2020,kebutuhan_sekunder,6,3,0,6.867131181545629,1
+2020-08-08,Them key.,Travel,1509.42,Expense,expense,2020-08,2020,kebutuhan_sekunder,8,5,1,7.320143036828992,1
+2020-08-08,Address century that wide.,Shopping,1081.06,Expense,expense,2020-08,2020,kebutuhan_sekunder,8,5,1,6.986621910734038,1
+2020-08-09,Sit enter perhaps however.,Entertainment,981.58,Expense,expense,2020-08,2020,kebutuhan_sekunder,9,6,1,6.890181765364973,1
+2020-08-13,System teacher here first.,Salary,67.76,Expense,expense,2020-08,2020,income,13,3,0,4.230622180514649,1
+2020-08-14,Along attention piece tv young.,Shopping,1451.12,Expense,expense,2020-08,2020,kebutuhan_sekunder,14,4,0,7.2807798365979615,1
+2020-08-16,Within set region beyond.,Utilities,1961.64,Expense,expense,2020-08,2020,kebutuhan_pokok,16,6,1,7.582045784691777,1
+2020-08-17,Tough animal someone.,Shopping,1187.87,Expense,expense,2020-08,2020,kebutuhan_sekunder,17,0,0,7.0807585551370975,1
+2020-08-18,Hear certainly most not.,Rent,1289.07,Expense,expense,2020-08,2020,kebutuhan_pokok,18,1,0,7.162451759449395,1
+2020-08-19,Company participant him.,Other,1988.0,Income,income,2020-08,2020,lainnya,19,2,0,7.5953872788539725,0
+2020-08-20,Tree central leave effect.,Other,3181.0,Income,income,2020-08,2020,lainnya,20,3,0,8.065265208897733,0
+2020-08-21,Together let.,Health & Fitness,681.63,Expense,expense,2020-08,2020,lainnya,21,4,0,6.525952985111305,1
+2020-08-21,Citizen kid generation onto police.,Travel,1506.5,Expense,expense,2020-08,2020,kebutuhan_sekunder,21,4,0,7.318207928601341,1
+2020-08-22,Lead few yourself.,Travel,1671.47,Expense,expense,2020-08,2020,kebutuhan_sekunder,22,5,1,7.422056854621779,1
+2020-08-22,Down occur.,Food & Drink,1999.82,Expense,expense,2020-08,2020,kebutuhan_pokok,22,5,1,7.601312375515049,1
+2020-08-26,Yeah far within.,Rent,1564.65,Expense,expense,2020-08,2020,kebutuhan_pokok,26,2,0,7.356056352209614,1
+2020-08-27,Account ten sing.,Food & Drink,1899.73,Expense,expense,2020-08,2020,kebutuhan_pokok,27,3,0,7.549993301890884,1
+2020-08-27,Seat strategy total simply discover.,Investment,1748.0,Income,income,2020-08,2020,tabungan,27,3,0,7.466799475018602,0
+2020-08-29,Pm per question.,Salary,1342.22,Expense,expense,2020-08,2020,income,29,5,1,7.202824995467845,1
+2020-08-30,Best physical always small almost.,Entertainment,935.42,Expense,expense,2020-08,2020,kebutuhan_sekunder,30,6,1,6.8420640937825175,1
+2020-08-31,Bed far section.,Health & Fitness,343.9,Expense,expense,2020-08,2020,lainnya,31,0,0,5.843254519942795,1
+2020-09-01,Car much will.,Rent,1557.81,Expense,expense,2020-09,2020,kebutuhan_pokok,1,1,0,7.351677988635149,1
+2020-09-05,Tree store either station.,Other,1385.0,Income,income,2020-09,2020,lainnya,5,5,1,7.234177179749849,0
+2020-09-05,Second full boy.,Travel,1155.84,Expense,expense,2020-09,2020,kebutuhan_sekunder,5,5,1,7.053447428953302,1
+2020-09-06,Senior difficult put.,Shopping,799.34,Expense,expense,2020-09,2020,kebutuhan_sekunder,6,6,1,6.685036637381008,1
+2020-09-07,Hand so add mr lawyer.,Rent,1188.27,Expense,expense,2020-09,2020,kebutuhan_pokok,7,0,0,7.081094952492823,1
+2020-09-08,Herself police he push likely.,Entertainment,212.78,Expense,expense,2020-09,2020,kebutuhan_sekunder,8,1,0,5.3649474488457995,1
+2020-09-11,Trip determine as statement.,Rent,1594.49,Expense,expense,2020-09,2020,kebutuhan_pokok,11,4,0,7.3749361780709535,1
+2020-09-11,Bring animal also you.,Food & Drink,700.94,Expense,expense,2020-09,2020,kebutuhan_pokok,11,4,0,6.553847930287565,1
+2020-09-11,Doctor mr.,Health & Fitness,147.22,Expense,expense,2020-09,2020,lainnya,11,4,0,4.998697656523213,1
+2020-09-16,He we recent music.,Food & Drink,1700.66,Expense,expense,2020-09,2020,kebutuhan_pokok,16,2,0,7.439359524195264,1
+2020-09-17,Those pressure street.,Rent,872.71,Expense,expense,2020-09,2020,kebutuhan_pokok,17,3,0,6.772748512814833,1
+2020-09-17,Allow have kitchen.,Salary,1417.54,Expense,expense,2020-09,2020,income,17,3,0,7.257383452652878,1
+2020-09-18,Between rate name within.,Travel,1235.67,Expense,expense,2020-09,2020,kebutuhan_sekunder,18,4,0,7.1201775623475285,1
+2020-09-18,Huge couple.,Salary,935.1,Expense,expense,2020-09,2020,income,18,4,0,6.841722308377699,1
+2020-09-22,Begin deep police wife.,Travel,651.39,Expense,expense,2020-09,2020,kebutuhan_sekunder,22,1,0,6.480642542609764,1
+2020-09-22,During call north attention.,Rent,565.07,Expense,expense,2020-09,2020,kebutuhan_pokok,22,1,0,6.338717745467733,1
+2020-09-22,Only spend do.,Salary,1144.0,Expense,expense,2020-09,2020,income,22,1,0,7.0431599159883405,1
+2020-09-23,Able teach certain candidate economy.,Health & Fitness,67.11,Expense,expense,2020-09,2020,lainnya,23,2,0,4.221124045253227,1
+2020-09-23,Produce ago.,Utilities,980.22,Expense,expense,2020-09,2020,kebutuhan_pokok,23,2,0,6.888796695380839,1
+2020-09-25,So draw food company.,Travel,687.27,Expense,expense,2020-09,2020,kebutuhan_sekunder,25,4,0,6.534181202808643,1
+2020-09-27,Score moment second.,Travel,1116.02,Expense,expense,2020-09,2020,kebutuhan_sekunder,27,6,1,7.018419704011861,1
+2020-09-27,Sing message board mean.,Entertainment,180.37,Expense,expense,2020-09,2020,kebutuhan_sekunder,27,6,1,5.200539143629332,1
+2020-09-27,Feeling poor all your suggest.,Salary,1114.8,Expense,expense,2020-09,2020,income,27,6,1,7.017326915411428,1
+2020-09-29,Make travel.,Salary,1295.35,Expense,expense,2020-09,2020,income,29,1,0,7.167307902180511,1
+2020-09-30,Focus chance.,Food & Drink,195.18,Expense,expense,2020-09,2020,kebutuhan_pokok,30,2,0,5.27903260513617,1
+2020-10-01,Person one republican.,Entertainment,619.35,Expense,expense,2020-10,2020,kebutuhan_sekunder,1,3,0,6.430283834888881,1
+2020-10-03,Most law painting between reduce.,Salary,1111.41,Expense,expense,2020-10,2020,income,3,5,1,7.0142841118915005,1
+2020-10-04,Involve thousand including.,Health & Fitness,710.1,Expense,expense,2020-10,2020,lainnya,4,6,1,6.566813066889472,1
+2020-10-07,Indeed believe interview professor.,Travel,510.29,Expense,expense,2020-10,2020,kebutuhan_sekunder,7,2,0,6.236936943905255,1
+2020-10-07,Rather listen before.,Investment,3084.0,Income,income,2020-10,2020,tabungan,7,2,0,8.034306936339489,0
+2020-10-07,It season.,Investment,2069.0,Income,income,2020-10,2020,tabungan,7,2,0,7.635303886259415,0
+2020-10-08,News only no.,Salary,560.23,Expense,expense,2020-10,2020,income,8,3,0,6.3301308036776565,1
+2020-10-08,Improve them wait.,Travel,1961.22,Expense,expense,2020-10,2020,kebutuhan_sekunder,8,3,0,7.581831764318259,1
+2020-10-10,Why outside.,Travel,462.69,Expense,expense,2020-10,2020,kebutuhan_sekunder,10,5,1,6.139216225497416,1
+2020-10-10,Official defense.,Investment,4875.0,Income,income,2020-10,2020,tabungan,10,5,1,8.492080490601163,0
+2020-10-10,Suggest glass news.,Investment,946.0,Income,income,2020-10,2020,tabungan,10,5,1,6.853299093186078,0
+2020-10-12,Off southern suddenly.,Utilities,1279.36,Expense,expense,2020-10,2020,kebutuhan_pokok,12,0,0,7.154896567370296,1
+2020-10-14,Participant price.,Rent,1746.71,Expense,expense,2020-10,2020,kebutuhan_pokok,14,2,0,7.466061638561748,1
+2020-10-15,Congress reflect.,Salary,962.64,Expense,expense,2020-10,2020,income,15,3,0,6.870717780879573,1
+2020-10-16,Go consider century price.,Food & Drink,512.43,Expense,expense,2020-10,2020,kebutuhan_pokok,16,4,0,6.241113700699456,1
+2020-10-16,Scientist will begin.,Rent,1646.01,Expense,expense,2020-10,2020,kebutuhan_pokok,16,4,0,7.406716801804624,1
+2020-10-16,Heavy law church.,Rent,1158.27,Expense,expense,2020-10,2020,kebutuhan_pokok,16,4,0,7.055545775656713,1
+2020-10-18,Since nothing be apply.,Utilities,306.9,Expense,expense,2020-10,2020,kebutuhan_pokok,18,6,1,5.729775054930455,1
+2020-10-19,Anyone bank kitchen interest parent.,Travel,179.51,Expense,expense,2020-10,2020,kebutuhan_sekunder,19,0,0,5.19578617790037,1
+2020-10-23,Democratic mention generation.,Shopping,1216.57,Expense,expense,2020-10,2020,kebutuhan_sekunder,23,4,0,7.104612348170508,1
+2020-10-24,Question or money.,Entertainment,1553.63,Expense,expense,2020-10,2020,kebutuhan_sekunder,24,5,1,7.34899285417843,1
+2020-10-26,Determine worker.,Salary,601.73,Expense,expense,2020-10,2020,income,26,0,0,6.401469335258178,1
+2020-10-27,Daughter war.,Shopping,617.71,Expense,expense,2020-10,2020,kebutuhan_sekunder,27,1,0,6.427636665328581,1
+2020-10-27,Face build market.,Rent,1895.7,Expense,expense,2020-10,2020,kebutuhan_pokok,27,1,0,7.5478708129902765,1
+2020-10-27,Can mouth discover.,Entertainment,536.65,Expense,expense,2020-10,2020,kebutuhan_sekunder,27,1,0,6.287207790836535,1
+2020-10-28,Author technology amount affect.,Investment,1923.0,Income,income,2020-10,2020,tabungan,28,2,0,7.562161631225652,0
+2020-10-29,Office of remember individual.,Utilities,15.32,Expense,expense,2020-10,2020,kebutuhan_pokok,29,3,0,2.792391349535961,1
+2020-10-30,Again foot soon peace.,Salary,589.61,Expense,expense,2020-10,2020,income,30,4,0,6.381155901100105,1
+2020-10-31,Join black.,Travel,1408.95,Expense,expense,2020-10,2020,kebutuhan_sekunder,31,5,1,7.25130952175055,1
+2020-11-01,Hundred bad that second develop.,Entertainment,1848.58,Expense,expense,2020-11,2020,kebutuhan_sekunder,1,6,1,7.5227138652708065,1
+2020-11-01,Member box.,Entertainment,856.03,Expense,expense,2020-11,2020,kebutuhan_sekunder,1,6,1,6.753472923819396,1
+2020-11-02,Town glass road.,Utilities,1817.74,Expense,expense,2020-11,2020,kebutuhan_pokok,2,0,0,7.5058992326229,1
+2020-11-04,Bill eight community.,Rent,128.68,Expense,expense,2020-11,2020,kebutuhan_pokok,4,2,0,4.865069877427421,1
+2020-11-06,Concern significant.,Travel,883.92,Expense,expense,2020-11,2020,kebutuhan_sekunder,6,4,0,6.7854972454417855,1
+2020-11-07,Senior service large under.,Travel,1402.47,Expense,expense,2020-11,2020,kebutuhan_sekunder,7,5,1,7.246703020439891,1
+2020-11-09,Follow wife firm key light.,Salary,881.14,Expense,expense,2020-11,2020,income,9,0,0,6.782350773569223,1
+2020-11-10,Option goal avoid.,Shopping,1471.72,Expense,expense,2020-11,2020,kebutuhan_sekunder,10,1,0,7.294866310138307,1
+2020-11-10,Also hard expert popular.,Food & Drink,191.74,Expense,expense,2020-11,2020,kebutuhan_pokok,10,1,0,5.261342130423142,1
+2020-11-12,Order his oil west school.,Food & Drink,1999.15,Expense,expense,2020-11,2020,kebutuhan_pokok,12,3,0,7.600977456729723,1
+2020-11-12,Training occur could painting.,Travel,1156.73,Expense,expense,2020-11,2020,kebutuhan_sekunder,12,3,0,7.054216470325016,1
+2020-11-14,Whatever late specific.,Utilities,946.3,Expense,expense,2020-11,2020,kebutuhan_pokok,14,5,1,6.853615832881489,1
+2020-11-14,Mean common.,Travel,371.16,Expense,expense,2020-11,2020,kebutuhan_sekunder,14,5,1,5.9193238693303,1
+2020-11-14,Yard model particular hair.,Salary,1938.42,Expense,expense,2020-11,2020,income,14,5,1,7.570144238285046,1
+2020-11-14,Impact full our smile.,Shopping,673.28,Expense,expense,2020-11,2020,kebutuhan_sekunder,14,5,1,6.5136454549121074,1
+2020-11-15,Form newspaper.,Utilities,666.31,Expense,expense,2020-11,2020,kebutuhan_pokok,15,6,1,6.5032547055608,1
+2020-11-15,Edge surface who.,Travel,1328.54,Expense,expense,2020-11,2020,kebutuhan_sekunder,15,6,1,7.192588296729168,1
+2020-11-16,Bank professional true financial.,Food & Drink,915.1,Expense,expense,2020-11,2020,kebutuhan_pokok,16,0,0,6.820125529021163,1
+2020-11-16,Organization visit finally.,Health & Fitness,240.68,Expense,expense,2020-11,2020,lainnya,16,0,0,5.487614537078416,1
+2020-11-17,Spend prove stock school.,Food & Drink,1318.74,Expense,expense,2020-11,2020,kebutuhan_pokok,17,1,0,7.185190026482369,1
+2020-11-20,Position interest.,Shopping,117.87,Expense,expense,2020-11,2020,kebutuhan_sekunder,20,4,0,4.778030458992533,1
+2020-11-22,Guy congress.,Salary,1254.56,Expense,expense,2020-11,2020,income,22,6,1,7.135336967180956,1
+2020-11-23,Way main difficult case.,Entertainment,541.44,Expense,expense,2020-11,2020,kebutuhan_sekunder,23,0,0,6.296077480219744,1
+2020-11-25,Such big side.,Other,4089.0,Income,income,2020-11,2020,lainnya,25,2,0,8.316300249036848,0
+2020-11-25,Product then.,Salary,251.64,Expense,expense,2020-11,2020,income,25,2,0,5.531965550507332,1
+2020-11-26,Heavy class story side speak.,Entertainment,1422.47,Expense,expense,2020-11,2020,kebutuhan_sekunder,26,3,0,7.2608528316804195,1
+2020-11-27,Analysis hair rest wide.,Food & Drink,1108.98,Expense,expense,2020-11,2020,kebutuhan_pokok,27,4,0,7.012097276126036,1
+2020-11-27,Doctor dream whole six.,Investment,4280.0,Income,income,2020-11,2020,tabungan,27,4,0,8.361941906144946,0
+2020-11-29,Question now key show.,Utilities,1001.77,Expense,expense,2020-11,2020,kebutuhan_pokok,29,6,1,6.910521449602095,1
+2020-12-01,Month whom stage soon.,Travel,836.83,Expense,expense,2020-12,2020,kebutuhan_sekunder,1,1,0,6.730815215940592,1
+2020-12-05,Appear lose he.,Salary,495.02,Expense,expense,2020-12,2020,income,5,5,1,6.206616248492639,1
+2020-12-05,Surface expect several evening town.,Shopping,389.31,Expense,expense,2020-12,2020,kebutuhan_sekunder,5,5,1,5.9669412951752845,1
+2020-12-06,Begin treat stage this.,Utilities,1729.41,Expense,expense,2020-12,2020,kebutuhan_pokok,6,6,1,7.456113653632784,1
+2020-12-10,Apply maybe dog yes.,Shopping,686.35,Expense,expense,2020-12,2020,kebutuhan_sekunder,10,3,0,6.5328436239174295,1
+2020-12-10,Agreement us stuff.,Travel,1642.89,Expense,expense,2020-12,2020,kebutuhan_sekunder,10,3,0,7.404820663401884,1
+2020-12-11,Case expert stop.,Travel,1676.58,Expense,expense,2020-12,2020,kebutuhan_sekunder,11,4,0,7.425107557723607,1
+2020-12-12,Large accept bad eight.,Salary,1731.87,Expense,expense,2020-12,2020,income,12,5,1,7.457534272476032,1
+2020-12-13,Vote participant institution simply down.,Salary,696.8,Expense,expense,2020-12,2020,income,13,6,1,6.547932528752674,1
+2020-12-14,Draw police.,Shopping,916.14,Expense,expense,2020-12,2020,kebutuhan_sekunder,14,0,0,6.821260132359043,1
+2020-12-14,Book toward.,Entertainment,1961.74,Expense,expense,2020-12,2020,kebutuhan_sekunder,14,0,0,7.582096735173016,1
+2020-12-16,Place offer.,Shopping,474.79,Expense,expense,2020-12,2020,kebutuhan_sekunder,16,2,0,6.16497658041386,1
+2020-12-16,Investment pass drive.,Food & Drink,643.17,Expense,expense,2020-12,2020,kebutuhan_pokok,16,2,0,6.467962666424322,1
+2020-12-16,Professor beat window.,Shopping,778.3,Expense,expense,2020-12,2020,kebutuhan_sekunder,16,2,0,6.658396080849515,1
+2020-12-18,Name skill medical after them.,Utilities,995.7,Expense,expense,2020-12,2020,kebutuhan_pokok,18,4,0,6.904449821973411,1
+2020-12-18,Wonder effect administration small.,Other,1322.0,Income,income,2020-12,2020,lainnya,18,4,0,7.187657164114956,0
+2020-12-20,Run pick sign.,Salary,208.43,Expense,expense,2020-12,2020,income,20,6,1,5.344389554650419,1
+2020-12-20,And national spend.,Food & Drink,1447.66,Expense,expense,2020-12,2020,kebutuhan_pokok,20,6,1,7.278394270204864,1
+2020-12-22,Wonder long consider care.,Utilities,158.91,Expense,expense,2020-12,2020,kebutuhan_pokok,22,1,0,5.074611156971351,1
+2020-12-23,Fall analysis.,Travel,683.74,Expense,expense,2020-12,2020,kebutuhan_sekunder,23,2,0,6.529039204166525,1
+2020-12-23,Firm financial.,Rent,1705.01,Expense,expense,2020-12,2020,kebutuhan_pokok,23,2,0,7.441912589699157,1
+2020-12-24,List already positive experience television.,Shopping,1908.74,Expense,expense,2020-12,2020,kebutuhan_sekunder,24,3,0,7.554722386120288,1
+2020-12-25,Event son join hundred.,Salary,1746.04,Expense,expense,2020-12,2020,income,25,4,0,7.465678206265756,1
+2020-12-26,Fund cost reality happen.,Investment,2423.0,Income,income,2020-12,2020,tabungan,26,5,1,7.793174347189205,0
+2020-12-28,Song risk bad.,Travel,1994.88,Expense,expense,2020-12,2020,kebutuhan_sekunder,28,0,0,7.598840334823635,1
+2020-12-30,Family bill foreign fast knowledge.,Shopping,1956.89,Expense,expense,2020-12,2020,kebutuhan_sekunder,30,2,0,7.579622641737032,1
+2020-12-31,Ready goal amount.,Rent,892.92,Expense,expense,2020-12,2020,kebutuhan_pokok,31,3,0,6.795616285710839,1
+2021-01-01,Your ever woman way avoid.,Food & Drink,101.52,Expense,expense,2021-01,2021,kebutuhan_pokok,1,4,0,4.630057901495871,1
+2021-01-06,Message seek civil all.,Travel,723.34,Expense,expense,2021-01,2021,kebutuhan_sekunder,6,2,0,6.585260895411588,1
+2021-01-06,Call door.,Entertainment,1067.02,Expense,expense,2021-01,2021,kebutuhan_sekunder,6,2,0,6.97356174593656,1
+2021-01-08,Him note painting quickly.,Utilities,348.27,Expense,expense,2021-01,2021,kebutuhan_pokok,8,4,0,5.855845262066538,1
+2021-01-10,Know baby case happen.,Other,2472.0,Income,income,2021-01,2021,lainnya,10,6,1,7.813187267521416,0
+2021-01-10,Economic box save.,Utilities,472.06,Expense,expense,2021-01,2021,kebutuhan_pokok,10,6,1,6.159222230341457,1
+2021-01-11,Hit no energy employee land.,Salary,518.1,Expense,expense,2021-01,2021,income,11,0,0,6.252096542833184,1
+2021-01-12,Customer career available common.,Other,2856.0,Income,income,2021-01,2021,lainnya,12,1,0,7.957527402230773,0
+2021-01-13,Specific whose.,Utilities,156.99,Expense,expense,2021-01,2021,kebutuhan_pokok,13,2,0,5.062531739884758,1
+2021-01-13,Remember nearly face feel.,Travel,1281.49,Expense,expense,2021-01,2021,kebutuhan_sekunder,13,2,0,7.156558779743571,1
+2021-01-14,Soldier meeting building.,Travel,919.1,Expense,expense,2021-01,2021,kebutuhan_sekunder,14,3,0,6.824482359788315,1
+2021-01-14,Door management guess.,Shopping,1708.14,Expense,expense,2021-01,2021,kebutuhan_sekunder,14,3,0,7.443745599011416,1
+2021-01-15,Level work candidate this.,Other,3440.0,Income,income,2021-01,2021,lainnya,15,4,0,8.14351740579748,0
+2021-01-15,Huge response long.,Travel,53.66,Expense,expense,2021-01,2021,kebutuhan_sekunder,15,4,0,4.001132180499922,1
+2021-01-17,Statement available win politics.,Shopping,556.22,Expense,expense,2021-01,2021,kebutuhan_sekunder,17,6,1,6.322960135015972,1
+2021-01-17,Quite general there sister.,Food & Drink,1822.13,Expense,expense,2021-01,2021,kebutuhan_pokok,17,6,1,7.508310083161934,1
+2021-01-19,Item treat area.,Travel,1553.72,Expense,expense,2021-01,2021,kebutuhan_sekunder,19,1,0,7.349050744091129,1
+2021-01-20,Check clearly follow remember generation.,Health & Fitness,445.82,Expense,expense,2021-01,2021,lainnya,20,2,0,6.102155828950609,1
+2021-01-24,Suffer economy play.,Other,1620.0,Income,income,2021-01,2021,lainnya,24,6,1,7.390798521735676,0
+2021-01-26,By field move.,Food & Drink,624.78,Expense,expense,2021-01,2021,kebutuhan_pokok,26,1,0,6.438998871631718,1
+2021-01-27,Option oil commercial.,Health & Fitness,1467.4,Expense,expense,2021-01,2021,lainnya,27,2,0,7.291928651622679,1
+2021-01-27,American tell ball we side.,Other,3176.0,Income,income,2021-01,2021,lainnya,27,2,0,8.063692634269517,0
+2021-01-27,Short indicate police.,Utilities,409.58,Expense,expense,2021-01,2021,kebutuhan_pokok,27,2,0,6.017570794192461,1
+2021-01-27,Nation politics few each southern.,Health & Fitness,1066.4,Expense,expense,2021-01,2021,lainnya,27,2,0,6.972981063899844,1
+2021-01-29,Law read citizen.,Utilities,521.37,Expense,expense,2021-01,2021,kebutuhan_pokok,29,4,0,6.258376149054407,1
+2021-02-02,Less future century technology.,Salary,1935.09,Expense,expense,2021-02,2021,income,2,1,0,7.568425754359313,1
+2021-02-05,Wish candidate have no.,Health & Fitness,1610.42,Expense,expense,2021-02,2021,lainnya,5,4,0,7.384871056833654,1
+2021-02-05,Letter environment easy.,Rent,290.11,Expense,expense,2021-02,2021,kebutuhan_pokok,5,4,0,5.673701202617746,1
+2021-02-08,Face his.,Shopping,1934.87,Expense,expense,2021-02,2021,kebutuhan_sekunder,8,0,0,7.5683121168216125,1
+2021-02-08,While total spend.,Health & Fitness,189.7,Expense,expense,2021-02,2021,lainnya,8,0,0,5.250701512606374,1
+2021-02-09,Couple city you level.,Travel,1077.78,Expense,expense,2021-02,2021,kebutuhan_sekunder,9,1,0,6.983586051976185,1
+2021-02-09,Age war measure whom.,Travel,1173.27,Expense,expense,2021-02,2021,kebutuhan_sekunder,9,1,0,7.068401956910239,1
+2021-02-11,Good anything manager think pressure.,Health & Fitness,225.61,Expense,expense,2021-02,2021,lainnya,11,3,0,5.4232304782468335,1
+2021-02-11,Mr suggest issue.,Food & Drink,1242.9,Expense,expense,2021-02,2021,kebutuhan_pokok,11,3,0,7.126006884215919,1
+2021-02-13,Shake hand hundred now.,Health & Fitness,1831.36,Expense,expense,2021-02,2021,lainnya,13,5,1,7.513360032479411,1
+2021-02-16,Network available mean share.,Rent,1274.45,Expense,expense,2021-02,2021,kebutuhan_pokok,16,1,0,7.151054336499911,1
+2021-02-18,Quite budget window hour some.,Travel,1301.99,Expense,expense,2021-02,2021,kebutuhan_sekunder,18,3,0,7.172416902498312,1
+2021-02-19,Voice sense current meeting matter.,Investment,804.0,Income,income,2021-02,2021,tabungan,19,4,0,6.690842277418564,0
+2021-02-20,Case four.,Salary,241.08,Expense,expense,2021-02,2021,income,20,5,1,5.489268250040046,1
+2021-02-21,Lead paper middle foreign party.,Utilities,783.41,Expense,expense,2021-02,2021,kebutuhan_pokok,21,6,1,6.664931842838583,1
+2021-02-23,Wrong school federal from.,Shopping,1178.81,Expense,expense,2021-02,2021,kebutuhan_sekunder,23,1,0,7.073108687545937,1
+2021-02-24,Majority none little admit former.,Shopping,1313.29,Expense,expense,2021-02,2021,kebutuhan_sekunder,24,2,0,7.181051874846067,1
+2021-02-27,On someone rise read.,Shopping,1878.72,Expense,expense,2021-02,2021,kebutuhan_sekunder,27,5,1,7.53887810856169,1
+2021-02-28,Listen whose situation simply officer.,Health & Fitness,442.37,Expense,expense,2021-02,2021,lainnya,28,6,1,6.094404635894591,1
+2021-03-02,Lose modern return simple herself.,Entertainment,1712.35,Expense,expense,2021-03,2021,kebutuhan_sekunder,2,1,0,7.446205797360247,1
+2021-03-02,Occur red.,Other,4960.0,Income,income,2021-03,2021,lainnya,2,1,0,8.509362612301048,0
+2021-03-02,Kid industry.,Health & Fitness,130.49,Expense,expense,2021-03,2021,lainnya,2,1,0,4.878930803098828,1
+2021-03-04,Improve simple turn.,Rent,1898.53,Expense,expense,2021-03,2021,kebutuhan_pokok,4,3,0,7.549361766132865,1
+2021-03-05,Million night your.,Rent,1328.91,Expense,expense,2021-03,2021,kebutuhan_pokok,5,4,0,7.192866549753205,1
+2021-03-05,Heavy what least mouth national.,Food & Drink,110.65,Expense,expense,2021-03,2021,kebutuhan_pokok,5,4,0,4.7153689782861665,1
+2021-03-07,Machine whatever everything fear walk.,Utilities,1576.09,Expense,expense,2021-03,2021,kebutuhan_pokok,7,6,1,7.363336655721396,1
+2021-03-07,Relate real major.,Entertainment,1176.9,Expense,expense,2021-03,2021,kebutuhan_sekunder,7,6,1,7.071488470964739,1
+2021-03-08,Night various return explain.,Entertainment,663.83,Expense,expense,2021-03,2021,kebutuhan_sekunder,8,0,0,6.499531368876866,1
+2021-03-09,Here woman stand west source.,Investment,2771.0,Income,income,2021-03,2021,tabungan,9,1,0,7.927324360309794,0
+2021-03-09,Explain research.,Utilities,1975.18,Expense,expense,2021-03,2021,kebutuhan_pokok,9,1,0,7.588920967276496,1
+2021-03-10,Pretty section degree still.,Utilities,228.75,Expense,expense,2021-03,2021,kebutuhan_pokok,10,2,0,5.436991761235796,1
+2021-03-12,Receive case past only drug.,Utilities,39.57,Expense,expense,2021-03,2021,kebutuhan_pokok,12,4,0,3.703028877218356,1
+2021-03-15,Point appear including.,Entertainment,1181.82,Expense,expense,2021-03,2021,kebutuhan_sekunder,15,0,0,7.075656696864788,1
+2021-03-15,Race case.,Other,929.0,Income,income,2021-03,2021,lainnya,15,0,0,6.835184586147301,0
+2021-03-16,Imagine various there.,Other,4809.0,Income,income,2021-03,2021,lainnya,16,1,0,8.478452363099807,0
+2021-03-16,Sense expert experience.,Investment,4401.0,Income,income,2021-03,2021,tabungan,16,1,0,8.389814262086407,0
+2021-03-17,Present discussion.,Health & Fitness,1031.34,Expense,expense,2021-03,2021,lainnya,17,2,0,6.939583349146688,1
+2021-03-17,Individual study value.,Investment,855.0,Income,income,2021-03,2021,tabungan,17,2,0,6.752270376141742,0
+2021-03-18,Small control see the.,Travel,921.5,Expense,expense,2021-03,2021,kebutuhan_sekunder,18,3,0,6.827087375914682,1
+2021-03-19,Across nothing.,Food & Drink,1997.19,Expense,expense,2021-03,2021,kebutuhan_pokok,19,4,0,7.599997049782342,1
+2021-03-20,Expect writer myself management.,Shopping,1375.33,Expense,expense,2021-03,2021,kebutuhan_sekunder,20,5,1,7.227175815321127,1
+2021-03-21,Life cover both class.,Salary,156.25,Expense,expense,2021-03,2021,income,21,6,1,5.05783689558055,1
+2021-03-22,Responsibility add front.,Investment,1038.0,Income,income,2021-03,2021,tabungan,22,0,0,6.946013991099227,0
+2021-03-22,Purpose cover particularly police if.,Other,3620.0,Income,income,2021-03,2021,lainnya,22,0,0,8.19450550976564,0
+2021-03-22,Foreign husband believe word local.,Travel,912.89,Expense,expense,2021-03,2021,kebutuhan_sekunder,22,0,0,6.817710214102085,1
+2021-03-23,End dog.,Rent,1588.26,Expense,expense,2021-03,2021,kebutuhan_pokok,23,1,0,7.371023778072953,1
+2021-03-23,Few reveal activity president.,Investment,4023.0,Income,income,2021-03,2021,tabungan,23,1,0,8.300031711779575,0
+2021-03-24,Property let.,Entertainment,833.49,Expense,expense,2021-03,2021,kebutuhan_sekunder,24,2,0,6.726820759806603,1
+2021-03-25,Rather type thousand show.,Shopping,837.82,Expense,expense,2021-03,2021,kebutuhan_sekunder,25,3,0,6.731996142329587,1
+2021-03-26,Happen determine whatever.,Other,3060.0,Income,income,2021-03,2021,lainnya,26,4,0,8.026496938945412,0
+2021-03-27,Lawyer writer health.,Health & Fitness,1907.65,Expense,expense,2021-03,2021,lainnya,27,5,1,7.554151464852629,1
+2021-03-28,Serious soon stay seven.,Salary,143.6,Expense,expense,2021-03,2021,income,28,6,1,4.973971309724664,1
+2021-03-29,Land region back nor article.,Rent,869.43,Expense,expense,2021-03,2021,kebutuhan_pokok,29,0,0,6.768987342419472,1
+2021-03-30,Dark mr clearly take.,Health & Fitness,1625.42,Expense,expense,2021-03,2021,lainnya,30,1,0,7.394136559336413,1
+2021-04-01,Quite response.,Health & Fitness,1343.33,Expense,expense,2021-04,2021,lainnya,1,3,0,7.20365102665842,1
+2021-04-02,Together knowledge.,Shopping,1737.5,Expense,expense,2021-04,2021,kebutuhan_sekunder,2,4,0,7.460777951447916,1
+2021-04-03,Car indeed nor next.,Travel,1204.82,Expense,expense,2021-04,2021,kebutuhan_sekunder,3,5,1,7.0949151124163405,1
+2021-04-03,How staff.,Entertainment,317.91,Expense,expense,2021-04,2021,kebutuhan_sekunder,3,5,1,5.7649089313167785,1
+2021-04-03,Authority interest red must art.,Rent,706.73,Expense,expense,2021-04,2021,kebutuhan_pokok,3,5,1,6.5620626650268505,1
+2021-04-08,All important shoulder she.,Rent,1527.59,Expense,expense,2021-04,2021,kebutuhan_pokok,8,3,0,7.33210102085359,1
+2021-04-08,Year him thank trade.,Shopping,1691.86,Expense,expense,2021-04,2021,kebutuhan_sekunder,8,3,0,7.434174685270253,1
+2021-04-09,Radio product.,Food & Drink,1221.9,Expense,expense,2021-04,2021,kebutuhan_pokok,9,4,0,7.108980366195325,1
+2021-04-11,President girl condition.,Travel,67.62,Expense,expense,2021-04,2021,kebutuhan_sekunder,11,6,1,4.228584037430304,1
+2021-04-11,More road development about.,Travel,1843.86,Expense,expense,2021-04,2021,kebutuhan_sekunder,11,6,1,7.52015867283673,1
+2021-04-12,Leg rest interest.,Utilities,1741.03,Expense,expense,2021-04,2021,kebutuhan_pokok,12,0,0,7.462806378848544,1
+2021-04-13,Easy get every.,Shopping,148.47,Expense,expense,2021-04,2021,kebutuhan_sekunder,13,1,0,5.007095703797723,1
+2021-04-18,Special information.,Food & Drink,192.6,Expense,expense,2021-04,2021,kebutuhan_pokok,18,6,1,5.265794174842476,1
+2021-04-19,Deal beyond almost.,Shopping,845.47,Expense,expense,2021-04,2021,kebutuhan_sekunder,19,0,0,6.741074760897924,1
+2021-04-19,Scientist i doctor.,Health & Fitness,630.16,Expense,expense,2021-04,2021,lainnya,19,0,0,6.447559396167469,1
+2021-04-19,Cell year.,Rent,1767.85,Expense,expense,2021-04,2021,kebutuhan_pokok,19,0,0,7.47808489689586,1
+2021-04-19,Five our pull fly few.,Investment,1168.0,Income,income,2021-04,2021,tabungan,19,0,0,7.063903961472068,0
+2021-04-21,Determine feel article we they.,Shopping,976.47,Expense,expense,2021-04,2021,kebutuhan_sekunder,21,2,0,6.884967600851472,1
+2021-04-23,Quickly new another general poor.,Travel,438.98,Expense,expense,2021-04,2021,kebutuhan_sekunder,23,4,0,6.0867292713337635,1
+2021-04-23,Five indicate chance heavy senior.,Health & Fitness,865.53,Expense,expense,2021-04,2021,lainnya,23,4,0,6.764496730599032,1
+2021-04-24,Support feeling remain.,Salary,1058.6,Expense,expense,2021-04,2021,income,24,5,1,6.965646757397915,1
+2021-04-27,None whose.,Entertainment,796.57,Expense,expense,2021-04,2021,kebutuhan_sekunder,27,1,0,6.681569605101733,1
+2021-04-27,Care drug data position two.,Food & Drink,416.8,Expense,expense,2021-04,2021,kebutuhan_pokok,27,1,0,6.035002849122465,1
+2021-04-27,Movie stop.,Utilities,1530.68,Expense,expense,2021-04,2021,kebutuhan_pokok,27,1,0,7.334120451198043,1
+2021-04-30,Help painting always.,Rent,25.38,Expense,expense,2021-04,2021,kebutuhan_pokok,30,4,0,3.2726061472891685,1
+2021-05-02,Source onto provide.,Utilities,267.08,Expense,expense,2021-05,2021,kebutuhan_pokok,2,6,1,5.591285443429055,1
+2021-05-04,Decade trade field training.,Entertainment,1005.52,Expense,expense,2021-05,2021,kebutuhan_sekunder,4,1,0,6.914254115721967,1
+2021-05-04,While bring yourself.,Health & Fitness,153.43,Expense,expense,2021-05,2021,lainnya,4,1,0,5.03974091923491,1
+2021-05-06,Receive region however.,Food & Drink,878.08,Expense,expense,2021-05,2021,kebutuhan_pokok,6,3,0,6.77887590605801,1
+2021-05-07,Focus executive letter possible final.,Rent,1725.6,Expense,expense,2021-05,2021,kebutuhan_pokok,7,4,0,7.453909435801422,1
+2021-05-07,Third letter sort reveal seven.,Shopping,1421.9,Expense,expense,2021-05,2021,kebutuhan_sekunder,7,4,0,7.260452321551646,1
+2021-05-07,Have including none.,Rent,816.01,Expense,expense,2021-05,2021,kebutuhan_pokok,7,4,0,6.705651334687177,1
+2021-05-10,Administration network once.,Utilities,1604.63,Expense,expense,2021-05,2021,kebutuhan_pokok,10,0,0,7.38127148191146,1
+2021-05-11,Charge form here.,Health & Fitness,185.38,Expense,expense,2021-05,2021,lainnya,11,1,0,5.22778760035751,1
+2021-05-11,Nearly want front shake.,Entertainment,877.0,Expense,expense,2021-05,2021,kebutuhan_sekunder,11,1,0,6.777646593635117,1
+2021-05-12,Leave run goal cause.,Rent,797.58,Expense,expense,2021-05,2021,kebutuhan_pokok,12,2,0,6.682835150488822,1
+2021-05-14,Contain threat wrong whatever.,Health & Fitness,450.93,Expense,expense,2021-05,2021,lainnya,14,4,0,6.113527300582422,1
+2021-05-14,Stuff avoid.,Rent,1025.86,Expense,expense,2021-05,2021,kebutuhan_pokok,14,4,0,6.9342608812594015,1
+2021-05-15,Include successful.,Investment,3362.0,Income,income,2021-05,2021,tabungan,15,5,1,8.12058871174027,0
+2021-05-17,Religious across.,Utilities,480.18,Expense,expense,2021-05,2021,kebutuhan_pokok,17,0,0,6.176241420477001,1
+2021-05-19,Health pay project pattern.,Investment,1921.0,Income,income,2021-05,2021,tabungan,19,2,0,7.561121589530238,0
+2021-05-22,Administration mother in admit.,Rent,362.52,Expense,expense,2021-05,2021,kebutuhan_pokok,22,5,1,5.895834316092731,1
+2021-05-23,Within admit spend purpose south.,Salary,933.27,Expense,expense,2021-05,2021,income,23,6,1,6.839765475682615,1
+2021-05-24,Truth modern.,Salary,1365.46,Expense,expense,2021-05,2021,income,24,0,0,7.219978733077271,1
+2021-05-24,People education great.,Health & Fitness,1729.85,Expense,expense,2021-05,2021,lainnya,24,0,0,7.4563678963087865,1
+2021-05-24,Health image.,Utilities,885.13,Expense,expense,2021-05,2021,kebutuhan_pokok,24,0,0,6.7868636667040505,1
+2021-05-25,Wrong difficult range.,Travel,1594.7,Expense,expense,2021-05,2021,kebutuhan_sekunder,25,1,0,7.375067790416382,1
+2021-05-25,Behavior here.,Health & Fitness,1019.6,Expense,expense,2021-05,2021,lainnya,25,1,0,6.928145968629871,1
+2021-05-27,Argue act commercial matter.,Salary,84.84,Expense,expense,2021-05,2021,income,27,3,0,4.452485098322443,1
+2021-05-27,Not teach believe month.,Travel,162.69,Expense,expense,2021-05,2021,kebutuhan_sekunder,27,3,0,5.097974395156263,1
+2021-05-29,Deep test thought.,Rent,1233.87,Expense,expense,2021-05,2021,kebutuhan_pokok,29,5,1,7.118720980363627,1
+2021-05-30,Another avoid understand.,Salary,1164.86,Expense,expense,2021-05,2021,income,30,6,1,7.06121429109099,1
+2021-05-31,Probably conference sure administration debate.,Food & Drink,904.97,Expense,expense,2021-05,2021,kebutuhan_pokok,31,0,0,6.809006192911964,1
+2021-05-31,Up federal nor note.,Entertainment,649.84,Expense,expense,2021-05,2021,kebutuhan_sekunder,31,0,0,6.478263836271118,1
+2021-06-02,Forward sense cause write right.,Utilities,1915.87,Expense,expense,2021-06,2021,kebutuhan_pokok,2,2,0,7.558448926452985,1
+2021-06-02,Approach join stuff future.,Health & Fitness,1964.95,Expense,expense,2021-06,2021,lainnya,2,2,0,7.583730868033755,1
+2021-06-03,Ahead event yeah make.,Investment,820.0,Income,income,2021-06,2021,tabungan,3,3,0,6.710523109452428,0
+2021-06-06,Wait it quickly produce beat.,Salary,1982.06,Expense,expense,2021-06,2021,income,6,6,1,7.592396385248138,1
+2021-06-06,Require bank child.,Utilities,734.16,Expense,expense,2021-06,2021,kebutuhan_pokok,6,6,1,6.600088162597273,1
+2021-06-06,First blood accept final.,Shopping,823.45,Expense,expense,2021-06,2021,kebutuhan_sekunder,6,6,1,6.714716497346977,1
+2021-06-09,Bill beautiful issue.,Food & Drink,1580.56,Expense,expense,2021-06,2021,kebutuhan_pokok,9,2,0,7.366166980691874,1
+2021-06-11,Mention billion bed never others.,Rent,666.08,Expense,expense,2021-06,2021,kebutuhan_pokok,11,4,0,6.502909978753379,1
+2021-06-11,Activity including single right.,Shopping,575.45,Expense,expense,2021-06,2021,kebutuhan_sekunder,11,4,0,6.356888605678963,1
+2021-06-14,Occur college herself.,Utilities,673.39,Expense,expense,2021-06,2021,kebutuhan_pokok,14,0,0,6.513808578582455,1
+2021-06-15,Feeling manage as.,Utilities,1834.33,Expense,expense,2021-06,2021,kebutuhan_pokok,15,1,0,7.514979580832285,1
+2021-06-16,Inside machine baby.,Shopping,266.61,Expense,expense,2021-06,2021,kebutuhan_sekunder,16,2,0,5.589530696763635,1
+2021-06-20,Result many pattern.,Rent,626.07,Expense,expense,2021-06,2021,kebutuhan_pokok,20,6,1,6.441058177144555,1
+2021-06-20,Career according.,Health & Fitness,1628.24,Expense,expense,2021-06,2021,lainnya,20,6,1,7.3958689274001905,1
+2021-06-22,Success here television key.,Rent,1295.59,Expense,expense,2021-06,2021,kebutuhan_pokok,22,1,0,7.167493020232364,1
+2021-06-23,Carry fly water cut fire.,Health & Fitness,46.28,Expense,expense,2021-06,2021,lainnya,23,2,0,3.856087373097843,1
+2021-06-24,Fact reason make office.,Entertainment,690.05,Expense,expense,2021-06,2021,kebutuhan_sekunder,24,3,0,6.538212180050036,1
+2021-06-26,Heavy staff hotel box.,Entertainment,460.82,Expense,expense,2021-06,2021,kebutuhan_sekunder,26,5,1,6.135175204774281,1
+2021-06-27,Or nation race.,Investment,2923.0,Income,income,2021-06,2021,tabungan,27,6,1,7.980707820869669,0
+2021-06-28,Well left.,Rent,1020.3,Expense,expense,2021-06,2021,kebutuhan_pokok,28,0,0,6.928831604584053,1
+2021-06-28,Something story attorney summer.,Food & Drink,1327.24,Expense,expense,2021-06,2021,kebutuhan_pokok,28,0,0,7.191610036599531,1
+2021-06-28,Cause field education child.,Utilities,1198.52,Expense,expense,2021-06,2021,kebutuhan_pokok,28,0,0,7.089676755754752,1
+2021-06-28,Available wrong look husband.,Investment,1856.0,Income,income,2021-06,2021,tabungan,28,0,0,7.526717561352706,0
+2021-06-29,Myself so growth time.,Food & Drink,827.61,Expense,expense,2021-06,2021,kebutuhan_pokok,29,1,0,6.719749598119837,1
+2021-07-04,Point be shoulder price great.,Entertainment,1939.48,Expense,expense,2021-07,2021,kebutuhan_sekunder,4,6,1,7.570690644133843,1
+2021-07-04,Worker quality hundred sell whole.,Salary,475.67,Expense,expense,2021-07,2021,income,4,6,1,6.166824427568385,1
+2021-07-04,Action else.,Salary,1808.91,Expense,expense,2021-07,2021,income,4,6,1,7.501032399266698,1
+2021-07-06,Newspaper reach determine hear leg.,Other,4282.0,Income,income,2021-07,2021,lainnya,6,1,0,8.36240897761537,0
+2021-07-07,General agency bit.,Shopping,1010.78,Expense,expense,2021-07,2021,kebutuhan_sekunder,7,2,0,6.919466434910149,1
+2021-07-09,Break wait.,Utilities,1635.61,Expense,expense,2021-07,2021,kebutuhan_pokok,9,4,0,7.400382308303136,1
+2021-07-09,Find lay deal lot.,Utilities,1747.27,Expense,expense,2021-07,2021,kebutuhan_pokok,9,4,0,7.4663820065299795,1
+2021-07-10,Just recent.,Other,3540.0,Income,income,2021-07,2021,lainnya,10,5,1,8.172164452111904,0
+2021-07-10,Feel special.,Rent,1425.69,Expense,expense,2021-07,2021,kebutuhan_pokok,10,5,1,7.263112354914176,1
+2021-07-11,Support possible.,Rent,577.28,Expense,expense,2021-07,2021,kebutuhan_pokok,11,6,1,6.360058180440242,1
+2021-07-11,Might necessary former.,Travel,904.15,Expense,expense,2021-07,2021,kebutuhan_sekunder,11,6,1,6.808100675821953,1
+2021-07-11,Discussion if continue policy.,Shopping,192.51,Expense,expense,2021-07,2021,kebutuhan_sekunder,11,6,1,5.265329190721056,1
+2021-07-12,Ahead pass culture or.,Salary,1770.41,Expense,expense,2021-07,2021,income,12,0,0,7.479531118611891,1
+2021-07-13,Relate day.,Shopping,115.98,Expense,expense,2021-07,2021,kebutuhan_sekunder,13,1,0,4.76200298001488,1
+2021-07-14,Big the cost for leader.,Entertainment,778.47,Expense,expense,2021-07,2021,kebutuhan_sekunder,14,2,0,6.65861420154811,1
+2021-07-15,Month police others particularly.,Investment,730.0,Income,income,2021-07,2021,tabungan,15,3,0,6.594413459749778,0
+2021-07-19,Girl suddenly.,Rent,1679.96,Expense,expense,2021-07,2021,kebutuhan_pokok,19,0,0,7.427120337765596,1
+2021-07-19,Try opportunity public.,Utilities,283.82,Expense,expense,2021-07,2021,kebutuhan_pokok,19,0,0,5.651857401791282,1
+2021-07-23,Draw bring health.,Salary,1395.18,Expense,expense,2021-07,2021,income,23,4,0,7.241495214838373,1
+2021-07-23,Home others offer institution main.,Other,4174.0,Income,income,2021-07,2021,lainnya,23,4,0,8.336869637284956,0
+2021-07-24,Never majority cell.,Rent,47.82,Expense,expense,2021-07,2021,kebutuhan_pokok,24,5,1,3.888140064964814,1
+2021-07-28,People tend weight machine.,Utilities,1102.12,Expense,expense,2021-07,2021,kebutuhan_pokok,28,2,0,7.0058978075334855,1
+2021-07-29,White measure manager range.,Shopping,231.26,Expense,expense,2021-07,2021,kebutuhan_sekunder,29,3,0,5.447857433817612,1
+2021-08-02,Major bar air set.,Travel,252.48,Expense,expense,2021-08,2021,kebutuhan_sekunder,2,0,0,5.535284924455317,1
+2021-08-06,Ever mrs.,Salary,134.99,Expense,expense,2021-08,2021,income,6,4,0,4.912581353620868,1
+2021-08-07,Not significant manager member.,Salary,1197.51,Expense,expense,2021-08,2021,income,7,5,1,7.0888343976026675,1
+2021-08-07,Environmental myself.,Investment,1676.0,Income,income,2021-08,2021,tabungan,7,5,1,7.424761761823209,0
+2021-08-08,State among rest national wrong.,Food & Drink,1233.47,Expense,expense,2021-08,2021,kebutuhan_pokok,8,6,1,7.118397007153378,1
+2021-08-09,Fear yourself last.,Shopping,382.75,Expense,expense,2021-08,2021,kebutuhan_sekunder,9,0,0,5.9499912989014065,1
+2021-08-11,Keep yes.,Health & Fitness,144.68,Expense,expense,2021-08,2021,lainnya,11,2,0,4.981412435419353,1
+2021-08-13,Specific onto go.,Food & Drink,787.0,Expense,expense,2021-08,2021,kebutuhan_pokok,13,4,0,6.669498089857879,1
+2021-08-13,Pattern size spend.,Shopping,1962.27,Expense,expense,2021-08,2021,kebutuhan_sekunder,13,4,0,7.582366729392704,1
+2021-08-15,Go exactly much food region.,Food & Drink,720.62,Expense,expense,2021-08,2021,kebutuhan_pokok,15,6,1,6.5814986845505805,1
+2021-08-16,Environment teach world quickly believe.,Investment,1349.0,Income,income,2021-08,2021,tabungan,16,0,0,7.2078598714324755,0
+2021-08-18,Yeah term.,Health & Fitness,275.49,Expense,expense,2021-08,2021,lainnya,18,2,0,5.62217465394309,1
+2021-08-20,Economic represent stock.,Health & Fitness,1628.88,Expense,expense,2021-08,2021,lainnya,20,4,0,7.3962616714588485,1
+2021-08-21,Central plan physical heart.,Other,4420.0,Income,income,2021-08,2021,lainnya,21,5,1,8.394121193826242,0
+2021-08-21,Idea seek.,Utilities,135.57,Expense,expense,2021-08,2021,kebutuhan_pokok,21,5,1,4.9168373036903334,1
+2021-08-22,Wear force able similar.,Salary,83.6,Expense,expense,2021-08,2021,income,22,6,1,4.437934266612178,1
+2021-08-23,Play recently sure somebody.,Entertainment,1772.72,Expense,expense,2021-08,2021,kebutuhan_sekunder,23,0,0,7.480834315011982,1
+2021-08-24,Why station manager.,Travel,1035.61,Expense,expense,2021-08,2021,kebutuhan_sekunder,24,1,0,6.9437110526317065,1
+2021-08-25,Front official not.,Salary,514.09,Expense,expense,2021-08,2021,income,25,2,0,6.244341642677015,1
+2021-08-27,Thus several animal phone.,Entertainment,579.36,Expense,expense,2021-08,2021,kebutuhan_sekunder,27,4,0,6.363648600647484,1
+2021-08-29,Buy tax.,Food & Drink,1732.94,Expense,expense,2021-08,2021,kebutuhan_pokok,29,6,1,7.458151554665697,1
+2021-09-05,A when dark read.,Rent,1600.69,Expense,expense,2021-09,2021,kebutuhan_pokok,5,6,1,7.3788146007883375,1
+2021-09-06,City usually ever.,Shopping,1489.18,Expense,expense,2021-09,2021,kebutuhan_sekunder,6,0,0,7.3066521970122515,1
+2021-09-09,Bar professor power.,Shopping,684.68,Expense,expense,2021-09,2021,kebutuhan_sekunder,9,3,0,6.530411046590627,1
+2021-09-09,Personal rise sense investment.,Other,3509.0,Income,income,2021-09,2021,lainnya,9,3,0,8.163371316459912,0
+2021-09-09,Ability live.,Travel,1604.28,Expense,expense,2021-09,2021,kebutuhan_sekunder,9,3,0,7.3810534751773025,1
+2021-09-10,Difficult quite act receive stage.,Rent,866.91,Expense,expense,2021-09,2021,kebutuhan_pokok,10,4,0,6.7660880226485745,1
+2021-09-11,Local director become.,Utilities,1095.49,Expense,expense,2021-09,2021,kebutuhan_pokok,11,5,1,6.999869447889315,1
+2021-09-11,Finish thing.,Rent,662.56,Expense,expense,2021-09,2021,kebutuhan_pokok,11,5,1,6.497619279224074,1
+2021-09-11,Similar send card year.,Salary,1209.22,Expense,expense,2021-09,2021,income,11,5,1,7.098557440245683,1
+2021-09-11,Most across.,Salary,709.58,Expense,expense,2021-09,2021,income,11,5,1,6.566081537961459,1
+2021-09-15,Goal defense security turn.,Other,4063.0,Income,income,2021-09,2021,lainnya,15,2,0,8.309922989258318,0
+2021-09-16,Beautiful beyond sell.,Food & Drink,159.33,Expense,expense,2021-09,2021,kebutuhan_pokok,16,3,0,5.077234191200746,1
+2021-09-16,White fire cause everybody.,Health & Fitness,1031.04,Expense,expense,2021-09,2021,lainnya,16,3,0,6.939292704980293,1
+2021-09-17,Network outside parent.,Utilities,1906.05,Expense,expense,2021-09,2021,kebutuhan_pokok,17,4,0,7.553312824449151,1
+2021-09-17,Day parent country.,Other,785.0,Income,income,2021-09,2021,lainnya,17,4,0,6.666956792429207,0
+2021-09-19,Position six soldier.,Investment,3500.0,Income,income,2021-09,2021,tabungan,19,6,1,8.160803920954665,0
+2021-09-19,History drop point audience.,Food & Drink,1214.14,Expense,expense,2021-09,2021,kebutuhan_pokok,19,6,1,7.102614575474053,1
+2021-09-19,Value car team nothing.,Health & Fitness,750.31,Expense,expense,2021-09,2021,lainnya,19,6,1,6.621818349548747,1
+2021-09-19,Raise several west side admit.,Utilities,1063.63,Expense,expense,2021-09,2021,kebutuhan_pokok,19,6,1,6.970382599939591,1
+2021-09-20,Energy always.,Travel,506.73,Expense,expense,2021-09,2021,kebutuhan_sekunder,20,0,0,6.22994981022139,1
+2021-09-21,Media pick may indeed.,Investment,4588.0,Income,income,2021-09,2021,tabungan,21,1,0,8.431417414394833,0
+2021-09-28,Policy mrs.,Rent,530.94,Expense,expense,2021-09,2021,kebutuhan_pokok,28,1,0,6.276530701026394,1
+2021-10-01,Base bad tv.,Salary,437.0,Expense,expense,2021-10,2021,income,1,4,0,6.082218910376446,1
+2021-10-07,Force only shake power poor.,Salary,408.35,Expense,expense,2021-10,2021,income,7,3,0,6.0145705358224575,1
+2021-10-08,Role suffer around beat.,Investment,4203.0,Income,income,2021-10,2021,tabungan,8,4,0,8.343791731996841,0
+2021-10-13,Law participant.,Other,1219.0,Income,income,2021-10,2021,lainnya,13,2,0,7.106606137727303,0
+2021-10-13,Budget remain reduce.,Health & Fitness,1339.0,Expense,expense,2021-10,2021,lainnya,13,2,0,7.200424892944957,1
+2021-10-13,Well mission situation result.,Travel,1783.75,Expense,expense,2021-10,2021,kebutuhan_sekunder,13,2,0,7.48703362838257,1
+2021-10-16,Camera sit environmental though.,Utilities,1589.46,Expense,expense,2021-10,2021,kebutuhan_pokok,16,5,1,7.371778561548838,1
+2021-10-20,Southern evening ask republican.,Rent,1970.41,Expense,expense,2021-10,2021,kebutuhan_pokok,20,2,0,7.586504301755756,1
+2021-10-21,Baby lawyer growth matter note.,Entertainment,1582.84,Expense,expense,2021-10,2021,kebutuhan_sekunder,21,3,0,7.367607557171497,1
+2021-10-22,Effort bill off.,Other,4328.0,Income,income,2021-10,2021,lainnya,22,4,0,8.37309184744198,0
+2021-10-24,Scientist able teach.,Utilities,1227.78,Expense,expense,2021-10,2021,kebutuhan_pokok,24,6,1,7.113777086219285,1
+2021-10-24,Animal hair turn.,Other,3761.0,Income,income,2021-10,2021,lainnya,24,6,1,8.232706009860976,0
+2021-10-27,Need trial.,Salary,1056.13,Expense,expense,2021-10,2021,income,27,2,0,6.963312967900826,1
+2021-10-27,Focus indicate result.,Rent,259.4,Expense,expense,2021-10,2021,kebutuhan_pokok,27,2,0,5.562218910334414,1
+2021-10-30,Number budget.,Rent,905.45,Expense,expense,2021-10,2021,kebutuhan_pokok,30,5,1,6.809535871475677,1
+2021-11-03,Development middle animal.,Health & Fitness,265.39,Expense,expense,2021-11,2021,lainnya,3,2,0,5.584961400424145,1
+2021-11-04,Theory tend.,Utilities,1537.89,Expense,expense,2021-11,2021,kebutuhan_pokok,4,3,0,7.338816656300665,1
+2021-11-05,Beat lead hard factor.,Investment,1517.0,Income,income,2021-11,2021,tabungan,5,4,0,7.325148957955575,0
+2021-11-05,Drug happy will young simply.,Travel,337.67,Expense,expense,2021-11,2021,kebutuhan_sekunder,5,4,0,5.825026181941565,1
+2021-11-06,Character usually agency.,Entertainment,698.59,Expense,expense,2021-11,2021,kebutuhan_sekunder,6,5,1,6.5504944491600705,1
+2021-11-07,Player really act friend.,Travel,1693.41,Expense,expense,2021-11,2021,kebutuhan_sekunder,7,6,1,7.435089876623872,1
+2021-11-10,Billion morning draw.,Travel,259.09,Expense,expense,2021-11,2021,kebutuhan_sekunder,10,2,0,5.561027724964261,1
+2021-11-15,Win central.,Rent,1010.12,Expense,expense,2021-11,2021,kebutuhan_pokok,15,0,0,6.918813906338871,1
+2021-11-16,Analysis discuss.,Investment,1902.0,Income,income,2021-11,2021,tabungan,16,1,0,7.551186867296149,0
+2021-11-17,Red head window be.,Health & Fitness,1686.63,Expense,expense,2021-11,2021,lainnya,17,2,0,7.431080456816522,1
+2021-11-18,Card star avoid nothing.,Food & Drink,171.63,Expense,expense,2021-11,2021,kebutuhan_pokok,18,3,0,5.151150575828457,1
+2021-11-18,Door end fire.,Travel,1305.75,Expense,expense,2021-11,2021,kebutuhan_sekunder,18,3,0,7.175298417593031,1
+2021-11-19,Fish evening avoid dark.,Shopping,1240.04,Expense,expense,2021-11,2021,kebutuhan_sekunder,19,4,0,7.123705016756076,1
+2021-11-21,Choice clearly.,Other,2974.0,Income,income,2021-11,2021,lainnya,21,6,1,7.99799931797973,0
+2021-11-21,Image movie who debate.,Shopping,601.89,Expense,expense,2021-11,2021,kebutuhan_sekunder,21,6,1,6.401734758859212,1
+2021-11-21,Enter build citizen rather.,Investment,1794.0,Income,income,2021-11,2021,tabungan,21,6,1,7.492760300922379,0
+2021-11-23,Structure foreign before.,Salary,934.24,Expense,expense,2021-11,2021,income,23,1,0,6.840803180842838,1
+2021-11-26,How any federal star.,Utilities,632.04,Expense,expense,2021-11,2021,kebutuhan_pokok,26,4,0,6.450533611300938,1
+2021-11-27,Weight take.,Health & Fitness,1950.99,Expense,expense,2021-11,2021,lainnya,27,5,1,7.5766046440090955,1
+2021-11-28,Economic left sound cause activity.,Other,4718.0,Income,income,2021-11,2021,lainnya,28,6,1,8.459352191726387,0
+2021-12-01,Cup hundred rather.,Health & Fitness,491.06,Expense,expense,2021-12,2021,lainnya,1,2,0,6.198600660276375,1
+2021-12-02,Only true avoid young cup.,Other,2530.0,Income,income,2021-12,2021,lainnya,2,3,0,7.836369760545124,0
+2021-12-03,Begin suggest speak.,Investment,2877.0,Income,income,2021-12,2021,tabungan,3,4,0,7.964850887447313,0
+2021-12-03,Walk anything.,Shopping,504.06,Expense,expense,2021-12,2021,kebutuhan_sekunder,3,4,0,6.2246772340989756,1
+2021-12-08,Start house ahead raise.,Utilities,1628.82,Expense,expense,2021-12,2021,kebutuhan_pokok,8,2,0,7.396224858255175,1
+2021-12-09,Democrat cost evidence third.,Health & Fitness,387.77,Expense,expense,2021-12,2021,lainnya,9,3,0,5.962987909115433,1
+2021-12-09,People early far include nearly.,Other,4585.0,Income,income,2021-12,2021,lainnya,9,3,0,8.43076346341785,0
+2021-12-11,Evidence case.,Salary,56.12,Expense,expense,2021-12,2021,income,11,5,1,4.0451543180313285,1
+2021-12-12,Eat yes myself affect him.,Salary,1933.71,Expense,expense,2021-12,2021,income,12,6,1,7.5677127234310975,1
+2021-12-13,Name machine tree maybe.,Health & Fitness,106.83,Expense,expense,2021-12,2021,lainnya,13,0,0,4.680555912893981,1
+2021-12-13,Conference five despite.,Salary,578.64,Expense,expense,2021-12,2021,income,13,0,0,6.362407221177723,1
+2021-12-15,Speak line.,Investment,4030.0,Income,income,2021-12,2021,tabungan,15,2,0,8.301769763117166,0
+2021-12-15,Yourself wind beyond prevent entire.,Other,3496.0,Income,income,2021-12,2021,lainnya,15,2,0,8.159660737063376,0
+2021-12-16,Offer work home.,Health & Fitness,100.03,Expense,expense,2021-12,2021,lainnya,16,3,0,4.615417502439641,1
+2021-12-19,Door fish scene.,Investment,3469.0,Income,income,2021-12,2021,tabungan,19,6,1,8.151909872940905,0
+2021-12-20,Agreement red way nor none.,Rent,778.83,Expense,expense,2021-12,2021,kebutuhan_pokok,20,0,0,6.659075947211416,1
+2021-12-20,My compare also argue.,Travel,1652.37,Expense,expense,2021-12,2021,kebutuhan_sekunder,20,0,0,7.410570908224303,1
+2021-12-23,Money a.,Rent,266.04,Expense,expense,2021-12,2021,kebutuhan_pokok,23,3,0,5.587398459913525,1
+2021-12-24,Future concern sort.,Other,3277.0,Income,income,2021-12,2021,lainnya,24,4,0,8.094988759303774,0
+2021-12-26,Against only.,Health & Fitness,1512.38,Expense,expense,2021-12,2021,lainnya,26,6,1,7.3221008388962385,1
+2021-12-28,Suffer team.,Other,4596.0,Income,income,2021-12,2021,lainnya,28,1,0,8.433159195806228,0
+2021-12-31,Relate product only from.,Investment,1622.0,Income,income,2021-12,2021,tabungan,31,4,0,7.392031567514591,0
+2022-01-01,Wish run join.,Salary,1043.47,Expense,expense,2022-01,2022,income,1,5,1,6.951264858707644,1
+2022-01-03,Company why really up.,Investment,3186.0,Income,income,2022-01,2022,tabungan,3,0,0,8.066835314417336,0
+2022-01-03,Program sport her.,Health & Fitness,333.38,Expense,expense,2022-01,2022,lainnya,3,0,0,5.8122780708095,1
+2022-01-03,Concern ability reduce.,Travel,1191.51,Expense,expense,2022-01,2022,kebutuhan_sekunder,3,0,0,7.083815608471571,1
+2022-01-04,Surface side nothing consider.,Salary,1420.39,Expense,expense,2022-01,2022,income,4,1,0,7.2593905450507545,1
+2022-01-05,Determine not view cell seat.,Food & Drink,743.03,Expense,expense,2022-01,2022,kebutuhan_pokok,5,2,0,6.612081356600804,1
+2022-01-06,Word collection those become.,Shopping,1171.57,Expense,expense,2022-01,2022,kebutuhan_sekunder,6,3,0,7.066953200030908,1
+2022-01-08,Activity decide really go.,Food & Drink,1197.85,Expense,expense,2022-01,2022,kebutuhan_pokok,8,5,1,7.08911804294778,1
+2022-01-09,Answer just.,Entertainment,1445.59,Expense,expense,2022-01,2022,kebutuhan_sekunder,9,6,1,7.276964341630331,1
+2022-01-13,This manage her.,Utilities,1053.22,Expense,expense,2022-01,2022,kebutuhan_pokok,13,3,0,6.960556435973265,1
+2022-01-13,Big look tell prepare.,Shopping,304.07,Expense,expense,2022-01,2022,kebutuhan_sekunder,13,3,0,5.7205412584711555,1
+2022-01-14,Later son almost.,Food & Drink,1149.41,Expense,expense,2022-01,2022,kebutuhan_pokok,14,4,0,7.047873679557653,1
+2022-01-16,End bit game thousand.,Entertainment,47.69,Expense,expense,2022-01,2022,kebutuhan_sekunder,16,6,1,3.8854736701946093,1
+2022-01-16,Natural together.,Utilities,831.79,Expense,expense,2022-01,2022,kebutuhan_pokok,16,6,1,6.724781509543748,1
+2022-01-18,Order party lot all.,Salary,1746.91,Expense,expense,2022-01,2022,income,18,1,0,7.466176067475771,1
+2022-01-18,Threat church big day couple.,Food & Drink,1414.49,Expense,expense,2022-01,2022,kebutuhan_pokok,18,1,0,7.25523103988553,1
+2022-01-21,Enter example down anyone occur.,Health & Fitness,1996.26,Expense,expense,2022-01,2022,lainnya,21,4,0,7.599531520234083,1
+2022-01-21,Approach about because.,Shopping,634.37,Expense,expense,2022-01,2022,kebutuhan_sekunder,21,4,0,6.45420750636762,1
+2022-01-22,Best deal point.,Other,4975.0,Income,income,2022-01,2022,lainnya,22,5,1,8.512381634419015,0
+2022-01-23,Such final however major.,Travel,1224.05,Expense,expense,2022-01,2022,kebutuhan_sekunder,23,6,1,7.110736938472394,1
+2022-01-24,Politics hold.,Investment,2785.0,Income,income,2022-01,2022,tabungan,24,0,0,7.932362154339751,0
+2022-01-28,Hard knowledge enjoy let.,Entertainment,1883.56,Expense,expense,2022-01,2022,kebutuhan_sekunder,28,4,0,7.541449650884351,1
+2022-02-01,Nor character recent.,Travel,1412.75,Expense,expense,2022-02,2022,kebutuhan_sekunder,1,1,0,7.254001027430331,1
+2022-02-02,Property space.,Salary,640.91,Expense,expense,2022-02,2022,income,2,2,0,6.4644481069469695,1
+2022-02-05,Dinner article hit mission whole.,Travel,582.7,Expense,expense,2022-02,2022,kebutuhan_sekunder,5,5,1,6.369387152209746,1
+2022-02-05,Think live bad total research.,Shopping,1792.56,Expense,expense,2022-02,2022,kebutuhan_sekunder,5,5,1,7.49195775055271,1
+2022-02-06,Too song quality per build.,Health & Fitness,1909.67,Expense,expense,2022-02,2022,lainnya,6,6,1,7.555209244870197,1
+2022-02-08,We cold deep.,Travel,93.71,Expense,expense,2022-02,2022,kebutuhan_sekunder,8,1,0,4.55081959123801,1
+2022-02-08,Amount bad raise.,Rent,699.26,Expense,expense,2022-02,2022,kebutuhan_pokok,8,1,0,6.551451694652317,1
+2022-02-09,Challenge organization floor road southern.,Travel,1497.2,Expense,expense,2022-02,2022,kebutuhan_sekunder,9,2,0,7.312019666513782,1
+2022-02-10,News need task mind.,Travel,1866.72,Expense,expense,2022-02,2022,kebutuhan_sekunder,10,3,0,7.5324737146201,1
+2022-02-10,Onto site both change note.,Utilities,227.36,Expense,expense,2022-02,2022,kebutuhan_pokok,10,3,0,5.430923331096058,1
+2022-02-10,Understand none.,Entertainment,492.49,Expense,expense,2022-02,2022,kebutuhan_sekunder,10,3,0,6.201502595243712,1
+2022-02-10,Test they there.,Entertainment,1279.51,Expense,expense,2022-02,2022,kebutuhan_sekunder,10,3,0,7.15501371505852,1
+2022-02-11,Pressure occur list common.,Other,3205.0,Income,income,2022-02,2022,lainnya,11,4,0,8.072779333169498,0
+2022-02-14,Peace race i.,Rent,1365.57,Expense,expense,2022-02,2022,kebutuhan_pokok,14,0,0,7.220059229815368,1
+2022-02-17,Real any little environmental.,Investment,3833.0,Income,income,2022-02,2022,tabungan,17,3,0,8.251663923605589,0
+2022-02-17,Full soldier.,Salary,960.12,Expense,expense,2022-02,2022,income,17,3,0,6.868099271101851,1
+2022-02-17,Successful teach range.,Other,3131.0,Income,income,2022-02,2022,lainnya,17,3,0,8.049427057110695,0
+2022-02-17,Feel season similar.,Food & Drink,1816.79,Expense,expense,2022-02,2022,kebutuhan_pokok,17,3,0,7.505376756514296,1
+2022-02-18,Rock painting become.,Investment,4883.0,Income,income,2022-02,2022,tabungan,18,4,0,8.493719835230594,0
+2022-02-21,Tree imagine machine.,Food & Drink,1827.33,Expense,expense,2022-02,2022,kebutuhan_pokok,21,0,0,7.5111582608855025,1
+2022-02-22,Start middle city find.,Investment,797.0,Income,income,2022-02,2022,tabungan,22,1,0,6.682108597449809,0
+2022-02-22,Career surface these ahead.,Shopping,1578.04,Expense,expense,2022-02,2022,kebutuhan_sekunder,22,1,0,7.364572346423697,1
+2022-02-25,Student economic lead.,Other,806.0,Income,income,2022-02,2022,lainnya,25,4,0,6.693323668269949,0
+2022-02-27,Ever statement measure.,Investment,3244.0,Income,income,2022-02,2022,tabungan,27,6,1,8.08487062913819,0
+2022-03-01,Drop major.,Salary,1779.63,Expense,expense,2022-03,2022,income,1,1,0,7.484722513251039,1
+2022-03-02,Whether listen necessary.,Other,2735.0,Income,income,2022-03,2022,lainnya,2,2,0,7.914252278742441,0
+2022-03-04,Study else store.,Investment,3208.0,Income,income,2022-03,2022,tabungan,4,4,0,8.073714641109857,0
+2022-03-05,Agree anyone take.,Other,2607.0,Income,income,2022-03,2022,lainnya,5,5,1,7.866338923046544,0
+2022-03-07,Positive question especially.,Food & Drink,1475.87,Expense,expense,2022-03,2022,kebutuhan_pokok,7,0,0,7.297680262408568,1
+2022-03-07,After sister should across treatment.,Entertainment,359.23,Expense,expense,2022-03,2022,kebutuhan_sekunder,7,0,0,5.886742716336424,1
+2022-03-12,Song difference part wall require.,Shopping,1655.71,Expense,expense,2022-03,2022,kebutuhan_sekunder,12,5,1,7.4125889870221275,1
+2022-03-14,Time surface learn design.,Rent,807.66,Expense,expense,2022-03,2022,kebutuhan_pokok,14,0,0,6.69537855677882,1
+2022-03-17,Station however bill memory production.,Investment,4411.0,Income,income,2022-03,2022,tabungan,17,3,0,8.392083380373393,0
+2022-03-17,Positive participant fear blue as.,Entertainment,23.59,Expense,expense,2022-03,2022,kebutuhan_sekunder,17,3,0,3.202339856228101,1
+2022-03-18,Technology end represent throughout.,Salary,1509.98,Expense,expense,2022-03,2022,income,18,4,0,7.320513725917767,1
+2022-03-18,Change she tonight.,Travel,1169.1,Expense,expense,2022-03,2022,kebutuhan_sekunder,18,4,0,7.0648444942249125,1
+2022-03-18,Race return pretty young.,Travel,1310.83,Expense,expense,2022-03,2022,kebutuhan_sekunder,18,4,0,7.1791783879379745,1
+2022-03-20,Identify say on yes.,Food & Drink,1338.89,Expense,expense,2022-03,2022,kebutuhan_pokok,20,6,1,7.200342800023186,1
+2022-03-20,Risk develop movement size.,Utilities,816.78,Expense,expense,2022-03,2022,kebutuhan_pokok,20,6,1,6.706593351774314,1
+2022-03-22,Feel color price next.,Travel,1383.68,Expense,expense,2022-03,2022,kebutuhan_sekunder,22,1,0,7.233224344994577,1
+2022-03-23,Likely scientist.,Travel,741.41,Expense,expense,2022-03,2022,kebutuhan_sekunder,23,2,0,6.60990165120886,1
+2022-03-23,Water tonight pressure.,Utilities,961.58,Expense,expense,2022-03,2022,kebutuhan_pokok,23,2,0,6.86961717959104,1
+2022-03-24,Development the inside thought.,Health & Fitness,837.53,Expense,expense,2022-03,2022,lainnya,24,3,0,6.731650358798553,1
+2022-03-25,One less brother.,Salary,1517.13,Expense,expense,2022-03,2022,income,25,4,0,7.325234593287448,1
+2022-03-26,Oil per line create build.,Entertainment,1526.1,Expense,expense,2022-03,2022,kebutuhan_sekunder,26,5,1,7.331125790959136,1
+2022-03-27,Fear approach take case customer.,Rent,1055.76,Expense,expense,2022-03,2022,kebutuhan_pokok,27,6,1,6.962962902378232,1
+2022-03-28,Throughout would century television congress.,Health & Fitness,165.42,Expense,expense,2022-03,2022,lainnya,28,0,0,5.114514713472284,1
+2022-03-28,Forward would finish around.,Food & Drink,1659.26,Expense,expense,2022-03,2022,kebutuhan_pokok,28,0,0,7.4147294955919625,1
+2022-03-28,Decide similar office.,Entertainment,1149.68,Expense,expense,2022-03,2022,kebutuhan_sekunder,28,0,0,7.04810835095359,1
+2022-03-28,Size sister can its.,Other,4762.0,Income,income,2022-03,2022,lainnya,28,0,0,8.46863300080086,0
+2022-03-29,Investment local above move.,Entertainment,1436.67,Expense,expense,2022-03,2022,kebutuhan_sekunder,29,1,0,7.270779026548805,1
+2022-03-29,Throughout series.,Salary,1619.3,Expense,expense,2022-03,2022,income,29,1,0,7.390366596266955,1
+2022-03-31,Adult above safe.,Shopping,919.03,Expense,expense,2022-03,2022,kebutuhan_sekunder,31,3,0,6.8244062782070865,1
+2022-03-31,Fine bill me fill.,Other,3024.0,Income,income,2022-03,2022,lainnya,31,3,0,8.014666370464942,0
+2022-03-31,Fear fact.,Shopping,516.37,Expense,expense,2022-03,2022,kebutuhan_sekunder,31,3,0,6.248758285852109,1
+2022-04-01,Model its rather card you.,Investment,1098.0,Income,income,2022-04,2022,tabungan,1,4,0,7.002155954403621,0
+2022-04-01,Seek close trade speech.,Other,1022.0,Income,income,2022-04,2022,lainnya,1,4,0,6.930494765951626,0
+2022-04-01,Difference world deep.,Food & Drink,1869.82,Expense,expense,2022-04,2022,kebutuhan_pokok,1,4,0,7.534132116408228,1
+2022-04-01,Mean but represent society heart.,Other,759.0,Income,income,2022-04,2022,lainnya,1,4,0,6.633318433280377,0
+2022-04-02,Perhaps order answer blue structure.,Utilities,1540.25,Expense,expense,2022-04,2022,kebutuhan_pokok,2,5,1,7.340349054478554,1
+2022-04-02,Indicate herself.,Shopping,755.18,Expense,expense,2022-04,2022,kebutuhan_sekunder,2,5,1,6.628279443077456,1
+2022-04-03,Listen check receive.,Salary,1740.54,Expense,expense,2022-04,2022,income,3,6,1,7.462525058247419,1
+2022-04-03,Inside big minute.,Shopping,169.7,Expense,expense,2022-04,2022,kebutuhan_sekunder,3,6,1,5.139907629800395,1
+2022-04-04,Store bit responsibility brother.,Utilities,1310.53,Expense,expense,2022-04,2022,kebutuhan_pokok,4,0,0,7.178949673616411,1
+2022-04-05,Marriage participant.,Utilities,1985.77,Expense,expense,2022-04,2022,kebutuhan_pokok,5,1,0,7.594265483461453,1
+2022-04-08,Win group important civil nature.,Utilities,1458.44,Expense,expense,2022-04,2022,kebutuhan_pokok,8,4,0,7.285808079479964,1
+2022-04-09,Former able public trade.,Food & Drink,1514.8,Expense,expense,2022-04,2022,kebutuhan_pokok,9,5,1,7.323698631377929,1
+2022-04-09,Chance bed memory rich.,Salary,1350.26,Expense,expense,2022-04,2022,income,9,5,1,7.208792769481076,1
+2022-04-10,Popular lead with.,Shopping,1648.49,Expense,expense,2022-04,2022,kebutuhan_sekunder,10,6,1,7.408221428207095,1
+2022-04-10,Anyone spend them system.,Health & Fitness,318.69,Expense,expense,2022-04,2022,lainnya,10,6,1,5.767351776252221,1
+2022-04-16,International break surface three.,Investment,763.0,Income,income,2022-04,2022,tabungan,16,5,1,6.638567789166521,0
+2022-04-18,Professional color group.,Shopping,1233.7,Expense,expense,2022-04,2022,kebutuhan_sekunder,18,0,0,7.118583304573698,1
+2022-04-18,Environmental run head garden box.,Food & Drink,488.93,Expense,expense,2022-04,2022,kebutuhan_pokok,18,0,0,6.194262523756762,1
+2022-04-21,Even history surface son.,Investment,4157.0,Income,income,2022-04,2022,tabungan,21,3,0,8.332789468417959,0
+2022-04-22,Car risk.,Food & Drink,497.02,Expense,expense,2022-04,2022,kebutuhan_pokok,22,4,0,6.210640236860806,1
+2022-04-22,Indeed opportunity.,Other,2419.0,Income,income,2022-04,2022,lainnya,22,4,0,7.791522819150732,0
+2022-04-24,Consider here grow agreement.,Food & Drink,288.87,Expense,expense,2022-04,2022,kebutuhan_pokok,24,6,1,5.669432546612789,1
+2022-04-24,Turn both in animal.,Entertainment,1633.41,Expense,expense,2022-04,2022,kebutuhan_sekunder,24,6,1,7.39903716193795,1
+2022-04-29,Actually than modern season.,Health & Fitness,1159.17,Expense,expense,2022-04,2022,lainnya,29,4,0,7.0563218250868935,1
+2022-04-30,Within prove full.,Health & Fitness,481.44,Expense,expense,2022-04,2022,lainnya,30,5,1,6.178856560715042,1
+2022-05-02,Believe product eat generation put.,Entertainment,832.98,Expense,expense,2022-05,2022,kebutuhan_sekunder,2,0,0,6.726209421255855,1
+2022-05-02,Stuff next write.,Utilities,1255.73,Expense,expense,2022-05,2022,kebutuhan_pokok,2,0,0,7.136268388382001,1
+2022-05-03,Poor church.,Salary,103.3,Expense,expense,2022-05,2022,income,3,1,0,4.647271362006727,1
+2022-05-05,Thank avoid man drive.,Shopping,1573.75,Expense,expense,2022-05,2022,kebutuhan_sekunder,5,3,0,7.361851808502038,1
+2022-05-05,Medical nearly.,Shopping,822.44,Expense,expense,2022-05,2022,kebutuhan_sekunder,5,3,0,6.713490687218304,1
+2022-05-06,Stage bad know of.,Utilities,1511.29,Expense,expense,2022-05,2022,kebutuhan_pokok,6,4,0,7.321380337290211,1
+2022-05-07,Language budget market president.,Entertainment,608.47,Expense,expense,2022-05,2022,kebutuhan_sekunder,7,5,1,6.4125897270372665,1
+2022-05-07,Include news a before.,Salary,1830.33,Expense,expense,2022-05,2022,income,7,5,1,7.512797757817998,1
+2022-05-07,None pressure lay future stay.,Shopping,1119.0,Expense,expense,2022-05,2022,kebutuhan_sekunder,7,5,1,7.02108396428914,1
+2022-05-08,Forward should outside respond.,Investment,2588.0,Income,income,2022-05,2022,tabungan,8,6,1,7.859026979751538,0
+2022-05-08,Box service develop game.,Rent,1845.23,Expense,expense,2022-05,2022,kebutuhan_pokok,8,6,1,7.520901001017788,1
+2022-05-09,Miss reduce animal clearly cell.,Rent,1075.91,Expense,expense,2022-05,2022,kebutuhan_pokok,9,0,0,6.981851108204991,1
+2022-05-09,Effect cultural.,Food & Drink,544.24,Expense,expense,2022-05,2022,kebutuhan_pokok,9,0,0,6.301226064702642,1
+2022-05-11,Democratic station course full.,Food & Drink,1748.5,Expense,expense,2022-05,2022,kebutuhan_pokok,11,2,0,7.467085311807743,1
+2022-05-13,Unit study.,Investment,4427.0,Income,income,2022-05,2022,tabungan,13,4,0,8.395703293828527,0
+2022-05-13,Leader operation mean white.,Health & Fitness,613.34,Expense,expense,2022-05,2022,lainnya,13,4,0,6.420548520814781,1
+2022-05-14,Save network item one under.,Entertainment,1874.95,Expense,expense,2022-05,2022,kebutuhan_sekunder,14,5,1,7.536870476758962,1
+2022-05-19,Community spring billion price paper.,Rent,1496.29,Expense,expense,2022-05,2022,kebutuhan_pokok,19,3,0,7.311412086433065,1
+2022-05-19,Thing industry participant realize.,Entertainment,1394.3,Expense,expense,2022-05,2022,kebutuhan_sekunder,19,3,0,7.240864724898161,1
+2022-05-20,Huge garden family.,Shopping,1831.1,Expense,expense,2022-05,2022,kebutuhan_sekunder,20,4,0,7.513218128897199,1
+2022-05-20,Include record security.,Travel,767.52,Expense,expense,2022-05,2022,kebutuhan_sekunder,20,4,0,6.6444665873635005,1
+2022-05-22,Team republican very plan cut.,Health & Fitness,623.76,Expense,expense,2022-05,2022,lainnya,22,6,1,6.437367575989522,1
+2022-05-23,Tv car report window.,Salary,937.35,Expense,expense,2022-05,2022,income,23,0,0,6.844123013737281,1
+2022-05-24,My pm report set.,Salary,1525.64,Expense,expense,2022-05,2022,income,24,1,0,7.330824521038658,1
+2022-05-24,Old wall report purpose.,Entertainment,747.7,Expense,expense,2022-05,2022,kebutuhan_sekunder,24,1,0,6.61833836923664,1
+2022-05-25,There institution actually.,Entertainment,1485.09,Expense,expense,2022-05,2022,kebutuhan_sekunder,25,2,0,7.3039037887196105,1
+2022-05-27,Herself apply.,Other,2918.0,Income,income,2022-05,2022,lainnya,27,4,0,7.978996370854115,0
+2022-05-28,Environment size worker.,Other,2384.0,Income,income,2022-05,2022,lainnya,28,5,1,7.776954403322442,0
+2022-05-29,Style real far.,Entertainment,1003.61,Expense,expense,2022-05,2022,kebutuhan_sekunder,29,6,1,6.912354685477033,1
+2022-05-29,Grow laugh.,Health & Fitness,522.08,Expense,expense,2022-05,2022,lainnya,29,6,1,6.2597344160383015,1
+2022-05-30,Score night down.,Salary,927.05,Expense,expense,2022-05,2022,income,30,0,0,6.833085610645107,1
+2022-05-30,Unit hold.,Health & Fitness,346.84,Expense,expense,2022-05,2022,lainnya,30,0,0,5.851742603932845,1
+2022-05-31,Approach season data than team.,Salary,376.26,Expense,expense,2022-05,2022,income,31,1,0,5.932934604917579,1
+2022-06-01,Treatment relate positive.,Food & Drink,1052.65,Expense,expense,2022-06,2022,kebutuhan_pokok,1,2,0,6.960015605643222,1
+2022-06-01,Cultural right cover large work.,Rent,1890.92,Expense,expense,2022-06,2022,kebutuhan_pokok,1,2,0,7.545347465419763,1
+2022-06-04,While same budget.,Food & Drink,830.66,Expense,expense,2022-06,2022,kebutuhan_pokok,4,5,1,6.723423703453316,1
+2022-06-04,Evidence enough claim suffer.,Entertainment,145.26,Expense,expense,2022-06,2022,kebutuhan_sekunder,4,5,1,4.985385859842805,1
+2022-06-06,Letter visit always up.,Investment,4642.0,Income,income,2022-06,2022,tabungan,6,0,0,8.443115988019922,0
+2022-06-07,Past product make of group.,Food & Drink,1239.49,Expense,expense,2022-06,2022,kebutuhan_pokok,7,1,0,7.123261741833745,1
+2022-06-07,Detail contain attention measure indeed.,Salary,1321.98,Expense,expense,2022-06,2022,income,7,1,0,7.187642046842716,1
+2022-06-11,Begin determine degree forward.,Other,597.0,Income,income,2022-06,2022,lainnya,11,5,1,6.393590753950631,0
+2022-06-11,Despite sell most.,Other,4888.0,Income,income,2022-06,2022,lainnya,11,5,1,8.494743062578646,0
+2022-06-12,Boy generation.,Food & Drink,1009.41,Expense,expense,2022-06,2022,kebutuhan_pokok,12,6,1,6.918111468057773,1
+2022-06-12,Truth during always those high.,Shopping,1614.27,Expense,expense,2022-06,2022,kebutuhan_sekunder,12,6,1,7.3872574043458314,1
+2022-06-12,Either rich agency might.,Rent,1836.92,Expense,expense,2022-06,2022,kebutuhan_pokok,12,6,1,7.516389776397094,1
+2022-06-13,Sort knowledge analysis together court.,Entertainment,391.94,Expense,expense,2022-06,2022,kebutuhan_sekunder,13,0,0,5.973656928458017,1
+2022-06-17,Way cold.,Health & Fitness,541.98,Expense,expense,2022-06,2022,lainnya,17,4,0,6.297072486843082,1
+2022-06-17,Account assume prove similar ten.,Health & Fitness,1919.0,Expense,expense,2022-06,2022,lainnya,17,4,0,7.560080465021827,1
+2022-06-18,Day stock.,Entertainment,1980.56,Expense,expense,2022-06,2022,kebutuhan_sekunder,18,5,1,7.5916396922628975,1
+2022-06-19,Section child.,Rent,1310.93,Expense,expense,2022-06,2022,kebutuhan_pokok,19,6,1,7.179254614422141,1
+2022-06-20,Also available concern edge.,Food & Drink,196.07,Expense,expense,2022-06,2022,kebutuhan_pokok,20,0,0,5.283558995572491,1
+2022-06-21,Start treat imagine later identify.,Salary,121.67,Expense,expense,2022-06,2022,income,21,1,0,4.80949782304466,1
+2022-06-21,Hope brother.,Investment,1177.0,Income,income,2022-06,2022,tabungan,21,1,0,7.071573364211532,0
+2022-06-23,As second animal summer group.,Shopping,1293.37,Expense,expense,2022-06,2022,kebutuhan_sekunder,23,3,0,7.165779369274208,1
+2022-06-23,Face rate.,Rent,1790.63,Expense,expense,2022-06,2022,kebutuhan_pokok,23,3,0,7.490881099002062,1
+2022-06-25,She join house.,Entertainment,430.72,Expense,expense,2022-06,2022,kebutuhan_sekunder,25,5,1,6.067777229957145,1
+2022-06-25,Choose detail section someone.,Salary,549.48,Expense,expense,2022-06,2022,income,25,5,1,6.310790624894224,1
+2022-06-26,Whether century quality.,Travel,1799.63,Expense,expense,2022-06,2022,kebutuhan_sekunder,26,6,1,7.495891882648544,1
+2022-06-26,Network never.,Food & Drink,366.92,Expense,expense,2022-06,2022,kebutuhan_pokok,26,6,1,5.907865523231669,1
+2022-06-30,Above others.,Food & Drink,1923.32,Expense,expense,2022-06,2022,kebutuhan_pokok,30,3,0,7.562327937562307,1
+2022-07-01,Water fight security tough gas.,Shopping,1858.46,Expense,expense,2022-07,2022,kebutuhan_sekunder,1,4,0,7.528041401974843,1
+2022-07-02,Central contain pattern education boy.,Entertainment,1137.72,Expense,expense,2022-07,2022,kebutuhan_sekunder,2,5,1,7.037660103550961,1
+2022-07-04,Surface usually.,Health & Fitness,773.85,Expense,expense,2022-07,2022,lainnya,4,0,0,6.652669462233344,1
+2022-07-04,Popular available public economy.,Rent,1006.58,Expense,expense,2022-07,2022,kebutuhan_pokok,4,0,0,6.915306695134972,1
+2022-07-04,Maintain former campaign pretty beyond.,Food & Drink,204.39,Expense,expense,2022-07,2022,kebutuhan_pokok,4,0,0,5.3249106108175575,1
+2022-07-05,Fish late pattern.,Rent,687.78,Expense,expense,2022-07,2022,kebutuhan_pokok,5,1,0,6.534921916687322,1
+2022-07-06,Charge note space when collection.,Shopping,1938.15,Expense,expense,2022-07,2022,kebutuhan_sekunder,6,2,0,7.570005011714204,1
+2022-07-13,Size republican political.,Travel,1569.26,Expense,expense,2022-07,2022,kebutuhan_sekunder,13,2,0,7.358996489726885,1
+2022-07-17,Care run there leg.,Entertainment,718.06,Expense,expense,2022-07,2022,kebutuhan_sekunder,17,6,1,6.577944803474401,1
+2022-07-17,Main board population.,Shopping,379.62,Expense,expense,2022-07,2022,kebutuhan_sekunder,17,6,1,5.9418015020888815,1
+2022-07-17,Teach cause mrs.,Shopping,180.53,Expense,expense,2022-07,2022,kebutuhan_sekunder,17,6,1,5.20142092930234,1
+2022-07-18,Baby away affect medical all.,Entertainment,1429.09,Expense,expense,2022-07,2022,kebutuhan_sekunder,18,0,0,7.265492658336436,1
+2022-07-18,If operation trade necessary myself.,Investment,3612.0,Income,income,2022-07,2022,tabungan,18,0,0,8.19229373114764,0
+2022-07-19,President chance hotel through.,Utilities,1481.91,Expense,expense,2022-07,2022,kebutuhan_pokok,19,1,0,7.301761652501344,1
+2022-07-20,Let member however.,Rent,192.13,Expense,expense,2022-07,2022,kebutuhan_pokok,20,2,0,5.2633635372845085,1
+2022-07-22,Production summer.,Salary,726.24,Expense,expense,2022-07,2022,income,22,4,0,6.589256546851072,1
+2022-07-25,Cell city not not the.,Utilities,183.72,Expense,expense,2022-07,2022,kebutuhan_pokok,25,0,0,5.21884116504624,1
+2022-07-27,Voice american seven discussion.,Shopping,215.55,Expense,expense,2022-07,2022,kebutuhan_sekunder,27,2,0,5.3778214676606355,1
+2022-07-27,Doctor protect military social.,Investment,3157.0,Income,income,2022-07,2022,tabungan,27,2,0,8.057694194815587,0
+2022-07-27,Truth thing always possible.,Food & Drink,590.78,Expense,expense,2022-07,2022,kebutuhan_pokok,27,2,0,6.383134944193957,1
+2022-07-27,Plant event score official now.,Rent,1452.44,Expense,expense,2022-07,2022,kebutuhan_pokok,27,2,0,7.281688439477139,1
+2022-07-28,Half president structure might.,Entertainment,1148.2,Expense,expense,2022-07,2022,kebutuhan_sekunder,28,3,0,7.0468213271051345,1
+2022-07-28,Might good test.,Other,1888.0,Income,income,2022-07,2022,lainnya,28,3,0,7.543802867501509,0
+2022-07-29,Thought according think key.,Other,2698.0,Income,income,2022-07,2022,lainnya,29,4,0,7.900636613018005,0
+2022-07-30,Method exactly.,Rent,342.74,Expense,expense,2022-07,2022,kebutuhan_pokok,30,5,1,5.839885557648541,1
+2022-07-31,Church own stage.,Travel,973.62,Expense,expense,2022-07,2022,kebutuhan_sekunder,31,6,1,6.882047651438331,1
+2022-08-02,Specific result loss long.,Other,2520.0,Income,income,2022-08,2022,lainnya,2,1,0,7.83241092718792,0
+2022-08-02,Claim street against amount of.,Salary,1191.67,Expense,expense,2022-08,2022,income,2,1,0,7.083949770254112,1
+2022-08-03,Picture always occur.,Investment,1609.0,Income,income,2022-08,2022,tabungan,3,2,0,7.383989457978509,0
+2022-08-04,Election conference when.,Shopping,671.11,Expense,expense,2022-08,2022,kebutuhan_sekunder,4,3,0,6.510422017603516,1
+2022-08-06,These road.,Health & Fitness,886.04,Expense,expense,2022-08,2022,lainnya,6,5,1,6.787890077121429,1
+2022-08-07,Describe paper.,Utilities,607.87,Expense,expense,2022-08,2022,kebutuhan_pokok,7,6,1,6.411604780226843,1
+2022-08-12,Color store over some.,Entertainment,963.23,Expense,expense,2022-08,2022,kebutuhan_sekunder,12,4,0,6.8713298553642845,1
+2022-08-13,Process enough right garden law.,Other,3114.0,Income,income,2022-08,2022,lainnya,13,5,1,8.043984431221553,0
+2022-08-15,Her car admit.,Salary,1935.85,Expense,expense,2022-08,2022,income,15,0,0,7.568818221069231,1
+2022-08-15,Range step painting concern.,Health & Fitness,758.35,Expense,expense,2022-08,2022,lainnya,15,0,0,6.632462804176279,1
+2022-08-16,Me brother lot candidate owner.,Shopping,736.38,Expense,expense,2022-08,2022,kebutuhan_sekunder,16,1,0,6.603103363110557,1
+2022-08-16,Miss have analysis morning.,Entertainment,1188.53,Expense,expense,2022-08,2022,kebutuhan_sekunder,16,1,0,7.081313550105935,1
+2022-08-17,Smile high open scientist.,Food & Drink,1906.48,Expense,expense,2022-08,2022,kebutuhan_pokok,17,2,0,7.553538278175728,1
+2022-08-18,International effort.,Entertainment,882.53,Expense,expense,2022-08,2022,kebutuhan_sekunder,18,3,0,6.783925247040649,1
+2022-08-19,Exist theory.,Rent,1639.74,Expense,expense,2022-08,2022,kebutuhan_pokok,19,4,0,7.402902638561527,1
+2022-08-21,Country remember smile.,Shopping,1349.23,Expense,expense,2022-08,2022,kebutuhan_sekunder,21,6,1,7.208030227291462,1
+2022-08-21,Brother according pressure reach firm.,Other,2482.0,Income,income,2022-08,2022,lainnya,21,6,1,7.817222785508166,0
+2022-08-22,Choice prepare.,Utilities,1433.32,Expense,expense,2022-08,2022,kebutuhan_pokok,22,0,0,7.268446148287172,1
+2022-08-22,Talk interest hand.,Rent,903.64,Expense,expense,2022-08,2022,kebutuhan_pokok,22,0,0,6.807537074505226,1
+2022-08-23,Sense including six lot.,Shopping,1073.39,Expense,expense,2022-08,2022,kebutuhan_sekunder,23,1,0,6.979508337645236,1
+2022-08-24,Never effect fill general relationship.,Shopping,1091.85,Expense,expense,2022-08,2022,kebutuhan_sekunder,24,2,0,6.9965442417961965,1
+2022-08-26,Security land record.,Health & Fitness,1406.25,Expense,expense,2022-08,2022,lainnya,26,4,0,7.249392724344136,1
+2022-08-26,Democrat hundred.,Rent,227.65,Expense,expense,2022-08,2022,kebutuhan_pokok,26,4,0,5.432192450104064,1
+2022-08-28,Pass range appear home player.,Health & Fitness,341.01,Expense,expense,2022-08,2022,lainnya,28,6,1,5.834839976401214,1
+2022-08-29,Likely outside because.,Shopping,1933.95,Expense,expense,2022-08,2022,kebutuhan_sekunder,29,0,0,7.5678367653367475,1
+2022-08-30,He participant right.,Shopping,220.83,Expense,expense,2022-08,2022,kebutuhan_sekunder,30,1,0,5.401911322758143,1
+2022-08-31,Prevent expert white arm similar.,Investment,4683.0,Income,income,2022-08,2022,tabungan,31,2,0,8.451907724717607,0
+2022-08-31,Keep cut prevent sound.,Entertainment,897.1,Expense,expense,2022-08,2022,kebutuhan_sekunder,31,2,0,6.800281420676904,1
+2022-09-01,Almost outside middle.,Utilities,696.49,Expense,expense,2022-09,2022,kebutuhan_pokok,1,3,0,6.547488176675183,1
+2022-09-02,College already dream a church.,Investment,2920.0,Income,income,2022-09,2022,tabungan,2,4,0,7.979681302387741,0
+2022-09-03,Good house only military.,Rent,240.98,Expense,expense,2022-09,2022,kebutuhan_pokok,3,5,1,5.488855078113332,1
+2022-09-03,Near risk.,Utilities,703.17,Expense,expense,2022-09,2022,kebutuhan_pokok,3,5,1,6.557019804279825,1
+2022-09-03,Give white everybody paper create.,Entertainment,1047.02,Expense,expense,2022-09,2022,kebutuhan_sekunder,3,5,1,6.954657948668356,1
+2022-09-04,Above company media next me.,Rent,881.95,Expense,expense,2022-09,2022,kebutuhan_pokok,4,6,1,6.783268573859133,1
+2022-09-04,Sort what.,Health & Fitness,143.68,Expense,expense,2022-09,2022,lainnya,4,6,1,4.974524407083897,1
+2022-09-05,Economic kind help low during.,Investment,685.0,Income,income,2022-09,2022,tabungan,5,0,0,6.530877627725885,0
+2022-09-06,Race to television loss.,Rent,1357.51,Expense,expense,2022-09,2022,kebutuhan_pokok,6,1,0,7.214143789899302,1
+2022-09-07,Him small.,Investment,4727.0,Income,income,2022-09,2022,tabungan,7,2,0,8.461257559085935,0
+2022-09-08,Son include good.,Investment,3211.0,Income,income,2022-09,2022,tabungan,8,3,0,8.074649075066652,0
+2022-09-10,Red enjoy.,Salary,471.39,Expense,expense,2022-09,2022,income,10,5,1,6.157804915597882,1
+2022-09-11,Human see.,Utilities,380.91,Expense,expense,2022-09,2022,kebutuhan_pokok,11,6,1,5.945184978753801,1
+2022-09-11,Never condition.,Shopping,68.09,Expense,expense,2022-09,2022,kebutuhan_sekunder,11,6,1,4.2354100025007035,1
+2022-09-12,Despite off consumer second.,Entertainment,904.65,Expense,expense,2022-09,2022,kebutuhan_sekunder,12,0,0,6.808652917938925,1
+2022-09-14,Say dog drug enter.,Food & Drink,1412.42,Expense,expense,2022-09,2022,kebutuhan_pokok,14,2,0,7.25376757843257,1
+2022-09-15,Strong student green.,Rent,1158.92,Expense,expense,2022-09,2022,kebutuhan_pokok,15,3,0,7.0561063162049384,1
+2022-09-15,Turn put professional.,Utilities,737.93,Expense,expense,2022-09,2022,kebutuhan_pokok,15,3,0,6.605203193863628,1
+2022-09-17,When summer he firm together.,Investment,2649.0,Income,income,2022-09,2022,tabungan,17,5,1,7.882314918980268,0
+2022-09-18,Make worker trouble.,Salary,1060.15,Expense,expense,2022-09,2022,income,18,6,1,6.96710850468165,1
+2022-09-19,Develop office approach son.,Shopping,1226.5,Expense,expense,2022-09,2022,kebutuhan_sekunder,19,0,0,7.1127348596686755,1
+2022-09-19,Allow girl team simply lead.,Health & Fitness,710.45,Expense,expense,2022-09,2022,lainnya,19,0,0,6.5673051409917,1
+2022-09-21,Least ready activity decision ok.,Utilities,1629.34,Expense,expense,2022-09,2022,kebutuhan_pokok,21,2,0,7.3965438610062115,1
+2022-09-23,Party employee nature down.,Travel,1838.18,Expense,expense,2022-09,2022,kebutuhan_sekunder,23,4,0,7.517075099096675,1
+2022-09-26,Gas contain interest industry sell.,Utilities,633.24,Expense,expense,2022-09,2022,kebutuhan_pokok,26,0,0,6.452427431701569,1
+2022-09-26,Evidence conference capital office.,Rent,374.26,Expense,expense,2022-09,2022,kebutuhan_pokok,26,0,0,5.927619119059228,1
+2022-09-28,Result sound.,Shopping,842.3,Expense,expense,2022-09,2022,kebutuhan_sekunder,28,2,0,6.737322766580596,1
+2022-09-29,Task cultural son school.,Other,3965.0,Income,income,2022-09,2022,lainnya,29,3,0,8.285513309079741,0
+2022-09-29,Computer matter.,Investment,1866.0,Income,income,2022-09,2022,tabungan,29,3,0,7.532088143541722,0
+2022-09-30,Result size feel no nothing.,Utilities,382.33,Expense,expense,2022-09,2022,kebutuhan_pokok,30,4,0,5.948896236999205,1
+2022-10-01,Real art.,Food & Drink,1732.39,Expense,expense,2022-10,2022,kebutuhan_pokok,1,5,1,7.4578343076747196,1
+2022-10-02,Stuff benefit seat employee.,Salary,281.7,Expense,expense,2022-10,2022,income,2,6,1,5.644386264699545,1
+2022-10-03,Newspaper special general in go.,Salary,824.18,Expense,expense,2022-10,2022,income,3,0,0,6.715601544354671,1
+2022-10-04,Office power company sister great.,Salary,982.51,Expense,expense,2022-10,2022,income,4,1,0,6.891127805545597,1
+2022-10-04,Simple land bad party.,Investment,2306.0,Income,income,2022-10,2022,tabungan,4,1,0,7.7437032581737535,0
+2022-10-05,What than political up instead.,Travel,457.44,Expense,expense,2022-10,2022,kebutuhan_sekunder,5,2,0,6.1278294216284985,1
+2022-10-08,Support author class direction.,Salary,1135.64,Expense,expense,2022-10,2022,income,8,5,1,7.035831820923696,1
+2022-10-10,Report painting house.,Salary,1103.96,Expense,expense,2022-10,2022,income,10,0,0,7.007564414201627,1
+2022-10-12,Security minute late cold.,Investment,2694.0,Income,income,2022-10,2022,tabungan,12,2,0,7.899153483343097,0
+2022-10-12,Road product wait.,Health & Fitness,1088.67,Expense,expense,2022-10,2022,lainnya,12,2,0,6.993630177090884,1
+2022-10-13,Cold billion as.,Salary,1097.24,Expense,expense,2022-10,2022,income,13,3,0,7.001464177419488,1
+2022-10-19,Approach side model you billion.,Rent,1474.62,Expense,expense,2022-10,2022,kebutuhan_pokok,19,2,0,7.296833519439288,1
+2022-10-19,Pressure those.,Entertainment,602.44,Expense,expense,2022-10,2022,kebutuhan_sekunder,19,2,0,6.402646615545375,1
+2022-10-20,Easy exist phone.,Salary,533.0,Expense,expense,2022-10,2022,income,20,3,0,6.280395838960195,1
+2022-10-21,Stuff agreement professional team foot.,Rent,883.75,Expense,expense,2022-10,2022,kebutuhan_pokok,21,4,0,6.785305119225573,1
+2022-10-22,Window music evening know.,Entertainment,427.66,Expense,expense,2022-10,2022,kebutuhan_sekunder,22,5,1,6.060664063908987,1
+2022-10-23,Opportunity lead see.,Health & Fitness,1723.49,Expense,expense,2022-10,2022,lainnya,23,6,1,7.452686633577827,1
+2022-10-25,Model police finally girl.,Shopping,340.3,Expense,expense,2022-10,2022,kebutuhan_sekunder,25,1,0,5.832761855912661,1
+2022-10-28,Source kind hand.,Investment,2195.0,Income,income,2022-10,2022,tabungan,28,4,0,7.694392802629421,0
+2022-10-30,Field a spring.,Health & Fitness,1069.24,Expense,expense,2022-10,2022,lainnya,30,6,1,6.9756382013700975,1
+2022-10-31,Expert movement reach man.,Utilities,654.07,Expense,expense,2022-10,2022,kebutuhan_pokok,31,0,0,6.484742100154044,1
+2022-11-03,Across involve fall.,Travel,1149.74,Expense,expense,2022-11,2022,kebutuhan_sekunder,3,3,0,7.0481604926748,1
+2022-11-04,Nature country.,Rent,279.82,Expense,expense,2022-11,2022,kebutuhan_pokok,4,4,0,5.637713894686496,1
+2022-11-05,House clear say hope.,Shopping,1838.35,Expense,expense,2022-11,2022,kebutuhan_sekunder,5,5,1,7.5171675273221465,1
+2022-11-07,Enjoy instead dream.,Utilities,1405.84,Expense,expense,2022-11,2022,kebutuhan_pokok,7,0,0,7.249101333519464,1
+2022-11-07,Possible mother especially.,Investment,3138.0,Income,income,2022-11,2022,tabungan,7,0,0,8.051659556841953,0
+2022-11-09,Consumer face.,Shopping,984.02,Expense,expense,2022-11,2022,kebutuhan_sekunder,9,2,0,6.892661945534482,1
+2022-11-10,Laugh red man fly charge.,Travel,1259.35,Expense,expense,2022-11,2022,kebutuhan_sekunder,10,3,0,7.139144739150198,1
+2022-11-13,Control bill.,Rent,1270.92,Expense,expense,2022-11,2022,kebutuhan_pokok,13,6,1,7.148282848840454,1
+2022-11-14,Resource road do.,Rent,811.67,Expense,expense,2022-11,2022,kebutuhan_pokok,14,0,0,6.700325123087419,1
+2022-11-14,Management game.,Health & Fitness,914.84,Expense,expense,2022-11,2022,lainnya,14,0,0,6.819841676928031,1
+2022-11-15,Your less social form.,Food & Drink,1739.13,Expense,expense,2022-11,2022,kebutuhan_pokok,15,1,0,7.461715102061403,1
+2022-11-17,Entire hotel.,Rent,1464.55,Expense,expense,2022-11,2022,kebutuhan_pokok,17,3,0,7.289985877617387,1
+2022-11-17,Consider time economic high.,Health & Fitness,1701.71,Expense,expense,2022-11,2022,lainnya,17,3,0,7.439976378434547,1
+2022-11-18,Window research his.,Shopping,443.48,Expense,expense,2022-11,2022,kebutuhan_sekunder,18,4,0,6.096905059565979,1
+2022-11-19,Scene almost leave.,Entertainment,994.48,Expense,expense,2022-11,2022,kebutuhan_sekunder,19,5,1,6.903225032895605,1
+2022-11-21,Program decade home which view.,Travel,682.13,Expense,expense,2022-11,2022,kebutuhan_sekunder,21,0,0,6.526685178208683,1
+2022-11-22,Rock seat near business loss.,Salary,1578.72,Expense,expense,2022-11,2022,income,22,1,0,7.365002895126672,1
+2022-11-26,Growth appear project.,Food & Drink,101.43,Expense,expense,2022-11,2022,kebutuhan_pokok,26,5,1,4.629179638448443,1
+2022-11-26,Plan foot cold.,Salary,42.4,Expense,expense,2022-11,2022,income,26,5,1,3.770459441106359,1
+2022-11-28,Build smile across among situation.,Utilities,888.16,Expense,expense,2022-11,2022,kebutuhan_pokok,28,0,0,6.790277196822709,1
+2022-11-28,Choice side eat matter rather.,Other,2157.0,Income,income,2022-11,2022,lainnya,28,0,0,7.67693714581808,0
+2022-12-01,Art green child movie blue.,Utilities,1765.47,Expense,expense,2022-12,2022,kebutuhan_pokok,1,3,0,7.476738483920771,1
+2022-12-03,First next popular.,Travel,195.75,Expense,expense,2022-12,2022,kebutuhan_sekunder,3,5,1,5.281933887297512,1
+2022-12-04,Run again help right.,Rent,749.97,Expense,expense,2022-12,2022,kebutuhan_pokok,4,6,1,6.62136570422856,1
+2022-12-05,Magazine join.,Utilities,113.06,Expense,expense,2022-12,2022,kebutuhan_pokok,5,0,0,4.736724625728392,1
+2022-12-05,Recent couple cost girl run.,Entertainment,864.17,Expense,expense,2022-12,2022,kebutuhan_sekunder,5,0,0,6.7629260194139444,1
+2022-12-07,Trial never attention choice fast.,Investment,508.0,Income,income,2022-12,2022,tabungan,7,2,0,6.2324480165505225,0
+2022-12-12,Happen a point here control.,Rent,274.07,Expense,expense,2022-12,2022,kebutuhan_pokok,12,0,0,5.617025610729919,1
+2022-12-13,Task simply draw return probably.,Salary,28.48,Expense,expense,2022-12,2022,income,13,1,0,3.383712067321136,1
+2022-12-15,Couple raise she child.,Rent,1976.43,Expense,expense,2022-12,2022,kebutuhan_pokok,15,3,0,7.589553300785188,1
+2022-12-16,Important focus benefit probably.,Utilities,960.62,Expense,expense,2022-12,2022,kebutuhan_pokok,16,4,0,6.868619362233539,1
+2022-12-18,Condition all blood.,Rent,1464.22,Expense,expense,2022-12,2022,kebutuhan_pokok,18,6,1,7.2897606808251485,1
+2022-12-22,All politics.,Other,3511.0,Income,income,2022-12,2022,lainnya,22,3,0,8.163940954755008,0
+2022-12-28,Moment red eight hand.,Utilities,771.61,Expense,expense,2022-12,2022,kebutuhan_pokok,28,2,0,6.649774393456727,1
+2022-12-30,Us decade.,Utilities,1286.74,Expense,expense,2022-12,2022,kebutuhan_pokok,30,4,0,7.160644022933113,1
+2022-12-31,Life police.,Rent,1065.71,Expense,expense,2022-12,2022,kebutuhan_pokok,31,5,1,6.9723344242945355,1
+2023-01-03,Sea three state some around.,Investment,4105.0,Income,income,2023-01,2023,tabungan,3,1,0,8.32020459757888,0
+2023-01-04,American audience fight war whether.,Entertainment,1259.88,Expense,expense,2023-01,2023,kebutuhan_sekunder,4,2,0,7.139565168867286,1
+2023-01-04,Rise mother.,Other,4124.0,Income,income,2023-01,2023,lainnya,4,2,0,8.324821298768782,0
+2023-01-06,Moment eat personal.,Rent,1794.22,Expense,expense,2023-01,2023,kebutuhan_pokok,6,4,0,7.4928828560862835,1
+2023-01-09,See indeed black police group.,Investment,3645.0,Income,income,2023-01,2023,tabungan,9,0,0,8.201385955238608,0
+2023-01-10,Third coach congress husband.,Shopping,635.86,Expense,expense,2023-01,2023,kebutuhan_sekunder,10,1,0,6.456549851197171,1
+2023-01-11,Move outside value.,Other,1190.0,Income,income,2023-01,2023,lainnya,11,2,0,7.0825485693553,0
+2023-01-13,Yard foot he share issue.,Travel,1560.15,Expense,expense,2023-01,2023,kebutuhan_sekunder,13,4,0,7.3531780081474265,1
+2023-01-15,Drive nation heart nearly season.,Travel,418.84,Expense,expense,2023-01,2023,kebutuhan_sekunder,15,6,1,6.039873686315669,1
+2023-01-16,Language however risk work.,Entertainment,1498.21,Expense,expense,2023-01,2023,kebutuhan_sekunder,16,0,0,7.312693581686031,1
+2023-01-17,Career three according worker democrat.,Food & Drink,1569.77,Expense,expense,2023-01,2023,kebutuhan_pokok,17,1,0,7.359321223972964,1
+2023-01-18,Sign wall.,Entertainment,994.83,Expense,expense,2023-01,2023,kebutuhan_sekunder,18,2,0,6.903576560285719,1
+2023-01-19,Memory number occur behind leave.,Other,1081.0,Income,income,2023-01,2023,lainnya,19,3,0,6.9865664594064265,0
+2023-01-19,Enter threat economic.,Food & Drink,1973.9,Expense,expense,2023-01,2023,kebutuhan_pokok,19,3,0,7.588273043141941,1
+2023-01-19,Begin hundred truth.,Utilities,779.81,Expense,expense,2023-01,2023,kebutuhan_pokok,19,3,0,6.660331842393918,1
+2023-01-19,Society common stay ready.,Shopping,737.17,Expense,expense,2023-01,2023,kebutuhan_sekunder,19,3,0,6.604174150376977,1
+2023-01-19,Organization feel.,Salary,1909.36,Expense,expense,2023-01,2023,income,19,3,0,7.555046984955629,1
+2023-01-20,Bad argue side girl.,Food & Drink,1178.85,Expense,expense,2023-01,2023,kebutuhan_pokok,20,4,0,7.073142590735383,1
+2023-01-21,Us building side section.,Investment,826.0,Income,income,2023-01,2023,tabungan,21,5,1,6.717804695023691,0
+2023-01-21,Him fight american music change.,Shopping,1018.16,Expense,expense,2023-01,2023,kebutuhan_sekunder,21,5,1,6.9267340375799185,1
+2023-01-22,Check purpose young.,Shopping,852.91,Expense,expense,2023-01,2023,kebutuhan_sekunder,22,6,1,6.74982580181817,1
+2023-01-23,Offer bed it skill challenge.,Utilities,562.16,Expense,expense,2023-01,2023,kebutuhan_pokok,23,0,0,6.333563779594327,1
+2023-01-23,Live seat.,Entertainment,1948.88,Expense,expense,2023-01,2023,kebutuhan_sekunder,23,0,0,7.575523111202685,1
+2023-01-23,Energy huge its recently.,Other,3700.0,Income,income,2023-01,2023,lainnya,23,0,0,8.216358332386156,0
+2023-01-24,Nice maintain present cultural.,Rent,627.24,Expense,expense,2023-01,2023,kebutuhan_pokok,24,1,0,6.442922259066619,1
+2023-01-24,Drug entire involve.,Entertainment,125.23,Expense,expense,2023-01,2023,kebutuhan_sekunder,24,1,0,4.838105639764771,1
+2023-01-24,Both including.,Other,1450.0,Income,income,2023-01,2023,lainnya,24,1,0,7.280008252884188,0
+2023-01-24,Couple general pretty show.,Food & Drink,625.49,Expense,expense,2023-01,2023,kebutuhan_pokok,24,1,0,6.4401328125167945,1
+2023-01-24,Pattern wrong kind certainly.,Utilities,247.69,Expense,expense,2023-01,2023,kebutuhan_pokok,24,1,0,5.516207140913698,1
+2023-01-24,Current health serious.,Food & Drink,336.03,Expense,expense,2023-01,2023,kebutuhan_pokok,24,1,0,5.820171947161761,1
+2023-01-25,Science drug.,Travel,342.26,Expense,expense,2023-01,2023,kebutuhan_sekunder,25,2,0,5.838488177508492,1
+2023-01-26,Add really born.,Other,1467.0,Income,income,2023-01,2023,lainnya,26,3,0,7.291656209174461,0
+2023-01-27,Age decade mrs data.,Food & Drink,676.67,Expense,expense,2023-01,2023,kebutuhan_pokok,27,4,0,6.518660443787294,1
+2023-01-27,Nature performance yeah.,Rent,533.27,Expense,expense,2023-01,2023,kebutuhan_pokok,27,4,0,6.280901329156024,1
+2023-01-28,On professional analysis color.,Rent,997.33,Expense,expense,2023-01,2023,kebutuhan_pokok,28,5,1,6.906083882977702,1
+2023-01-29,Smile peace apply.,Food & Drink,1004.22,Expense,expense,2023-01,2023,kebutuhan_pokok,29,6,1,6.912961702009506,1
+2023-01-29,Home even.,Health & Fitness,323.05,Expense,expense,2023-01,2023,lainnya,29,6,1,5.780897824873725,1
+2023-01-30,Affect test.,Rent,464.52,Expense,expense,2023-01,2023,kebutuhan_pokok,30,0,0,6.143155060348414,1
+2023-01-31,Woman meet report.,Food & Drink,1718.79,Expense,expense,2023-01,2023,kebutuhan_pokok,31,1,0,7.449957469330283,1
+2023-01-31,Term mother cost may.,Investment,4364.0,Income,income,2023-01,2023,tabungan,31,1,0,8.381373468273702,0
+2023-02-01,Unit again easy morning four.,Utilities,366.13,Expense,expense,2023-02,2023,kebutuhan_pokok,1,2,0,5.905716008765504,1
+2023-02-02,Adult range green.,Food & Drink,1110.2,Expense,expense,2023-02,2023,kebutuhan_pokok,2,3,0,7.013195791440134,1
+2023-02-03,You without every.,Shopping,456.79,Expense,expense,2023-02,2023,kebutuhan_sekunder,3,4,0,6.126410563680066,1
+2023-02-06,Election hit yourself wrong want.,Health & Fitness,549.8,Expense,expense,2023-02,2023,lainnya,6,0,0,6.311371766854499,1
+2023-02-07,Charge today prevent.,Other,1478.0,Income,income,2023-02,2023,lainnya,7,1,0,7.2991214627108,0
+2023-02-07,Minute question their rather.,Food & Drink,366.9,Expense,expense,2023-02,2023,kebutuhan_pokok,7,1,0,5.907811162110729,1
+2023-02-08,Of interview fine.,Food & Drink,1908.62,Expense,expense,2023-02,2023,kebutuhan_pokok,8,2,0,7.554659548367344,1
+2023-02-08,My deal catch must.,Other,2812.0,Income,income,2023-02,2023,lainnya,8,2,0,7.9420068084898565,0
+2023-02-09,Finally relate model.,Travel,661.33,Expense,expense,2023-02,2023,kebutuhan_sekunder,9,3,0,6.495763921158411,1
+2023-02-12,Yet wish certain usually.,Food & Drink,744.15,Expense,expense,2023-02,2023,kebutuhan_pokok,12,6,1,6.613585540394801,1
+2023-02-13,Attack mouth rest contain.,Travel,1481.76,Expense,expense,2023-02,2023,kebutuhan_sekunder,13,0,0,7.301660494921351,1
+2023-02-15,She they.,Health & Fitness,1187.46,Expense,expense,2023-02,2023,lainnya,15,2,0,7.080413630365135,1
+2023-02-16,Field seat start pm.,Entertainment,1467.6,Expense,expense,2023-02,2023,kebutuhan_sekunder,16,3,0,7.29206484501751,1
+2023-02-18,Single blood continue.,Entertainment,309.63,Expense,expense,2023-02,2023,kebutuhan_sekunder,18,5,1,5.738602493300822,1
+2023-02-20,Note discuss discussion reach grow.,Food & Drink,473.67,Expense,expense,2023-02,2023,kebutuhan_pokok,20,0,0,6.162619825751064,1
+2023-02-20,Maybe painting republican.,Food & Drink,1902.47,Expense,expense,2023-02,2023,kebutuhan_pokok,20,0,0,7.551433815257063,1
+2023-02-22,System man case.,Other,3019.0,Income,income,2023-02,2023,lainnya,22,2,0,8.013012110368916,0
+2023-02-22,Allow share address.,Investment,3939.0,Income,income,2023-02,2023,tabungan,22,2,0,8.27893600229198,0
+2023-02-24,Development provide dark daughter.,Food & Drink,1945.39,Expense,expense,2023-02,2023,kebutuhan_pokok,24,4,0,7.57373165376602,1
+2023-02-26,Term majority foot leader.,Other,1262.0,Income,income,2023-02,2023,lainnya,26,6,1,7.141245122350491,0
+2023-02-26,If among save herself.,Investment,4757.0,Income,income,2023-02,2023,tabungan,26,6,1,8.467582690862903,0
+2023-02-26,Particularly score order modern.,Health & Fitness,922.33,Expense,expense,2023-02,2023,lainnya,26,6,1,6.827986700398455,1
+2023-02-28,Body lead there there early.,Rent,1015.8,Expense,expense,2023-02,2023,kebutuhan_pokok,28,1,0,6.9244157198752445,1
+2023-03-03,Worker always hold share.,Shopping,158.91,Expense,expense,2023-03,2023,kebutuhan_sekunder,3,4,0,5.074611156971351,1
+2023-03-03,Fact huge fight.,Shopping,1328.26,Expense,expense,2023-03,2023,kebutuhan_sekunder,3,4,0,7.192377675395457,1
+2023-03-05,Coach family try ready.,Other,2638.0,Income,income,2023-03,2023,lainnya,5,6,1,7.878155336503324,0
+2023-03-05,Stop later reveal both.,Shopping,1404.44,Expense,expense,2023-03,2023,kebutuhan_sekunder,5,6,1,7.248105700001002,1
+2023-03-05,Career including late condition opportunity.,Health & Fitness,910.99,Expense,expense,2023-03,2023,lainnya,5,6,1,6.815629025101936,1
+2023-03-07,Bed food possible represent.,Entertainment,280.86,Expense,expense,2023-03,2023,kebutuhan_sekunder,7,1,0,5.641410493763365,1
+2023-03-08,Before relationship plant.,Rent,319.27,Expense,expense,2023-03,2023,kebutuhan_pokok,8,2,0,5.76916439003684,1
+2023-03-08,Religious risk window partner civil.,Other,3072.0,Income,income,2023-03,2023,lainnya,8,2,0,8.030409562130485,0
+2023-03-08,Analysis color friend the.,Health & Fitness,1929.62,Expense,expense,2023-03,2023,lainnya,8,2,0,7.565596473834595,1
+2023-03-08,Than condition republican.,Travel,932.06,Expense,expense,2023-03,2023,kebutuhan_sekunder,8,2,0,6.838469507461301,1
+2023-03-10,Finally shoulder land.,Rent,323.65,Expense,expense,2023-03,2023,kebutuhan_pokok,10,4,0,5.782747678954496,1
+2023-03-10,Together whether about.,Food & Drink,437.89,Expense,expense,2023-03,2023,kebutuhan_pokok,10,4,0,6.084248812201313,1
+2023-03-12,Learn talk.,Utilities,191.51,Expense,expense,2023-03,2023,kebutuhan_pokok,12,6,1,5.260148100430533,1
+2023-03-13,Part management.,Health & Fitness,798.53,Expense,expense,2023-03,2023,lainnya,13,0,0,6.68402405502218,1
+2023-03-13,Process law kind over according.,Other,2631.0,Income,income,2023-03,2023,lainnya,13,0,0,7.875499292445208,0
+2023-03-13,People newspaper stay.,Utilities,71.85,Expense,expense,2023-03,2023,kebutuhan_pokok,13,0,0,4.288402532641213,1
+2023-03-15,Challenge president already.,Salary,1116.35,Expense,expense,2023-03,2023,income,15,2,0,7.018715089290395,1
+2023-03-15,Study fear turn any indicate.,Rent,929.47,Expense,expense,2023-03,2023,kebutuhan_pokok,15,2,0,6.835689834831772,1
+2023-03-16,Public particularly reality.,Utilities,251.69,Expense,expense,2023-03,2023,kebutuhan_pokok,16,3,0,5.532163440995382,1
+2023-03-16,Concern lay often use behavior.,Investment,1570.0,Income,income,2023-03,2023,tabungan,16,3,0,7.359467638255621,0
+2023-03-18,Happy her attack interview.,Other,3549.0,Income,income,2023-03,2023,lainnya,18,5,1,8.174702882469461,0
+2023-03-18,Fall care.,Rent,1168.82,Expense,expense,2023-03,2023,kebutuhan_pokok,18,5,1,7.064605169802422,1
+2023-03-21,Money modern receive partner.,Rent,53.38,Expense,expense,2023-03,2023,kebutuhan_pokok,21,1,0,3.995996439204325,1
+2023-03-22,Role pick would low read.,Other,1555.0,Income,income,2023-03,2023,lainnya,22,2,0,7.349873704738337,0
+2023-03-23,Participant first moment yet.,Other,1503.0,Income,income,2023-03,2023,lainnya,23,3,0,7.315883504509785,0
+2023-03-23,Pass market role.,Other,914.0,Income,income,2023-03,2023,lainnya,23,3,0,6.818924065275521,0
+2023-03-23,Space this discussion fact.,Other,3735.0,Income,income,2023-03,2023,lainnya,23,3,0,8.225770799348734,0
+2023-03-24,Brother let.,Shopping,1369.59,Expense,expense,2023-03,2023,kebutuhan_sekunder,24,4,0,7.222996583050395,1
+2023-03-27,Son yourself increase.,Investment,2033.0,Income,income,2023-03,2023,tabungan,27,0,0,7.617759576608505,0
+2023-03-29,Night point action cut.,Salary,1768.01,Expense,expense,2023-03,2023,income,29,2,0,7.478175347055057,1
+2023-03-30,So film media.,Investment,2917.0,Income,income,2023-03,2023,tabungan,30,3,0,7.978653729082731,0
+2023-03-31,Box four.,Salary,131.35,Expense,expense,2023-03,2023,income,31,4,0,4.88544992867311,1
+2023-03-31,Pattern ahead compare form full.,Utilities,844.28,Expense,expense,2023-03,2023,kebutuhan_pokok,31,4,0,6.739667933416006,1
+2023-04-01,Something population loss physical.,Entertainment,1265.2,Expense,expense,2023-04,2023,kebutuhan_sekunder,1,5,1,7.143775568110026,1
+2023-04-01,Leg sport until argue.,Food & Drink,1978.91,Expense,expense,2023-04,2023,kebutuhan_pokok,1,5,1,7.590806668110037,1
+2023-04-04,North question new.,Health & Fitness,964.57,Expense,expense,2023-04,2023,lainnya,4,1,0,6.872718600535143,1
+2023-04-07,Officer forward trouble.,Health & Fitness,1826.23,Expense,expense,2023-04,2023,lainnya,7,4,0,7.5105564378908305,1
+2023-04-08,Wide exactly.,Shopping,548.17,Expense,expense,2023-04,2023,kebutuhan_sekunder,8,5,1,6.308408047492863,1
+2023-04-09,Worker phone success number.,Investment,740.0,Income,income,2023-04,2023,tabungan,9,6,1,6.608000625296087,0
+2023-04-10,Organization ten seem.,Travel,126.6,Expense,expense,2023-04,2023,kebutuhan_sekunder,10,0,0,4.848900370910689,1
+2023-04-10,Even beautiful.,Health & Fitness,1536.02,Expense,expense,2023-04,2023,lainnya,10,0,0,7.3376007558156795,1
+2023-04-13,Later week democratic few.,Utilities,209.27,Expense,expense,2023-04,2023,kebutuhan_pokok,13,3,0,5.348392419180343,1
+2023-04-15,Size sing tree kitchen.,Travel,1072.04,Expense,expense,2023-04,2023,kebutuhan_sekunder,15,5,1,6.978251020593835,1
+2023-04-16,Toward child future low.,Food & Drink,1530.46,Expense,expense,2023-04,2023,kebutuhan_pokok,16,6,1,7.333976807746958,1
+2023-04-20,Simply century the.,Shopping,716.06,Expense,expense,2023-04,2023,kebutuhan_sekunder,20,3,0,6.575159519106845,1
+2023-04-20,Day already hold.,Utilities,360.44,Expense,expense,2023-04,2023,kebutuhan_pokok,20,3,0,5.890096052719693,1
+2023-04-21,About usually.,Health & Fitness,1828.82,Expense,expense,2023-04,2023,lainnya,21,4,0,7.511972880342002,1
+2023-04-22,Level animal minute probably.,Other,1664.0,Income,income,2023-04,2023,lainnya,22,5,1,7.417580402414544,0
+2023-04-22,Officer fine.,Entertainment,1675.03,Expense,expense,2023-04,2023,kebutuhan_sekunder,22,5,1,7.424183180643166,1
+2023-04-23,Customer expert mother significant.,Salary,1088.83,Expense,expense,2023-04,2023,income,23,6,1,6.993776999756896,1
+2023-04-24,Chance event address.,Investment,1239.0,Income,income,2023-04,2023,tabungan,24,0,0,7.122866658599083,0
+2023-04-25,Bill my near even wall.,Investment,663.0,Income,income,2023-04,2023,tabungan,25,1,0,6.498282149476434,0
+2023-05-02,Each author party full kitchen.,Food & Drink,670.15,Expense,expense,2023-05,2023,kebutuhan_pokok,2,1,0,6.508992658933645,1
+2023-05-02,Likely push.,Utilities,688.11,Expense,expense,2023-05,2023,kebutuhan_pokok,2,1,0,6.5354009099397725,1
+2023-05-03,Approach interview condition other.,Other,987.0,Income,income,2023-05,2023,lainnya,3,2,0,6.895682697747868,0
+2023-05-05,Green forward cup serve speak.,Investment,1408.0,Income,income,2023-05,2023,tabungan,5,4,0,7.25063551189868,0
+2023-05-05,Nothing behavior sort recognize.,Health & Fitness,1921.51,Expense,expense,2023-05,2023,lainnya,5,4,0,7.561386902926739,1
+2023-05-05,Financial popular short like.,Shopping,1176.17,Expense,expense,2023-05,2023,kebutuhan_sekunder,5,4,0,7.070868531834794,1
+2023-05-07,Technology pay tree.,Health & Fitness,281.54,Expense,expense,2023-05,2023,lainnya,7,6,1,5.643820133483518,1
+2023-05-12,Record professor small.,Other,4491.0,Income,income,2023-05,2023,lainnya,12,4,0,8.410053315858335,0
+2023-05-14,Maintain assume both long.,Utilities,1417.29,Expense,expense,2023-05,2023,kebutuhan_pokok,14,6,1,7.257207199581212,1
+2023-05-14,Should page camera.,Health & Fitness,454.24,Expense,expense,2023-05,2023,lainnya,14,6,1,6.120824752413689,1
+2023-05-14,Stage someone for power.,Utilities,762.98,Expense,expense,2023-05,2023,kebutuhan_pokok,14,6,1,6.638541610813399,1
+2023-05-15,Leave opportunity draw during city.,Travel,263.42,Expense,expense,2023-05,2023,kebutuhan_sekunder,15,0,0,5.577538748081951,1
+2023-05-15,At decade really issue.,Shopping,1703.01,Expense,expense,2023-05,2023,kebutuhan_sekunder,15,0,0,7.440739575916642,1
+2023-05-16,Skin name door production back.,Food & Drink,372.34,Expense,expense,2023-05,2023,kebutuhan_pokok,16,1,0,5.922489532604451,1
+2023-05-17,Boy other foot best.,Entertainment,1282.9,Expense,expense,2023-05,2023,kebutuhan_sekunder,17,2,0,7.157657599597038,1
+2023-05-18,Final image our.,Other,1652.0,Income,income,2023-05,2023,lainnya,18,3,0,7.410347097821024,0
+2023-05-19,Management produce bed stage.,Rent,483.61,Expense,expense,2023-05,2023,kebutuhan_pokok,19,4,0,6.183344443745248,1
+2023-05-20,Serious produce.,Utilities,1276.01,Expense,expense,2023-05,2023,kebutuhan_pokok,20,5,1,7.1522766868554415,1
+2023-05-20,Factor past language day theory.,Health & Fitness,898.79,Expense,expense,2023-05,2023,lainnya,20,5,1,6.80216140276452,1
+2023-05-20,Some quickly truth view response.,Entertainment,1389.42,Expense,expense,2023-05,2023,kebutuhan_sekunder,20,5,1,7.237361138757501,1
+2023-05-22,Old particularly.,Rent,1443.62,Expense,expense,2023-05,2023,kebutuhan_pokok,22,0,0,7.2756015901837925,1
+2023-05-22,Summer system artist too.,Other,3937.0,Income,income,2023-05,2023,lainnya,22,0,0,8.278428259199071,0
+2023-05-22,Reflect star.,Shopping,991.23,Expense,expense,2023-05,2023,kebutuhan_sekunder,22,0,0,6.899954935249403,1
+2023-05-25,Technology tend.,Shopping,211.84,Expense,expense,2023-05,2023,kebutuhan_sekunder,25,3,0,5.360540709728169,1
+2023-05-28,Reduce hour fish him.,Entertainment,333.69,Expense,expense,2023-05,2023,kebutuhan_sekunder,28,6,1,5.813204730268699,1
+2023-05-29,Nation production little could.,Investment,2915.0,Income,income,2023-05,2023,tabungan,29,0,0,7.977968093128549,0
+2023-05-29,Style child young prove.,Other,1357.0,Income,income,2023-05,2023,lainnya,29,0,0,7.213768308118642,0
+2023-05-30,Author administration.,Investment,3575.0,Income,income,2023-05,2023,tabungan,30,1,0,8.182000136293405,0
+2023-06-02,Window career case south.,Investment,4981.0,Income,income,2023-06,2023,tabungan,2,4,0,8.513586695822125,0
+2023-06-03,Us perhaps lawyer interest star.,Rent,682.52,Expense,expense,2023-06,2023,kebutuhan_pokok,3,5,1,6.527255916891721,1
+2023-06-04,Difficult interesting account marriage.,Salary,1411.96,Expense,expense,2023-06,2023,income,4,6,1,7.2534420737204925,1
+2023-06-05,Especially unit office almost.,Utilities,1218.56,Expense,expense,2023-06,2023,kebutuhan_pokok,5,0,0,7.106245416937675,1
+2023-06-08,Low happy oil which bag.,Food & Drink,211.5,Expense,expense,2023-06,2023,kebutuhan_pokok,8,3,0,5.358941988364472,1
+2023-06-08,Let back three.,Entertainment,824.47,Expense,expense,2023-06,2023,kebutuhan_sekunder,8,3,0,6.7159529210886655,1
+2023-06-09,Line score whether.,Travel,1324.59,Expense,expense,2023-06,2023,kebutuhan_sekunder,9,4,0,7.189612922330127,1
+2023-06-09,Something fine apply gas sing.,Rent,108.77,Expense,expense,2023-06,2023,kebutuhan_pokok,9,4,0,4.698387267699225,1
+2023-06-10,Mention light safe inside.,Salary,315.64,Expense,expense,2023-06,2023,income,10,5,1,5.757765481854255,1
+2023-06-10,Cold reason our.,Shopping,184.38,Expense,expense,2023-06,2023,kebutuhan_sekunder,10,5,1,5.222407772447687,1
+2023-06-13,Employee picture official of prevent.,Salary,407.35,Expense,expense,2023-06,2023,income,13,1,0,6.012124649804285,1
+2023-06-15,Agree machine camera baby six.,Investment,2890.0,Income,income,2023-06,2023,tabungan,15,3,0,7.969357742016346,0
+2023-06-16,Past every either.,Salary,1689.1,Expense,expense,2023-06,2023,income,16,4,0,7.432542977764182,1
+2023-06-16,Company option character land space.,Shopping,947.18,Expense,expense,2023-06,2023,kebutuhan_sekunder,16,4,0,6.854544357649067,1
+2023-06-17,Machine son television.,Travel,191.36,Expense,expense,2023-06,2023,kebutuhan_sekunder,17,5,1,5.259368616409462,1
+2023-06-17,Whose other.,Utilities,748.33,Expense,expense,2023-06,2023,kebutuhan_pokok,17,5,1,6.619179473937002,1
+2023-06-19,Sell include himself produce.,Utilities,897.09,Expense,expense,2023-06,2023,kebutuhan_pokok,19,0,0,6.800270285997388,1
+2023-06-21,Official success approach.,Salary,534.17,Expense,expense,2023-06,2023,income,21,2,0,6.282584453431286,1
+2023-06-22,Apply less.,Food & Drink,310.75,Expense,expense,2023-06,2023,kebutuhan_pokok,22,3,0,5.742201584560146,1
+2023-06-22,Live way two.,Rent,180.56,Expense,expense,2023-06,2023,kebutuhan_pokok,22,3,0,5.201586177588265,1
+2023-06-23,Raise hope enjoy most.,Shopping,1941.7,Expense,expense,2023-06,2023,kebutuhan_sekunder,23,4,0,7.571834037044735,1
+2023-06-25,Eye something.,Food & Drink,1683.19,Expense,expense,2023-06,2023,kebutuhan_pokok,25,6,1,7.429040015041155,1
+2023-06-25,Which raise american truth.,Shopping,1931.6,Expense,expense,2023-06,2023,kebutuhan_sekunder,25,6,1,7.566621525565208,1
+2023-06-25,Particular present evening establish.,Salary,1149.7,Expense,expense,2023-06,2023,income,25,6,1,7.048125731829413,1
+2023-06-26,Pressure hospital significant.,Travel,167.12,Expense,expense,2023-06,2023,kebutuhan_sekunder,26,0,0,5.124678010136916,1
+2023-06-30,Side mind question year finish.,Food & Drink,1009.18,Expense,expense,2023-06,2023,kebutuhan_pokok,30,4,0,6.917883811778178,1
+2023-07-01,Story activity.,Utilities,249.36,Expense,expense,2023-07,2023,kebutuhan_pokok,1,5,1,5.5228998820565005,1
+2023-07-02,Billion land detail exist cover.,Utilities,1898.63,Expense,expense,2023-07,2023,kebutuhan_pokok,2,6,1,7.549414409348746,1
+2023-07-05,Begin voice prevent structure wear.,Investment,2078.0,Income,income,2023-07,2023,tabungan,5,2,0,7.639642287858013,0
+2023-07-05,Beat painting heavy.,Other,1141.0,Income,income,2023-07,2023,lainnya,5,2,0,7.040536390215956,0
+2023-07-06,To receive education.,Shopping,411.82,Expense,expense,2023-07,2023,kebutuhan_sekunder,6,3,0,6.023011662606112,1
+2023-07-07,Police two.,Utilities,1669.88,Expense,expense,2023-07,2023,kebutuhan_pokok,7,4,0,7.421105712731238,1
+2023-07-07,Realize property show either.,Rent,183.18,Expense,expense,2023-07,2023,kebutuhan_pokok,7,4,0,5.215913540293221,1
+2023-07-10,Since him four.,Health & Fitness,1714.68,Expense,expense,2023-07,2023,lainnya,10,0,0,7.447564782471836,1
+2023-07-10,Western enough key.,Food & Drink,1575.24,Expense,expense,2023-07,2023,kebutuhan_pokok,10,0,0,7.362797543087712,1
+2023-07-10,Particular condition man.,Shopping,233.91,Expense,expense,2023-07,2023,kebutuhan_sekunder,10,0,0,5.459202462065674,1
+2023-07-10,Shoulder despite poor tree resource.,Investment,1365.0,Income,income,2023-07,2023,tabungan,10,0,0,7.2196420401307355,0
+2023-07-11,Authority number.,Rent,1573.63,Expense,expense,2023-07,2023,kebutuhan_pokok,11,1,0,7.361775603026638,1
+2023-07-13,Affect marriage present a.,Health & Fitness,1757.01,Expense,expense,2023-07,2023,lainnya,13,3,0,7.471937766511083,1
+2023-07-15,Entire record toward off.,Salary,1148.33,Expense,expense,2023-07,2023,income,15,5,1,7.04693444287925,1
+2023-07-15,Long identify road speech.,Utilities,558.07,Expense,expense,2023-07,2023,kebutuhan_pokok,15,5,1,6.326274688928873,1
+2023-07-15,Difficult his ready sister building.,Other,817.0,Income,income,2023-07,2023,lainnya,15,5,1,6.706862336602747,0
+2023-07-15,Four field area young.,Health & Fitness,1384.12,Expense,expense,2023-07,2023,lainnya,15,5,1,7.233542057467464,1
+2023-07-15,Movement which ball least.,Other,2700.0,Income,income,2023-07,2023,lainnya,15,5,1,7.901377353792616,0
+2023-07-16,Computer always his.,Food & Drink,682.35,Expense,expense,2023-07,2023,kebutuhan_pokok,16,6,1,6.5270071734108095,1
+2023-07-17,Receive to piece.,Travel,567.89,Expense,expense,2023-07,2023,kebutuhan_sekunder,17,0,0,6.343687093820427,1
+2023-07-18,Be plan same cause.,Rent,1945.27,Expense,expense,2023-07,2023,kebutuhan_pokok,18,1,0,7.573669999267534,1
+2023-07-19,Rest or.,Travel,1948.7,Expense,expense,2023-07,2023,kebutuhan_sekunder,19,2,0,7.575430793568413,1
+2023-07-19,As music film move.,Health & Fitness,546.15,Expense,expense,2023-07,2023,lainnya,19,2,0,6.304722987864452,1
+2023-07-20,Already argue.,Rent,383.99,Expense,expense,2023-07,2023,kebutuhan_pokok,20,3,0,5.953217359924479,1
+2023-07-21,Brother southern project learn.,Shopping,1484.48,Expense,expense,2023-07,2023,kebutuhan_sekunder,21,4,0,7.30349323133172,1
+2023-07-23,Scientist do author.,Health & Fitness,1643.82,Expense,expense,2023-07,2023,lainnya,23,6,1,7.405386234719994,1
+2023-07-25,President likely truth animal.,Utilities,140.58,Expense,expense,2023-07,2023,kebutuhan_pokok,25,1,0,4.9528649283460435,1
+2023-07-26,Common anyone.,Shopping,279.94,Expense,expense,2023-07,2023,kebutuhan_sekunder,26,2,0,5.638141123402764,1
+2023-07-27,Lay color.,Food & Drink,355.74,Expense,expense,2023-07,2023,kebutuhan_pokok,27,3,0,5.877007225130157,1
+2023-07-27,Box organization.,Entertainment,1675.58,Expense,expense,2023-07,2023,kebutuhan_sekunder,27,3,0,7.424511283228873,1
+2023-07-30,Source international.,Salary,110.61,Expense,expense,2023-07,2023,income,30,6,1,4.715010651667623,1
+2023-08-01,Building range national focus.,Entertainment,555.22,Expense,expense,2023-08,2023,kebutuhan_sekunder,1,1,0,6.321163899441766,1
+2023-08-04,Or friend.,Shopping,1274.47,Expense,expense,2023-08,2023,kebutuhan_sekunder,4,4,0,7.1510700171171,1
+2023-08-05,Center indeed recent.,Investment,2481.0,Income,income,2023-08,2023,tabungan,5,5,1,7.8168199657645525,0
+2023-08-07,Just understand american.,Salary,363.39,Expense,expense,2023-08,2023,income,7,0,0,5.898224722638234,1
+2023-08-07,Partner sing administration main according.,Health & Fitness,695.06,Expense,expense,2023-08,2023,lainnya,7,0,0,6.545435863515371,1
+2023-08-09,Religious order.,Travel,1500.43,Expense,expense,2023-08,2023,kebutuhan_sekunder,9,2,0,7.314173266290017,1
+2023-08-09,Really society live camera.,Travel,64.63,Expense,expense,2023-08,2023,kebutuhan_sekunder,9,2,0,4.184032908485631,1
+2023-08-10,Mission include visit.,Investment,2313.0,Income,income,2023-08,2023,tabungan,10,3,0,7.746732907753622,0
+2023-08-10,Conference matter wear physical site.,Entertainment,545.48,Expense,expense,2023-08,2023,kebutuhan_sekunder,10,3,0,6.303497710423594,1
+2023-08-11,Above dog brother morning.,Food & Drink,1730.61,Expense,expense,2023-08,2023,kebutuhan_pokok,11,4,0,7.456806890556925,1
+2023-08-16,Gun seven music despite show.,Food & Drink,953.45,Expense,expense,2023-08,2023,kebutuhan_pokok,16,2,0,6.861135258346911,1
+2023-08-17,Apply both chance.,Investment,569.0,Income,income,2023-08,2023,tabungan,17,3,0,6.345636360828596,0
+2023-08-17,Computer prove amount population.,Travel,1428.35,Expense,expense,2023-08,2023,kebutuhan_sekunder,17,3,0,7.264975074462307,1
+2023-08-21,Itself free source.,Travel,853.38,Expense,expense,2023-08,2023,kebutuhan_sekunder,21,0,0,6.750376059692253,1
+2023-08-22,Bit appear.,Health & Fitness,923.41,Expense,expense,2023-08,2023,lainnya,22,1,0,6.829155696169494,1
+2023-08-23,Citizen ahead method.,Travel,1357.62,Expense,expense,2023-08,2023,kebutuhan_sekunder,23,2,0,7.214224757685209,1
+2023-08-25,Return or for.,Shopping,1173.13,Expense,expense,2023-08,2023,kebutuhan_sekunder,25,4,0,7.068282726795977,1
+2023-08-27,Discover body direction down.,Other,2815.0,Income,income,2023-08,2023,lainnya,27,6,1,7.943072717277933,0
+2023-08-30,Heart determine likely.,Rent,968.66,Expense,expense,2023-08,2023,kebutuhan_pokok,30,2,0,6.8769454945886075,1
+2023-08-30,Three certain.,Travel,1284.78,Expense,expense,2023-08,2023,kebutuhan_sekunder,30,2,0,7.159120817068026,1
+2023-08-30,Hold carry rest.,Travel,1315.68,Expense,expense,2023-08,2023,kebutuhan_sekunder,30,2,0,7.182868695758063,1
+2023-08-30,Dark camera realize.,Travel,384.84,Expense,expense,2023-08,2023,kebutuhan_sekunder,30,2,0,5.9554227757607165,1
+2023-09-01,Carry surface learn.,Entertainment,1800.38,Expense,expense,2023-09,2023,kebutuhan_sekunder,1,4,0,7.496308316812158,1
+2023-09-01,Detail far church some.,Shopping,1324.46,Expense,expense,2023-09,2023,kebutuhan_sekunder,1,4,0,7.1895148479821485,1
+2023-09-03,Wife talk beat tax majority.,Food & Drink,1314.25,Expense,expense,2023-09,2023,kebutuhan_pokok,3,6,1,7.1817820406109165,1
+2023-09-04,List leg address into their.,Travel,1814.75,Expense,expense,2023-09,2023,kebutuhan_sekunder,4,0,0,7.504253884486277,1
+2023-09-04,Its develop until watch.,Food & Drink,1170.22,Expense,expense,2023-09,2023,kebutuhan_pokok,4,0,0,7.065801219563977,1
+2023-09-04,Individual analysis.,Entertainment,692.9,Expense,expense,2023-09,2023,kebutuhan_sekunder,4,0,0,6.542327857905503,1
+2023-09-07,Almost most look something.,Salary,1813.99,Expense,expense,2023-09,2023,income,7,3,0,7.5038352370418995,1
+2023-09-10,Manager bar send really.,Travel,1692.38,Expense,expense,2023-09,2023,kebutuhan_sekunder,10,6,1,7.4344818105797925,1
+2023-09-11,Car fast positive.,Utilities,594.63,Expense,expense,2023-09,2023,kebutuhan_pokok,11,0,0,6.3896196689167795,1
+2023-09-11,Look fight.,Travel,1453.12,Expense,expense,2023-09,2023,kebutuhan_sekunder,11,0,0,7.28215618563708,1
+2023-09-12,Section agency lawyer sign them.,Utilities,1894.38,Expense,expense,2023-09,2023,kebutuhan_pokok,12,1,0,7.54717462511802,1
+2023-09-12,Smile have less.,Rent,452.28,Expense,expense,2023-09,2023,kebutuhan_pokok,12,1,0,6.1165100360822064,1
+2023-09-13,Audience throw four allow international.,Travel,846.74,Expense,expense,2023-09,2023,kebutuhan_sekunder,13,2,0,6.742573985005771,1
+2023-09-14,My some skin ball thing.,Health & Fitness,528.51,Expense,expense,2023-09,2023,lainnya,14,3,0,6.271952050604393,1
+2023-09-14,War push thousand book half.,Rent,946.37,Expense,expense,2023-09,2023,kebutuhan_pokok,14,3,0,6.853689724377139,1
+2023-09-14,Hand possible relate night.,Rent,949.72,Expense,expense,2023-09,2023,kebutuhan_pokok,14,3,0,6.857219592274243,1
+2023-09-15,Wonder draw box.,Investment,3626.0,Income,income,2023-09,2023,tabungan,15,4,0,8.196161139282902,0
+2023-09-15,That reflect send set fly.,Shopping,117.58,Expense,expense,2023-09,2023,kebutuhan_sekunder,15,4,0,4.775587838279222,1
+2023-09-16,Quite everyone as generation.,Utilities,1984.77,Expense,expense,2023-09,2023,kebutuhan_pokok,16,5,1,7.59376202722382,1
+2023-09-16,Money but report question.,Salary,295.02,Expense,expense,2023-09,2023,income,16,5,1,5.690427019609043,1
+2023-09-21,Later happy pull.,Utilities,1560.09,Expense,expense,2023-09,2023,kebutuhan_pokok,21,3,0,7.353139574202562,1
+2023-09-21,Throughout leader bag.,Utilities,633.69,Expense,expense,2023-09,2023,kebutuhan_pokok,21,3,0,6.453136690713278,1
+2023-09-23,When baby clearly.,Other,2740.0,Income,income,2023-09,2023,lainnya,23,5,1,7.916078096302786,0
+2023-09-24,Many themselves minute.,Utilities,1156.8,Expense,expense,2023-09,2023,kebutuhan_pokok,24,6,1,7.054276931644904,1
+2023-09-28,Indicate radio use.,Investment,1560.0,Income,income,2023-09,2023,tabungan,28,3,0,7.353081920515432,0
+2023-09-29,Information scene again country.,Shopping,812.75,Expense,expense,2023-09,2023,kebutuhan_sekunder,29,4,0,6.7016531935227786,1
+2023-10-03,Strong mind from.,Shopping,19.29,Expense,expense,2023-10,2023,kebutuhan_sekunder,3,1,0,3.0101281538377234,1
+2023-10-04,Pretty skin main program.,Health & Fitness,1900.64,Expense,expense,2023-10,2023,lainnya,4,2,0,7.550471950742717,1
+2023-10-04,Knowledge fight car smile commercial.,Entertainment,45.65,Expense,expense,2023-10,2023,kebutuhan_sekunder,4,2,0,3.8426729272933526,1
+2023-10-05,Machine wife show.,Investment,2353.0,Income,income,2023-10,2023,tabungan,5,3,0,7.763871287820222,0
+2023-10-06,Good lay coach.,Health & Fitness,631.06,Expense,expense,2023-10,2023,lainnya,6,4,0,6.448984326349514,1
+2023-10-08,Expect win stuff realize project.,Other,1868.0,Income,income,2023-10,2023,lainnya,8,6,1,7.533158807455563,0
+2023-10-08,Draw american first.,Investment,2942.0,Income,income,2023-10,2023,tabungan,8,6,1,7.987184748233473,0
+2023-10-08,Employee continue none alone.,Salary,1458.39,Expense,expense,2023-10,2023,income,8,6,1,7.285773819177031,1
+2023-10-09,Challenge large wish move.,Health & Fitness,872.99,Expense,expense,2023-10,2023,lainnya,9,0,0,6.773068933942482,1
+2023-10-09,Identify material.,Utilities,692.04,Expense,expense,2023-10,2023,kebutuhan_pokok,9,0,0,6.541087717581885,1
+2023-10-11,Until choose wife national.,Health & Fitness,1502.73,Expense,expense,2023-10,2023,lainnya,11,2,0,7.315703967117316,1
+2023-10-13,Positive far time wide.,Other,656.0,Income,income,2023-10,2023,lainnya,13,4,0,6.487684018484611,0
+2023-10-14,Son rock two.,Utilities,430.27,Expense,expense,2023-10,2023,kebutuhan_pokok,14,5,1,6.066734344081793,1
+2023-10-14,Rule too.,Investment,1508.0,Income,income,2023-10,2023,tabungan,14,5,1,7.319202458767849,0
+2023-10-15,Bring agent pay detail group.,Food & Drink,756.63,Expense,expense,2023-10,2023,kebutuhan_pokok,15,6,1,6.6301951398206995,1
+2023-10-15,Part crime.,Food & Drink,1191.91,Expense,expense,2023-10,2023,kebutuhan_pokok,15,6,1,7.084150979185114,1
+2023-10-16,Sit short cultural.,Investment,661.0,Income,income,2023-10,2023,tabungan,16,0,0,6.495265555937008,0
+2023-10-17,Support quality whatever wish hour.,Investment,3914.0,Income,income,2023-10,2023,tabungan,17,1,0,8.272570608424903,0
+2023-10-17,Owner memory argue project.,Rent,1099.09,Expense,expense,2023-10,2023,kebutuhan_pokok,17,1,0,7.003147273621355,1
+2023-10-27,Respond into history.,Utilities,418.93,Expense,expense,2023-10,2023,kebutuhan_pokok,27,4,0,6.040088030720315,1
+2023-10-27,General final knowledge.,Food & Drink,609.22,Expense,expense,2023-10,2023,kebutuhan_pokok,27,4,0,6.413819547884414,1
+2023-10-29,Democratic thousand.,Travel,1249.37,Expense,expense,2023-10,2023,kebutuhan_sekunder,29,6,1,7.131194786496989,1
+2023-10-30,Eye south wife interest.,Shopping,1663.0,Expense,expense,2023-10,2023,kebutuhan_sekunder,30,0,0,7.416979621381154,1
+2023-10-30,Structure our century.,Investment,2815.0,Income,income,2023-10,2023,tabungan,30,0,0,7.943072717277933,0
+2023-11-04,Write moment friend value.,Investment,4577.0,Income,income,2023-11,2023,tabungan,4,5,1,8.429017500512511,0
+2023-11-05,According police.,Investment,2654.0,Income,income,2023-11,2023,tabungan,5,6,1,7.884199933676039,0
+2023-11-08,Company left nothing trip.,Entertainment,722.26,Expense,expense,2023-11,2023,kebutuhan_sekunder,8,2,0,6.583768770238365,1
+2023-11-08,Strategy face make.,Utilities,88.42,Expense,expense,2023-11,2023,kebutuhan_pokok,8,2,0,4.4933443708058345,1
+2023-11-08,Fight nice less agree able.,Entertainment,1379.53,Expense,expense,2023-11,2023,kebutuhan_sekunder,8,2,0,7.23022276239088,1
+2023-11-09,What strong line.,Entertainment,15.45,Expense,expense,2023-11,2023,kebutuhan_sekunder,9,3,0,2.800325477211381,1
+2023-11-09,Conference trade population agreement.,Rent,1672.11,Expense,expense,2023-11,2023,kebutuhan_pokok,9,3,0,7.42243944897481,1
+2023-11-11,Yes at seat ok.,Utilities,1899.4,Expense,expense,2023-11,2023,kebutuhan_pokok,11,5,1,7.549819669312766,1
+2023-11-11,Than physical live reason.,Rent,1449.89,Expense,expense,2023-11,2023,kebutuhan_pokok,11,5,1,7.279932440224126,1
+2023-11-13,Mention offer suddenly clear.,Other,2393.0,Income,income,2023-11,2023,lainnya,13,0,0,7.780720886117918,0
+2023-11-14,Floor there career.,Travel,535.61,Expense,expense,2023-11,2023,kebutuhan_sekunder,14,1,0,6.285271573673264,1
+2023-11-14,Evening information.,Investment,823.0,Income,income,2023-11,2023,tabungan,14,1,0,6.714170529909472,0
+2023-11-15,Face morning.,Health & Fitness,1605.18,Expense,expense,2023-11,2023,lainnya,15,2,0,7.381613967927367,1
+2023-11-17,Create physical share out cold.,Rent,199.05,Expense,expense,2023-11,2023,kebutuhan_pokok,17,4,0,5.298567335303244,1
+2023-11-18,Step rate feeling rate.,Food & Drink,29.25,Expense,expense,2023-11,2023,kebutuhan_pokok,18,5,1,3.4094961844768505,1
+2023-11-21,Move goal.,Investment,3192.0,Income,income,2023-11,2023,tabungan,21,1,0,8.068716192714781,0
+2023-11-21,Carry example.,Salary,1910.63,Expense,expense,2023-11,2023,income,21,1,0,7.555711560240621,1
+2023-11-22,Future treat bill choice.,Rent,751.52,Expense,expense,2023-11,2023,kebutuhan_pokok,22,2,0,6.62342757434293,1
+2023-11-23,Somebody next ready.,Rent,807.55,Expense,expense,2023-11,2023,kebutuhan_pokok,23,3,0,6.695242520023953,1
+2023-11-23,Republican reduce sort individual trouble.,Travel,1673.06,Expense,expense,2023-11,2023,kebutuhan_sekunder,23,3,0,7.423007092701008,1
+2023-11-26,Type look find.,Salary,1601.8,Expense,expense,2023-11,2023,income,26,6,1,7.379507378761989,1
+2023-11-26,Stage threat our.,Utilities,234.98,Expense,expense,2023-11,2023,kebutuhan_pokok,26,6,1,5.4637470556717735,1
+2023-11-26,Report agreement sport.,Food & Drink,1963.32,Expense,expense,2023-11,2023,kebutuhan_pokok,26,6,1,7.58290140843253,1
+2023-11-26,Task central dinner.,Rent,837.9,Expense,expense,2023-11,2023,kebutuhan_pokok,26,6,1,6.732091509852249,1
+2023-11-27,Candidate bad real.,Salary,370.71,Expense,expense,2023-11,2023,income,27,0,0,5.91811398035805,1
+2023-11-27,Affect machine.,Health & Fitness,1226.6,Expense,expense,2023-11,2023,lainnya,27,0,0,7.112816322745581,1
+2023-11-28,Cultural allow.,Utilities,971.33,Expense,expense,2023-11,2023,kebutuhan_pokok,28,1,0,6.879695253014099,1
+2023-11-28,Arrive budget education at property.,Shopping,886.97,Expense,expense,2023-11,2023,kebutuhan_sekunder,28,1,0,6.788937958637701,1
+2023-11-29,Turn day top.,Other,601.0,Income,income,2023-11,2023,lainnya,29,2,0,6.400257445308821,0
+2023-12-05,Ahead certainly second everyone.,Entertainment,1956.01,Expense,expense,2023-12,2023,kebutuhan_sekunder,5,1,0,7.579173077245055,1
+2023-12-05,Goal talk sit party.,Health & Fitness,1043.01,Expense,expense,2023-12,2023,lainnya,5,1,0,6.950824346940771,1
+2023-12-06,Attention standard shake more respond.,Rent,871.37,Expense,expense,2023-12,2023,kebutuhan_pokok,6,2,0,6.771213645840736,1
+2023-12-08,Top mr wind.,Salary,698.04,Expense,expense,2023-12,2023,income,8,4,0,6.549707965203126,1
+2023-12-09,Turn surface listen.,Shopping,305.82,Expense,expense,2023-12,2023,kebutuhan_sekunder,9,5,1,5.7262612564166275,1
+2023-12-09,Pull blue strong wonder.,Food & Drink,33.17,Expense,expense,2023-12,2023,kebutuhan_pokok,9,5,1,3.5313480661272005,1
+2023-12-10,Method imagine seven.,Salary,1705.22,Expense,expense,2023-12,2023,income,10,6,1,7.442035676361115,1
+2023-12-11,Letter mind many.,Rent,1505.35,Expense,expense,2023-12,2023,kebutuhan_pokok,11,0,0,7.317444785076738,1
+2023-12-13,News american foreign.,Health & Fitness,1940.59,Expense,expense,2023-12,2023,lainnya,13,2,0,7.571262504007699,1
+2023-12-14,Exist outside find wish.,Investment,3601.0,Income,income,2023-12,2023,tabungan,14,3,0,8.189244525735901,0
+2023-12-14,Network fact talk.,Entertainment,166.87,Expense,expense,2023-12,2023,kebutuhan_sekunder,14,3,0,5.123189870334323,1
+2023-12-18,Thus sort.,Salary,185.16,Expense,expense,2023-12,2023,income,18,0,0,5.2266065189940365,1
+2023-12-20,Actually purpose public.,Health & Fitness,246.23,Expense,expense,2023-12,2023,lainnya,20,2,0,5.510319077443402,1
+2023-12-21,Mission put budget house.,Food & Drink,214.26,Expense,expense,2023-12,2023,kebutuhan_pokok,21,3,0,5.371846599836152,1
+2023-12-22,Ask window full.,Food & Drink,1653.56,Expense,expense,2023-12,2023,kebutuhan_pokok,22,4,0,7.411290391436665,1
+2023-12-23,Do interesting material.,Travel,1781.32,Expense,expense,2023-12,2023,kebutuhan_sekunder,23,5,1,7.485671165422268,1
+2023-12-25,Event smile popular hundred live.,Salary,1901.21,Expense,expense,2023-12,2023,income,25,0,0,7.550771647105227,1
+2023-12-26,Memory challenge lawyer business.,Food & Drink,1635.01,Expense,expense,2023-12,2023,kebutuhan_pokok,26,1,0,7.400015629613449,1
+2023-12-27,Discuss wall ahead scene.,Health & Fitness,1124.7,Expense,expense,2023-12,2023,lainnya,27,2,0,7.0261603433607585,1
+2023-12-29,Question will him quickly.,Salary,1436.15,Expense,expense,2023-12,2023,income,29,4,0,7.270417264764992,1
+2023-12-29,Perform benefit baby.,Salary,236.91,Expense,expense,2023-12,2023,income,29,4,0,5.471892450893752,1
+2023-12-29,Society dark product make.,Entertainment,14.37,Expense,expense,2023-12,2023,kebutuhan_sekunder,29,4,0,2.7324175575505043,1
+2024-01-02,Gas teacher national weight all.,Travel,1099.9,Expense,expense,2024-01,2024,kebutuhan_sekunder,2,1,0,7.003883306076357,1
+2024-01-02,Himself fire heavy.,Rent,101.1,Expense,expense,2024-01,2024,kebutuhan_pokok,2,1,0,4.625952725170619,1
+2024-01-04,Allow news.,Investment,3852.0,Income,income,2024-01,2024,tabungan,4,3,0,8.256607344626158,0
+2024-01-04,Man care resource.,Investment,2036.0,Income,income,2024-01,2024,tabungan,4,3,0,7.619233416226805,0
+2024-01-07,Notice make.,Other,2266.0,Income,income,2024-01,2024,lainnya,7,6,1,7.726212650507529,0
+2024-01-09,Occur live take media hot.,Entertainment,1436.41,Expense,expense,2024-01,2024,kebutuhan_sekunder,9,1,0,7.2705981620158475,1
+2024-01-09,Wife pay good within fly.,Other,880.0,Income,income,2024-01,2024,lainnya,9,1,0,6.78105762593618,0
+2024-01-10,And student give score agree.,Rent,1546.57,Expense,expense,2024-01,2024,kebutuhan_pokok,10,2,0,7.344441237784502,1
+2024-01-11,Best generation group goal.,Utilities,1928.07,Expense,expense,2024-01,2024,kebutuhan_pokok,11,3,0,7.564793300479572,1
+2024-01-11,Doctor fine be.,Investment,4045.0,Income,income,2024-01,2024,tabungan,11,3,0,8.305484017727691,0
+2024-01-11,Boy college mrs.,Salary,1849.5,Expense,expense,2024-01,2024,income,11,3,0,7.523211151826211,1
+2024-01-12,Price institution method inside.,Utilities,1386.72,Expense,expense,2024-01,2024,kebutuhan_pokok,12,4,0,7.235417391610069,1
+2024-01-13,Onto worry help hope.,Investment,1348.0,Income,income,2024-01,2024,tabungan,13,5,1,7.207118856207756,0
+2024-01-14,Space beyond.,Health & Fitness,1013.18,Expense,expense,2024-01,2024,lainnya,14,6,1,6.9218356831901415,1
+2024-01-15,Market specific property coach.,Entertainment,554.46,Expense,expense,2024-01,2024,kebutuhan_sekunder,15,0,0,6.319796599286322,1
+2024-01-16,Wide cut player wind.,Travel,911.16,Expense,expense,2024-01,2024,kebutuhan_sekunder,16,1,0,6.815815413283271,1
+2024-01-16,Degree enter father of source.,Other,4696.0,Income,income,2024-01,2024,lainnya,16,1,0,8.454679286026995,0
+2024-01-16,Behind front attack song little.,Health & Fitness,1426.63,Expense,expense,2024-01,2024,lainnya,16,1,0,7.263771005684926,1
+2024-01-17,Somebody prepare few sound.,Entertainment,409.77,Expense,expense,2024-01,2024,kebutuhan_sekunder,17,2,0,6.018033447150127,1
+2024-01-19,Finish increase economy middle public.,Travel,1376.36,Expense,expense,2024-01,2024,kebutuhan_sekunder,19,4,0,7.227923902468217,1
+2024-01-19,Thing physical might.,Utilities,1962.86,Expense,expense,2024-01,2024,kebutuhan_pokok,19,4,0,7.582667203277928,1
+2024-01-19,Material produce station visit environmental.,Utilities,1012.75,Expense,expense,2024-01,2024,kebutuhan_pokok,19,4,0,6.921411605429623,1
+2024-01-19,Table trade various risk art.,Health & Fitness,1423.6,Expense,expense,2024-01,2024,lainnya,19,4,0,7.261646351544253,1
+2024-01-20,Leg drive second she.,Salary,1169.78,Expense,expense,2024-01,2024,income,20,5,1,7.0654254723349625,1
+2024-01-22,Five store ask data.,Shopping,1351.74,Expense,expense,2024-01,2024,kebutuhan_sekunder,22,0,0,7.209887444146602,1
+2024-01-23,Statement position either.,Travel,1756.18,Expense,expense,2024-01,2024,kebutuhan_sekunder,23,1,0,7.471465530293169,1
+2024-01-24,Draw change agree someone.,Food & Drink,1050.23,Expense,expense,2024-01,2024,kebutuhan_pokok,24,2,0,6.957716186135907,1
+2024-01-25,Magazine yard instead town.,Investment,934.0,Income,income,2024-01,2024,tabungan,25,3,0,6.840546529288687,0
+2024-01-26,Evening ahead smile.,Entertainment,541.29,Expense,expense,2024-01,2024,kebutuhan_sekunder,26,4,0,6.295800913699124,1
+2024-01-26,Compare system white magazine after.,Travel,1369.95,Expense,expense,2024-01,2024,kebutuhan_sekunder,26,4,0,7.2232592091671535,1
+2024-01-26,Own test too imagine.,Investment,2917.0,Income,income,2024-01,2024,tabungan,26,4,0,7.978653729082731,0
+2024-01-27,However style.,Food & Drink,723.78,Expense,expense,2024-01,2024,kebutuhan_pokok,27,5,1,6.585868160529069,1
+2024-01-28,Born same usually.,Entertainment,1487.4,Expense,expense,2024-01,2024,kebutuhan_sekunder,28,6,1,7.305456996472468,1
+2024-01-30,Wear use edge this draw.,Entertainment,1026.74,Expense,expense,2024-01,2024,kebutuhan_sekunder,30,1,0,6.9351174957379484,1
+2024-02-01,Forget once hope security.,Travel,1388.94,Expense,expense,2024-02,2024,kebutuhan_sekunder,1,3,0,7.237015859725456,1
+2024-02-06,Design blood degree ever.,Other,3674.0,Income,income,2024-02,2024,lainnya,6,1,0,8.209308411646937,0
+2024-02-07,Television argue mouth.,Health & Fitness,1932.01,Expense,expense,2024-02,2024,lainnya,7,2,0,7.566833652500692,1
+2024-02-07,Nation little east everyone.,Other,2163.0,Income,income,2024-02,2024,lainnya,7,2,0,7.679713639966372,0
+2024-02-10,Little happy final population.,Salary,1661.67,Expense,expense,2024-02,2024,income,10,5,1,7.416180022941355,1
+2024-02-10,Real small.,Health & Fitness,1512.66,Expense,expense,2024-02,2024,lainnya,10,5,1,7.322285838103912,1
+2024-02-10,Need finally when.,Entertainment,1554.53,Expense,expense,2024-02,2024,kebutuhan_sekunder,10,5,1,7.349571602554797,1
+2024-02-14,Movement door kind.,Travel,903.14,Expense,expense,2024-02,2024,kebutuhan_sekunder,14,2,0,6.806984215658118,1
+2024-02-14,Until truth feeling view.,Rent,382.08,Expense,expense,2024-02,2024,kebutuhan_pokok,14,2,0,5.948243844653419,1
+2024-02-15,Decision three trouble.,Investment,3590.0,Income,income,2024-02,2024,tabungan,15,3,0,8.186185994226083,0
+2024-02-16,Smile ever bag single.,Other,2664.0,Income,income,2024-02,2024,lainnya,16,4,0,7.887959336599945,0
+2024-02-17,Say unit four institution.,Other,546.0,Income,income,2024-02,2024,lainnya,17,5,1,6.304448802421981,0
+2024-02-19,Recognize media goal.,Utilities,89.48,Expense,expense,2024-02,2024,kebutuhan_pokok,19,0,0,4.505128831807865,1
+2024-02-21,Law agree appear political.,Food & Drink,1549.59,Expense,expense,2024-02,2024,kebutuhan_pokok,21,2,0,7.346390782647592,1
+2024-02-21,Able customer figure.,Travel,986.2,Expense,expense,2024-02,2024,kebutuhan_sekunder,21,2,0,6.894872653151124,1
+2024-02-21,Book economic.,Health & Fitness,155.03,Expense,expense,2024-02,2024,lainnya,21,2,0,5.050048296453091,1
+2024-02-22,Rate society floor long same.,Entertainment,1914.41,Expense,expense,2024-02,2024,kebutuhan_sekunder,22,3,0,7.55768697791549,1
+2024-02-23,Reach step son.,Utilities,837.7,Expense,expense,2024-02,2024,kebutuhan_pokok,23,4,0,6.731853073990366,1
+2024-02-23,Increase consider.,Rent,705.31,Expense,expense,2024-02,2024,kebutuhan_pokok,23,4,0,6.560054234604327,1
+2024-02-24,Difference way type positive phone.,Health & Fitness,668.82,Expense,expense,2024-02,2024,lainnya,24,5,1,6.507009019573913,1
+2024-02-24,Cup red collection husband.,Salary,1993.3,Expense,expense,2024-02,2024,income,24,5,1,7.598048390559176,1
+2024-02-25,Employee become happy water bring.,Food & Drink,238.3,Expense,expense,2024-02,2024,kebutuhan_pokok,25,6,1,5.477717994914328,1
+2024-02-27,Significant up still management.,Entertainment,1809.95,Expense,expense,2024-02,2024,kebutuhan_sekunder,27,1,0,7.501606848446506,1
+2024-02-27,Course technology site.,Entertainment,1918.2,Expense,expense,2024-02,2024,kebutuhan_sekunder,27,1,0,7.559663711525485,1
+2024-02-27,High issue deal democratic.,Health & Fitness,768.93,Expense,expense,2024-02,2024,lainnya,27,1,0,6.646299601624339,1
+2024-02-28,Industry impact certainly.,Rent,777.89,Expense,expense,2024-02,2024,kebutuhan_pokok,28,2,0,6.657869829224922,1
+2024-02-29,Dog late eat.,Travel,59.16,Expense,expense,2024-02,2024,kebutuhan_sekunder,29,3,0,4.097007679641584,1
+2024-03-02,Beat light the window.,Health & Fitness,1033.48,Expense,expense,2024-03,2024,lainnya,2,5,1,6.941654163987597,1
+2024-03-03,Require remain save.,Salary,97.26,Expense,expense,2024-03,2024,income,3,6,1,4.587617026740502,1
+2024-03-05,Believe arrive.,Entertainment,647.42,Expense,expense,2024-03,2024,kebutuhan_sekunder,5,1,0,6.474538634543129,1
+2024-03-05,Likely great paper.,Investment,1871.0,Income,income,2024-03,2024,tabungan,5,1,0,7.534762657037537,0
+2024-03-06,Effect people.,Food & Drink,1257.6,Expense,expense,2024-03,2024,kebutuhan_pokok,6,2,0,7.137755271092833,1
+2024-03-06,Provide car throughout american.,Entertainment,1731.25,Expense,expense,2024-03,2024,kebutuhan_sekunder,6,2,0,7.457176420507491,1
+2024-03-06,College manage fund.,Rent,419.1,Expense,expense,2024-03,2024,kebutuhan_pokok,6,2,0,6.040492778175336,1
+2024-03-07,Bed report item.,Shopping,1296.66,Expense,expense,2024-03,2024,kebutuhan_sekunder,7,3,0,7.168317921503,1
+2024-03-07,Finish without.,Utilities,57.27,Expense,expense,2024-03,2024,kebutuhan_pokok,7,3,0,4.065087381154983,1
+2024-03-08,Security unit executive.,Food & Drink,184.17,Expense,expense,2024-03,2024,kebutuhan_pokok,8,4,0,5.221274322049725,1
+2024-03-11,Stop unit might job close.,Other,1077.0,Income,income,2024-03,2024,lainnya,11,0,0,6.982862751468942,0
+2024-03-13,New type pm.,Entertainment,1822.86,Expense,expense,2024-03,2024,kebutuhan_sekunder,13,2,0,7.508710413302543,1
+2024-03-15,Country approach.,Salary,1264.13,Expense,expense,2024-03,2024,income,15,4,0,7.142930162679894,1
+2024-03-16,Like clear.,Food & Drink,785.11,Expense,expense,2024-03,2024,kebutuhan_pokok,16,5,1,6.667096731746659,1
+2024-03-18,Break time manager kid.,Investment,1018.0,Income,income,2024-03,2024,tabungan,18,0,0,6.926577033222725,0
+2024-03-26,Leader both rest challenge.,Food & Drink,1404.76,Expense,expense,2024-03,2024,kebutuhan_pokok,26,1,0,7.248333360787415,1
+2024-03-27,Data exist.,Investment,2874.0,Income,income,2024-03,2024,tabungan,27,2,0,7.963807953231451,0
+2024-03-28,State none production defense your.,Travel,1217.07,Expense,expense,2024-03,2024,kebutuhan_sekunder,28,3,0,7.1050229178828,1
+2024-03-29,Short congress turn east marriage.,Salary,769.01,Expense,expense,2024-03,2024,income,29,4,0,6.646403501776386,1
+2024-03-30,Ago race quite hour.,Food & Drink,953.24,Expense,expense,2024-03,2024,kebutuhan_pokok,30,5,1,6.860915212136319,1
+2024-03-30,Child ball store process.,Utilities,1496.04,Expense,expense,2024-03,2024,kebutuhan_pokok,30,5,1,7.311245104169533,1
+2024-04-03,Western order accept wide prevent.,Travel,1920.67,Expense,expense,2024-04,2024,kebutuhan_sekunder,3,2,0,7.560949878638922,1
+2024-04-04,Water yourself trade someone.,Other,591.0,Income,income,2024-04,2024,lainnya,4,3,0,6.3835066348840055,0
+2024-04-06,Tell soon executive.,Utilities,255.24,Expense,expense,2024-04,2024,kebutuhan_pokok,6,5,1,5.546114505300903,1
+2024-04-07,Natural own.,Other,4900.0,Income,income,2024-04,2024,lainnya,7,6,1,8.497194544909547,0
+2024-04-08,Effort drive side human.,Rent,616.34,Expense,expense,2024-04,2024,kebutuhan_pokok,8,0,0,6.425419925615774,1
+2024-04-09,Clear single expect.,Health & Fitness,431.36,Expense,expense,2024-04,2024,lainnya,9,1,0,6.0692585745480025,1
+2024-04-09,Fear song save.,Utilities,330.3,Expense,expense,2024-04,2024,kebutuhan_pokok,9,1,0,5.80302430930585,1
+2024-04-10,Capital program story mention majority.,Travel,396.71,Expense,expense,2024-04,2024,kebutuhan_sekunder,10,2,0,5.985723096478868,1
+2024-04-10,Environmental outside bed institution.,Investment,4996.0,Income,income,2024-04,2024,tabungan,10,2,0,8.516593011344206,0
+2024-04-11,Control piece behavior message wind.,Rent,588.4,Expense,expense,2024-04,2024,kebutuhan_pokok,11,3,0,6.379105070303594,1
+2024-04-13,Us money positive.,Investment,2117.0,Income,income,2024-04,2024,tabungan,13,5,1,7.658227526161352,0
+2024-04-16,Life bad soon.,Salary,1903.56,Expense,expense,2024-04,2024,income,16,1,0,7.552006289754253,1
+2024-04-17,Worker range feel.,Entertainment,209.09,Expense,expense,2024-04,2024,kebutuhan_sekunder,17,2,0,5.347536010335536,1
+2024-04-17,Into notice necessary true message.,Entertainment,642.39,Expense,expense,2024-04,2024,kebutuhan_sekunder,17,2,0,6.466751072253305,1
+2024-04-17,Including let result spend.,Travel,1389.98,Expense,expense,2024-04,2024,kebutuhan_sekunder,17,2,0,7.237763813674857,1
+2024-04-18,One shoulder administration.,Other,3091.0,Income,income,2024-04,2024,lainnya,18,3,0,8.036573409707312,0
+2024-04-20,Skill successful and.,Utilities,19.62,Expense,expense,2024-04,2024,kebutuhan_pokok,20,5,1,3.026261478588814,1
+2024-04-21,Finish right serious.,Entertainment,1427.28,Expense,expense,2024-04,2024,kebutuhan_sekunder,21,6,1,7.264226202110039,1
+2024-04-22,Space game truth special decision.,Travel,1681.82,Expense,expense,2024-04,2024,kebutuhan_sekunder,22,0,0,7.428226236599389,1
+2024-04-23,Else pull its adult house.,Other,4431.0,Income,income,2024-04,2024,lainnya,23,1,0,8.39660622842712,0
+2024-04-25,Pretty least if.,Health & Fitness,1551.79,Expense,expense,2024-04,2024,lainnya,25,3,0,7.347808591854672,1
+2024-04-26,Peace wind guess.,Rent,359.78,Expense,expense,2024-04,2024,kebutuhan_pokok,26,4,0,5.888268354279532,1
+2024-04-26,Because career course.,Travel,1718.84,Expense,expense,2024-04,2024,kebutuhan_sekunder,26,4,0,7.449986542224753,1
+2024-04-30,Teacher decide possible.,Investment,2656.0,Income,income,2024-04,2024,tabungan,30,1,0,7.884952945759814,0
+2024-05-02,Success teach mrs beat.,Rent,1457.58,Expense,expense,2024-05,2024,kebutuhan_pokok,2,3,0,7.285218638677708,1
+2024-05-03,Listen against coach.,Food & Drink,1627.16,Expense,expense,2024-05,2024,kebutuhan_pokok,3,4,0,7.395205821831594,1
+2024-05-04,White likely teacher one.,Entertainment,1813.54,Expense,expense,2024-05,2024,kebutuhan_sekunder,4,5,1,7.5035872710505425,1
+2024-05-04,Notice street anything.,Salary,1311.28,Expense,expense,2024-05,2024,income,4,5,1,7.179521361368517,1
+2024-05-05,Piece require.,Other,2329.0,Income,income,2024-05,2024,lainnya,5,6,1,7.753623546559746,0
+2024-05-05,Say other never fact.,Travel,276.42,Expense,expense,2024-05,2024,kebutuhan_sekunder,5,6,1,5.625532603335144,1
+2024-05-14,Main opportunity particularly question.,Rent,799.6,Expense,expense,2024-05,2024,kebutuhan_pokok,14,1,0,6.685361446558473,1
+2024-05-15,Research month instead.,Entertainment,1697.48,Expense,expense,2024-05,2024,kebutuhan_sekunder,15,2,0,7.437489012435639,1
+2024-05-17,As throughout individual list manager.,Utilities,1516.84,Expense,expense,2024-05,2024,kebutuhan_pokok,17,4,0,7.325043550555878,1
+2024-05-20,Recently again explain court.,Investment,1967.0,Income,income,2024-05,2024,tabungan,20,0,0,7.584773077612199,0
+2024-05-22,Discussion detail training fund.,Utilities,1474.48,Expense,expense,2024-05,2024,kebutuhan_pokok,22,2,0,7.296738639563917,1
+2024-05-23,Third rich hospital.,Health & Fitness,90.44,Expense,expense,2024-05,2024,lainnya,23,3,0,4.515683019486556,1
+2024-05-25,Somebody son suddenly perform.,Entertainment,135.09,Expense,expense,2024-05,2024,kebutuhan_sekunder,25,5,1,4.913316431572226,1
+2024-05-26,Project can.,Food & Drink,1340.49,Expense,expense,2024-05,2024,kebutuhan_pokok,26,6,1,7.201536215495741,1
+2024-05-27,Paper beyond indeed.,Health & Fitness,782.31,Expense,expense,2024-05,2024,lainnya,27,0,0,6.663528530792404,1
+2024-05-27,Doctor news yourself.,Food & Drink,89.41,Expense,expense,2024-05,2024,kebutuhan_pokok,27,0,0,4.5043548807492755,1
+2024-05-31,Ground city still.,Rent,1410.44,Expense,expense,2024-05,2024,kebutuhan_pokok,31,4,0,7.25236573881981,1
+2024-06-01,Southern front.,Travel,1671.4,Expense,expense,2024-06,2024,kebutuhan_sekunder,1,5,1,7.42201499948241,1
+2024-06-02,Dinner no main year size.,Utilities,759.55,Expense,expense,2024-06,2024,kebutuhan_pokok,2,6,1,6.634041855757752,1
+2024-06-02,Environment character real middle prove.,Rent,1038.16,Expense,expense,2024-06,2024,kebutuhan_pokok,2,6,1,6.94616797346855,1
+2024-06-03,Sometimes while sense window.,Entertainment,1037.58,Expense,expense,2024-06,2024,kebutuhan_sekunder,3,0,0,6.945609674533106,1
+2024-06-04,Among black picture that treat.,Health & Fitness,978.85,Expense,expense,2024-06,2024,lainnya,4,1,0,6.887399498725063,1
+2024-06-06,Remain seven marriage.,Food & Drink,1008.66,Expense,expense,2024-06,2024,kebutuhan_pokok,6,3,0,6.917368919498108,1
+2024-06-07,Positive free case.,Investment,2384.0,Income,income,2024-06,2024,tabungan,7,4,0,7.776954403322442,0
+2024-06-09,Wide shoulder according strong.,Other,2232.0,Income,income,2024-06,2024,lainnya,9,6,1,7.711101251840158,0
+2024-06-10,Expert commercial entire resource.,Investment,3467.0,Income,income,2024-06,2024,tabungan,10,0,0,8.151333337900432,0
+2024-06-12,Picture early send morning.,Rent,1325.61,Expense,expense,2024-06,2024,kebutuhan_pokok,12,2,0,7.190382095130284,1
+2024-06-13,Soon including important.,Health & Fitness,1443.31,Expense,expense,2024-06,2024,lainnya,13,3,0,7.275386977852452,1
+2024-06-13,Some gun ahead certainly act.,Salary,963.25,Expense,expense,2024-06,2024,income,13,3,0,6.8713505970883375,1
+2024-06-14,Be fire.,Shopping,54.67,Expense,expense,2024-06,2024,kebutuhan_sekunder,14,4,0,4.019441402195416,1
+2024-06-15,Article service produce political.,Investment,1603.0,Income,income,2024-06,2024,tabungan,15,5,1,7.38025578842646,0
+2024-06-16,Within woman.,Food & Drink,1782.69,Expense,expense,2024-06,2024,kebutuhan_pokok,16,6,1,7.486439531224609,1
+2024-06-17,Information though red.,Investment,2615.0,Income,income,2024-06,2024,tabungan,17,0,0,7.86940171257709,0
+2024-06-21,Training account evidence month.,Shopping,1202.72,Expense,expense,2024-06,2024,kebutuhan_sekunder,21,4,0,7.0931720406833945,1
+2024-06-21,Land day name small.,Food & Drink,1758.23,Expense,expense,2024-06,2024,kebutuhan_pokok,21,4,0,7.47263149230115,1
+2024-06-22,Thought sit identify culture.,Travel,1895.04,Expense,expense,2024-06,2024,kebutuhan_sekunder,22,5,1,7.547522779638841,1
+2024-06-23,Already free.,Salary,1735.93,Expense,expense,2024-06,2024,income,23,6,1,7.459874466062339,1
+2024-06-23,Yeah exist behavior necessary miss.,Other,1669.0,Income,income,2024-06,2024,lainnya,23,6,1,7.4205789054108005,0
+2024-06-23,Agreement someone.,Utilities,1250.19,Expense,expense,2024-06,2024,kebutuhan_pokok,23,6,1,7.131850377431742,1
+2024-06-23,Strategy fight institution.,Utilities,1451.13,Expense,expense,2024-06,2024,kebutuhan_pokok,23,6,1,7.28078672305746,1
+2024-06-23,Rule success.,Salary,1197.1,Expense,expense,2024-06,2024,income,23,6,1,7.088492247645854,1
+2024-07-01,Medical buy series walk large.,Other,3657.0,Income,income,2024-07,2024,lainnya,1,0,0,8.204671828950811,0
+2024-07-05,Law work.,Investment,2157.0,Income,income,2024-07,2024,tabungan,5,4,0,7.67693714581808,0
+2024-07-06,Research visit program suddenly doctor.,Shopping,1654.76,Expense,expense,2024-07,2024,kebutuhan_sekunder,6,5,1,7.412015396905963,1
+2024-07-07,Project spring of.,Utilities,956.98,Expense,expense,2024-07,2024,kebutuhan_pokok,7,6,1,6.864826900926214,1
+2024-07-07,Mind easy foreign old.,Food & Drink,1756.73,Expense,expense,2024-07,2024,kebutuhan_pokok,7,6,1,7.471778482832203,1
+2024-07-07,Better republican stock bank.,Rent,195.45,Expense,expense,2024-07,2024,kebutuhan_pokok,7,6,1,5.280407946004469,1
+2024-07-07,Thousand live land hard.,Food & Drink,1794.97,Expense,expense,2024-07,2024,kebutuhan_pokok,7,6,1,7.493300544936444,1
+2024-07-13,Open million house enough.,Shopping,1048.87,Expense,expense,2024-07,2024,kebutuhan_sekunder,13,5,1,6.956421625962728,1
+2024-07-13,You ready way rule.,Food & Drink,1398.31,Expense,expense,2024-07,2024,kebutuhan_pokok,13,5,1,7.24373453696649,1
+2024-07-16,Certain camera represent.,Salary,1581.22,Expense,expense,2024-07,2024,income,16,1,0,7.366584203134379,1
+2024-07-20,Tell brother defense list second.,Rent,856.72,Expense,expense,2024-07,2024,kebutuhan_pokok,20,5,1,6.75427770590103,1
+2024-07-21,Tv budget system book.,Entertainment,1821.07,Expense,expense,2024-07,2024,kebutuhan_sekunder,21,6,1,7.50772849640133,1
+2024-07-22,Face mission brother figure hear.,Other,2611.0,Income,income,2024-07,2024,lainnya,22,0,0,7.867871490396322,0
+2024-07-23,Agreement central six instead.,Investment,4780.0,Income,income,2024-07,2024,tabungan,23,1,0,8.472405008626103,0
+2024-07-23,Democratic standard major.,Investment,3572.0,Income,income,2024-07,2024,tabungan,23,1,0,8.181160858023409,0
+2024-07-25,Give that individual of not.,Health & Fitness,823.6,Expense,expense,2024-07,2024,lainnya,25,3,0,6.7148984202727995,1
+2024-07-26,Little result paper seven.,Other,2577.0,Income,income,2024-07,2024,lainnya,26,4,0,7.8547691834991324,0
+2024-07-26,Seven project chance road.,Shopping,1133.69,Expense,expense,2024-07,2024,kebutuhan_sekunder,26,4,0,7.034114764856021,1
+2024-07-26,Professor important do house must.,Shopping,1512.39,Expense,expense,2024-07,2024,kebutuhan_sekunder,26,4,0,7.32210744660016,1
+2024-07-26,Position tend religious.,Salary,365.65,Expense,expense,2024-07,2024,income,26,4,0,5.904407714539809,1
+2024-07-27,Someone religious night buy nice.,Salary,515.02,Expense,expense,2024-07,2024,income,27,5,1,6.246145524420347,1
+2024-07-27,My serious whatever miss seek.,Health & Fitness,1550.65,Expense,expense,2024-07,2024,lainnya,27,5,1,7.347074159846811,1
+2024-07-27,Build view.,Utilities,1711.45,Expense,expense,2024-07,2024,kebutuhan_pokok,27,5,1,7.4456803726298455,1
+2024-07-28,Ever day.,Entertainment,898.72,Expense,expense,2024-07,2024,kebutuhan_sekunder,28,6,1,6.802083603808098,1
+2024-07-28,Be move fly open.,Utilities,209.55,Expense,expense,2024-07,2024,kebutuhan_pokok,28,6,1,5.349723154607937,1
+2024-07-29,Future congress.,Health & Fitness,1603.7,Expense,expense,2024-07,2024,lainnya,29,0,0,7.380692102205314,1
+2024-07-29,Fish either boy between collection.,Food & Drink,329.87,Expense,expense,2024-07,2024,kebutuhan_pokok,29,0,0,5.801725548986165,1
+2024-07-29,Eight bed fill.,Food & Drink,1610.7,Expense,expense,2024-07,2024,kebutuhan_pokok,29,0,0,7.3850448015286725,1
+2024-07-30,Arrive which consider.,Salary,1852.46,Expense,expense,2024-07,2024,income,30,1,0,7.524809441564824,1
+2024-07-30,Hope floor include.,Rent,533.55,Expense,expense,2024-07,2024,kebutuhan_pokok,30,1,0,6.281425271459509,1
+2024-08-01,Heart still building.,Food & Drink,1451.74,Expense,expense,2024-08,2024,kebutuhan_pokok,1,3,0,7.281206707434707,1
+2024-08-02,Sell only manage.,Shopping,1231.79,Expense,expense,2024-08,2024,kebutuhan_sekunder,2,4,0,7.1170351723571725,1
+2024-08-02,We especially five network.,Food & Drink,1891.97,Expense,expense,2024-08,2024,kebutuhan_pokok,2,4,0,7.5459023032232055,1
+2024-08-03,Ahead plant trial affect.,Salary,883.55,Expense,expense,2024-08,2024,income,3,5,1,6.7850790411146225,1
+2024-08-03,Push east never size fight.,Travel,397.55,Expense,expense,2024-08,2024,kebutuhan_sekunder,3,5,1,5.9878329608739325,1
+2024-08-08,Base player data whose.,Entertainment,1234.23,Expense,expense,2024-08,2024,kebutuhan_sekunder,8,3,0,7.11901246654034,1
+2024-08-09,World site mr interest treatment.,Health & Fitness,486.12,Expense,expense,2024-08,2024,lainnya,9,4,0,6.188510499300318,1
+2024-08-11,A let.,Investment,1211.0,Income,income,2024-08,2024,tabungan,11,6,1,7.10002716662926,0
+2024-08-14,A value lot.,Shopping,712.72,Expense,expense,2024-08,2024,kebutuhan_sekunder,14,2,0,6.570490728563228,1
+2024-08-14,Yourself successful defense subject.,Entertainment,1040.31,Expense,expense,2024-08,2024,kebutuhan_sekunder,14,2,0,6.948234814870128,1
+2024-08-14,Claim move.,Rent,1839.16,Expense,expense,2024-08,2024,kebutuhan_pokok,14,2,0,7.517607803344271,1
+2024-08-15,Bed recognize store.,Health & Fitness,701.48,Expense,expense,2024-08,2024,lainnya,15,3,0,6.55461693105174,1
+2024-08-22,There decision measure.,Entertainment,1216.66,Expense,expense,2024-08,2024,kebutuhan_sekunder,22,3,0,7.104686263160091,1
+2024-08-23,Play woman remain event.,Other,538.0,Income,income,2024-08,2024,lainnya,23,4,0,6.289715570908998,0
+2024-08-25,Decision where foreign trial.,Shopping,1017.41,Expense,expense,2024-08,2024,kebutuhan_sekunder,25,6,1,6.925997866519418,1
+2024-08-25,Participant above.,Travel,686.53,Expense,expense,2024-08,2024,kebutuhan_sekunder,25,6,1,6.533105464952325,1
+2024-08-25,Including time reflect.,Other,4906.0,Income,income,2024-08,2024,lainnya,25,6,1,8.498418036089904,0
+2024-08-27,Ball theory prepare much throughout.,Travel,1391.44,Expense,expense,2024-08,2024,kebutuhan_sekunder,27,1,0,7.238812882901851,1
+2024-08-27,Good spend still.,Salary,1542.23,Expense,expense,2024-08,2024,income,27,1,0,7.341632901526979,1
+2024-08-28,Concern should recent across.,Salary,1366.37,Expense,expense,2024-08,2024,income,28,2,0,7.220644465791894,1
+2024-08-28,View know develop after.,Food & Drink,969.12,Expense,expense,2024-08,2024,kebutuhan_pokok,28,2,0,6.877419775186018,1
+2024-08-28,Course staff personal space.,Shopping,1270.99,Expense,expense,2024-08,2024,kebutuhan_sekunder,28,2,0,7.148337882233944,1
+2024-08-30,Woman whose already.,Entertainment,1602.32,Expense,expense,2024-08,2024,kebutuhan_sekunder,30,4,0,7.379831758388803,1
+2024-09-01,Decide cultural start how thank.,Health & Fitness,1037.84,Expense,expense,2024-09,2024,lainnya,1,6,1,6.945859985015683,1
+2024-09-02,Management necessary process not.,Other,2533.0,Income,income,2024-09,2024,lainnya,2,0,0,7.837554360881084,0
+2024-09-05,Assume campaign assume.,Shopping,1350.66,Expense,expense,2024-09,2024,kebutuhan_sekunder,5,3,0,7.20908874568675,1
+2024-09-05,Talk thing rock ever summer.,Rent,1113.56,Expense,expense,2024-09,2024,kebutuhan_pokok,5,3,0,7.016214987177636,1
+2024-09-05,Pass quite third ability interview.,Other,3396.0,Income,income,2024-09,2024,lainnya,5,3,0,8.130647968160584,0
+2024-09-05,Item yet ever quite.,Travel,373.74,Expense,expense,2024-09,2024,kebutuhan_sekunder,5,3,0,5.926232452170367,1
+2024-09-06,Guess service this different.,Entertainment,1003.01,Expense,expense,2024-09,2024,kebutuhan_sekunder,6,4,0,6.911757260361435,1
+2024-09-07,Mother first hot free.,Investment,2674.0,Income,income,2024-09,2024,tabungan,7,5,1,7.891704659330107,0
+2024-09-08,Wrong difficult.,Entertainment,1671.53,Expense,expense,2024-09,2024,kebutuhan_sekunder,8,6,1,7.422092729061244,1
+2024-09-10,True culture.,Health & Fitness,320.43,Expense,expense,2024-09,2024,lainnya,10,1,0,5.7727797905777205,1
+2024-09-13,As personal agreement.,Investment,4535.0,Income,income,2024-09,2024,tabungan,13,4,0,8.419800845407588,0
+2024-09-15,Or phone.,Food & Drink,1697.54,Expense,expense,2024-09,2024,kebutuhan_pokok,15,6,1,7.437524337514683,1
+2024-09-16,East list when.,Health & Fitness,989.76,Expense,expense,2024-09,2024,lainnya,16,0,0,6.89847232538322,1
+2024-09-17,Mind door authority outside.,Travel,986.7,Expense,expense,2024-09,2024,kebutuhan_sekunder,17,1,0,6.895379007914082,1
+2024-09-17,Personal often.,Travel,801.78,Expense,expense,2024-09,2024,kebutuhan_sekunder,17,1,0,6.688080703806672,1
+2024-09-17,True help.,Utilities,117.75,Expense,expense,2024-09,2024,kebutuhan_pokok,17,1,0,4.7770204429147505,1
+2024-09-18,Artist sort area.,Salary,1879.91,Expense,expense,2024-09,2024,income,18,2,0,7.539510981266379,1
+2024-09-21,Big argue.,Other,3725.0,Income,income,2024-09,2024,lainnya,21,5,1,8.223090551161533,0
+2024-09-22,Sure i pay.,Utilities,919.82,Expense,expense,2024-09,2024,kebutuhan_pokok,22,6,1,6.825264577415059,1
+2024-09-23,Ten skin perhaps.,Other,3085.0,Income,income,2024-09,2024,lainnya,23,0,0,8.034631032923107,0
+2024-09-24,Less into per big.,Food & Drink,1351.47,Expense,expense,2024-09,2024,kebutuhan_pokok,24,1,0,7.2096878293286055,1
+2024-09-25,Military onto blue activity.,Rent,657.62,Expense,expense,2024-09,2024,kebutuhan_pokok,25,2,0,6.49014673692728,1
+2024-09-26,Smile cover of pm eight.,Travel,382.43,Expense,expense,2024-09,2024,kebutuhan_sekunder,26,3,0,5.949157074811732,1
+2024-09-26,Right know during someone.,Travel,947.98,Expense,expense,2024-09,2024,kebutuhan_sekunder,26,3,0,6.855387723572256,1
+2024-09-27,Find job where.,Health & Fitness,375.99,Expense,expense,2024-09,2024,lainnya,27,4,0,5.932218661897273,1
+2024-09-27,On must certainly.,Shopping,1404.42,Expense,expense,2024-09,2024,kebutuhan_sekunder,27,4,0,7.248091469480805,1
+2024-10-01,Owner fact wife.,Shopping,566.46,Expense,expense,2024-10,2024,kebutuhan_sekunder,1,1,0,6.341170262289905,1
+2024-10-01,Price certain down standard nice.,Investment,2372.0,Income,income,2024-10,2024,tabungan,1,1,0,7.771910256435763,0
+2024-10-02,Gas with policy cut.,Travel,1610.13,Expense,expense,2024-10,2024,kebutuhan_sekunder,2,2,0,7.38469107514165,1
+2024-10-02,Country little reality level.,Shopping,400.17,Expense,expense,2024-10,2024,kebutuhan_sekunder,2,2,0,5.994385277618959,1
+2024-10-03,Not friend federal forget bit.,Utilities,951.24,Expense,expense,2024-10,2024,kebutuhan_pokok,3,3,0,6.858817103859624,1
+2024-10-04,Detail about development discover.,Other,4592.0,Income,income,2024-10,2024,lainnya,4,4,0,8.432288684325794,0
+2024-10-04,Lose shoulder spring.,Other,4486.0,Income,income,2024-10,2024,lainnya,4,4,0,8.408939605975984,0
+2024-10-07,Hundred step according.,Food & Drink,802.82,Expense,expense,2024-10,2024,kebutuhan_pokok,7,0,0,6.68937536351695,1
+2024-10-08,Group never.,Food & Drink,438.78,Expense,expense,2024-10,2024,kebutuhan_pokok,8,1,0,6.086274601870625,1
+2024-10-09,Key place tree.,Rent,905.21,Expense,expense,2024-10,2024,kebutuhan_pokok,9,2,0,6.809271067263743,1
+2024-10-10,Wish current.,Health & Fitness,727.01,Expense,expense,2024-10,2024,lainnya,10,3,0,6.590314784366081,1
+2024-10-10,Despite energy company.,Travel,694.84,Expense,expense,2024-10,2024,kebutuhan_sekunder,10,3,0,6.545119748849328,1
+2024-10-11,Condition again successful.,Health & Fitness,1736.06,Expense,expense,2024-10,2024,lainnya,11,4,0,7.459949307958868,1
+2024-10-12,Story case.,Entertainment,1157.94,Expense,expense,2024-10,2024,kebutuhan_sekunder,12,5,1,7.055261073233525,1
+2024-10-15,Very figure drive special.,Utilities,1958.95,Expense,expense,2024-10,2024,kebutuhan_pokok,15,1,0,7.580674241695091,1
+2024-10-17,With young think there assume.,Health & Fitness,1349.65,Expense,expense,2024-10,2024,lainnya,17,3,0,7.208341237038941,1
+2024-10-17,Some court her.,Salary,1780.37,Expense,expense,2024-10,2024,income,17,3,0,7.485138010168863,1
+2024-10-18,Outside with each animal.,Travel,932.87,Expense,expense,2024-10,2024,kebutuhan_sekunder,18,4,0,6.839337242246028,1
+2024-10-19,Take family chance.,Utilities,1284.76,Expense,expense,2024-10,2024,kebutuhan_pokok,19,5,1,7.1591052621865146,1
+2024-10-19,Picture evidence.,Shopping,1266.23,Expense,expense,2024-10,2024,kebutuhan_sekunder,19,5,1,7.144588695022355,1
+2024-10-21,Why though decide bank likely.,Rent,167.43,Expense,expense,2024-10,2024,kebutuhan_pokok,21,0,0,5.126520233210295,1
+2024-10-21,Meet seem population.,Health & Fitness,640.59,Expense,expense,2024-10,2024,lainnya,21,0,0,6.463949470395929,1
+2024-10-21,Material less focus hear.,Travel,1214.72,Expense,expense,2024-10,2024,kebutuhan_sekunder,21,0,0,7.1030917728535865,1
+2024-10-23,Listen ok point so.,Salary,1564.14,Expense,expense,2024-10,2024,income,23,2,0,7.355730555842236,1
+2024-10-24,Detail data tell.,Salary,833.84,Expense,expense,2024-10,2024,income,24,3,0,6.7272400897235505,1
+2024-10-28,Fill thousand number.,Investment,1524.0,Income,income,2024-10,2024,tabungan,28,0,0,7.329749689041512,0
+2024-11-01,Nearly care base.,Travel,1881.47,Expense,expense,2024-11,2024,kebutuhan_sekunder,1,4,0,7.540340023292085,1
+2024-11-02,Goal once let perform international.,Rent,429.04,Expense,expense,2024-11,2024,kebutuhan_pokok,2,5,1,6.063878227617027,1
+2024-11-03,Important source first him.,Rent,136.95,Expense,expense,2024-11,2024,kebutuhan_pokok,3,6,1,4.926891300663295,1
+2024-11-03,Doctor population grow bar.,Food & Drink,62.47,Expense,expense,2024-11,2024,kebutuhan_pokok,3,6,1,4.150567353318379,1
+2024-11-11,National back everybody direction budget.,Rent,216.82,Expense,expense,2024-11,2024,kebutuhan_pokok,11,0,0,5.38366903364754,1
+2024-11-11,National free.,Rent,1313.12,Expense,expense,2024-11,2024,kebutuhan_pokok,11,0,0,7.180922519075668,1
+2024-11-12,Few spring raise.,Travel,466.42,Expense,expense,2024-11,2024,kebutuhan_sekunder,12,1,0,6.147228211090879,1
+2024-11-13,Relationship your your.,Salary,1256.7,Expense,expense,2024-11,2024,income,13,2,0,7.13703993505311,1
+2024-11-13,Across federal state.,Investment,734.0,Income,income,2024-11,2024,tabungan,13,2,0,6.5998704992128365,0
+2024-11-13,State serious activity pressure.,Other,3164.0,Income,income,2024-11,2024,lainnya,13,2,0,8.059908334578276,0
+2024-11-13,Dinner rich decide do.,Salary,1950.21,Expense,expense,2024-11,2024,income,13,2,0,7.576204971939828,1
+2024-11-14,Serious reveal left social fine.,Travel,1101.61,Expense,expense,2024-11,2024,kebutuhan_sekunder,14,3,0,7.005435375586613,1
+2024-11-14,Show recently decide last.,Investment,4240.0,Income,income,2024-11,2024,tabungan,14,3,0,8.352554369474591,0
+2024-11-16,Hear officer.,Shopping,1051.69,Expense,expense,2024-11,2024,kebutuhan_sekunder,16,5,1,6.9591040718296195,1
+2024-11-17,Wall act special.,Travel,1818.76,Expense,expense,2024-11,2024,kebutuhan_sekunder,17,6,1,7.506459903243607,1
+2024-11-17,Different international sell several.,Entertainment,1611.37,Expense,expense,2024-11,2024,kebutuhan_sekunder,17,6,1,7.38546042526491,1
+2024-11-17,For age size.,Health & Fitness,830.29,Expense,expense,2024-11,2024,lainnya,17,6,1,6.722978711113071,1
+2024-11-17,With yes nothing.,Investment,500.0,Income,income,2024-11,2024,tabungan,17,6,1,6.2166061010848646,0
+2024-11-18,Woman daughter hospital move.,Utilities,694.33,Expense,expense,2024-11,2024,kebutuhan_pokok,18,0,0,6.544386553017263,1
+2024-11-18,Board notice later thus.,Food & Drink,1378.66,Expense,expense,2024-11,2024,kebutuhan_pokok,18,0,0,7.229592370983903,1
+2024-11-19,Bit need allow.,Salary,606.22,Expense,expense,2024-11,2024,income,19,1,0,6.40889116361539,1
+2024-11-20,Cost attorney.,Travel,1198.04,Expense,expense,2024-11,2024,kebutuhan_sekunder,20,2,0,7.089276515605323,1
+2024-11-20,Day fact modern.,Health & Fitness,385.26,Expense,expense,2024-11,2024,lainnya,20,2,0,5.956510717844453,1
+2024-11-22,Happy action.,Shopping,795.56,Expense,expense,2024-11,2024,kebutuhan_sekunder,22,4,0,6.680302456079829,1
+2024-11-23,Hospital writer can industry.,Other,3599.0,Income,income,2024-11,2024,lainnya,23,5,1,8.1886891244442,0
+2024-11-24,Western tend candidate day.,Rent,850.26,Expense,expense,2024-11,2024,kebutuhan_pokok,24,6,1,6.746717604824971,1
+2024-11-24,City offer financial data.,Travel,576.51,Expense,expense,2024-11,2024,kebutuhan_sekunder,24,6,1,6.358725758263344,1
+2024-11-24,Cut yard knowledge.,Travel,831.68,Expense,expense,2024-11,2024,kebutuhan_sekunder,24,6,1,6.724649414699458,1
+2024-11-25,Space moment travel these least.,Utilities,281.88,Expense,expense,2024-11,2024,kebutuhan_pokok,25,0,0,5.645022779449278,1
+2024-11-25,Say explain.,Other,4209.0,Income,income,2024-11,2024,lainnya,25,0,0,8.345217926676428,0
+2024-11-25,Red republican father party.,Salary,383.7,Expense,expense,2024-11,2024,income,25,0,0,5.95246380975825,1
+2024-11-26,Eat tonight run leader.,Investment,4882.0,Income,income,2024-11,2024,tabungan,26,1,0,8.49351506406166,0
+2024-11-29,Believe recognize analysis those citizen.,Investment,2811.0,Income,income,2024-11,2024,tabungan,29,4,0,7.941651252930556,0
+2024-11-30,Project at risk.,Salary,1456.94,Expense,expense,2024-11,2024,income,30,5,1,7.284779759458451,1
+2024-12-02,In seven building hard.,Utilities,39.3,Expense,expense,2024-12,2024,kebutuhan_pokok,2,0,0,3.696351468952637,1
+2024-12-05,Short for late education.,Shopping,630.04,Expense,expense,2024-12,2024,kebutuhan_sekunder,5,3,0,6.447369251974216,1
+2024-12-06,Left available.,Health & Fitness,932.73,Expense,expense,2024-12,2024,lainnya,6,4,0,6.839187317208266,1
+2024-12-09,Gas human create also.,Health & Fitness,169.64,Expense,expense,2024-12,2024,lainnya,9,0,0,5.139556074163095,1
+2024-12-11,Remember carry.,Utilities,121.52,Expense,expense,2024-12,2024,kebutuhan_pokok,11,2,0,4.808274281964574,1
+2024-12-12,Leave bar prevent require.,Rent,1090.95,Expense,expense,2024-12,2024,kebutuhan_pokok,12,3,0,6.995720367710781,1
+2024-12-12,Likely evidence claim.,Other,3625.0,Income,income,2024-12,2024,lainnya,12,3,0,8.195885391314796,0
+2024-12-15,Beyond family movement hospital back.,Rent,1949.45,Expense,expense,2024-12,2024,kebutuhan_pokok,15,6,1,7.5758153941654385,1
+2024-12-16,Child group describe.,Shopping,1544.74,Expense,expense,2024-12,2024,kebutuhan_sekunder,16,0,0,7.3432580390663045,1
+2024-12-19,Democratic recent student specific political.,Food & Drink,406.37,Expense,expense,2024-12,2024,kebutuhan_pokok,19,3,0,6.009721863378813,1
+2024-12-19,Real know our any.,Rent,1047.07,Expense,expense,2024-12,2024,kebutuhan_pokok,19,3,0,6.954705656543505,1
+2024-12-21,Up hear draw.,Salary,784.35,Expense,expense,2024-12,2024,income,21,5,1,6.666129478289041,1
+2024-12-23,Instead writer.,Health & Fitness,325.64,Expense,expense,2024-12,2024,lainnya,23,0,0,5.78885864701132,1
+2024-12-28,Quite as when.,Rent,514.09,Expense,expense,2024-12,2024,kebutuhan_pokok,28,5,1,6.244341642677015,1
+2024-12-28,Right analysis mention.,Entertainment,727.25,Expense,expense,2024-12,2024,kebutuhan_sekunder,28,5,1,6.5906443958395435,1
+2024-12-28,No couple debate must.,Investment,1425.0,Income,income,2024-12,2024,tabungan,28,5,1,7.262628600974241,0
+2024-12-29,Discussion black follow.,Shopping,655.78,Expense,expense,2024-12,2024,kebutuhan_sekunder,29,6,1,6.487349107004673,1
+2024-12-29,Pressure activity defense detail.,Other,1480.0,Income,income,2024-12,2024,lainnya,29,6,1,7.300472814267799,0

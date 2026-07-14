@@ -1,0 +1,2 @@
+completion_rate_A,completion_rate_B,z_stat,p_value_completion,mean_score_A,mean_score_B,t_stat,p_value_score
+0.675,0.7875,1.605001128516814,0.10849355631792257,3.420851433459235,3.926901627100907,-4.431656069218607,1.772986496173477e-05

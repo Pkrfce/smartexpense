@@ -1,0 +1,11 @@
+column,type,description
+date,datetime,Tanggal transaksi
+description,string,Deskripsi transaksi
+category,string,Kategori asli transaksi
+amount,float,Nominal transaksi
+type_clean,string,Jenis transaksi: income atau expense
+month,string,Periode bulan transaksi YYYY-MM
+bucket,string,Kelompok Smart Expense
+commodity_id,string,Kelompok komoditas BPS versi Indonesia
+national_amount,float,Rata-rata pengeluaran per kapita nasional
+national_percent,float,Persentase pengeluaran nasional
