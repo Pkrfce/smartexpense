@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+streamlit
+scipy
+scikit-learn
+fpdf2
+kaleido
